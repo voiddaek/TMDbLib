@@ -583,7 +583,7 @@ namespace TMDbLibTests
                 await TMDbClient.AccountChangeFavoriteStatusAsync(MediaType.Movie, IdHelper.MadMaxFuryRoad, false);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie is NOT favourited
             accountState = await TMDbClient.GetMovieAccountStateAsync(IdHelper.MadMaxFuryRoad);
@@ -595,7 +595,7 @@ namespace TMDbLibTests
             await TMDbClient.AccountChangeFavoriteStatusAsync(MediaType.Movie, IdHelper.MadMaxFuryRoad, true);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie IS favourited
             accountState = await TMDbClient.GetMovieAccountStateAsync(IdHelper.MadMaxFuryRoad);
@@ -614,7 +614,7 @@ namespace TMDbLibTests
                 await TMDbClient.AccountChangeWatchlistStatusAsync(MediaType.Movie, IdHelper.MadMaxFuryRoad, false);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie is NOT watchlisted
             accountState = await TMDbClient.GetMovieAccountStateAsync(IdHelper.MadMaxFuryRoad);
@@ -626,7 +626,7 @@ namespace TMDbLibTests
             await TMDbClient.AccountChangeWatchlistStatusAsync(MediaType.Movie, IdHelper.MadMaxFuryRoad, true);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie IS watchlisted
             accountState = await TMDbClient.GetMovieAccountStateAsync(IdHelper.MadMaxFuryRoad);
@@ -646,7 +646,7 @@ namespace TMDbLibTests
                 Assert.True(await TMDbClient.MovieRemoveRatingAsync(IdHelper.MadMaxFuryRoad));
 
                 // Allow TMDb to cache our changes
-                Thread.Sleep(2000);
+                await Task.Delay(2000);
             }
 
             // Test that the movie is NOT rated
@@ -659,7 +659,7 @@ namespace TMDbLibTests
             await TMDbClient.MovieSetRatingAsync(IdHelper.MadMaxFuryRoad, 5);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie IS rated
             accountState = await TMDbClient.GetMovieAccountStateAsync(IdHelper.MadMaxFuryRoad);
@@ -707,7 +707,7 @@ namespace TMDbLibTests
             Assert.True(await TMDbClient.MovieSetRatingAsync(IdHelper.Avatar, newRating));
 
             // Allow TMDb to not cache our data
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Check if it worked
             Assert.Equal(newRating, (await TMDbClient.GetMovieAccountStateAsync(IdHelper.Avatar)).Rating);
@@ -716,7 +716,7 @@ namespace TMDbLibTests
             Assert.True(await TMDbClient.MovieSetRatingAsync(IdHelper.Avatar, originalRating));
 
             // Allow TMDb to not cache our data
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Check if it worked
             Assert.Equal(originalRating, (await TMDbClient.GetMovieAccountStateAsync(IdHelper.Avatar)).Rating);
@@ -793,7 +793,7 @@ namespace TMDbLibTests
                 await TMDbClient.MovieSetRatingAsync(IdHelper.TheDarkKnightRises, 5);
 
                 // Allow TMDb to update cache
-                Thread.Sleep(2000);
+                await Task.Delay(2000);
 
                 movie = await TMDbClient.GetMovieAsync(IdHelper.TheDarkKnightRises, MovieMethods.AccountStates);
             }

@@ -188,7 +188,7 @@ namespace TMDbLibTests
                 await TMDbClient.TvShowSetRatingAsync(IdHelper.BigBangTheory, 5);
 
                 // Allow TMDb to update cache
-                Thread.Sleep(2000);
+                await Task.Delay(2000);
 
                 show = await TMDbClient.GetTvShowAsync(IdHelper.BigBangTheory, TvShowMethods.AccountStates);
             }
@@ -448,7 +448,7 @@ namespace TMDbLibTests
                 await TMDbClient.AccountChangeFavoriteStatusAsync(MediaType.Tv, IdHelper.BreakingBad, false);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie is NOT favourited
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);
@@ -460,7 +460,7 @@ namespace TMDbLibTests
             await TMDbClient.AccountChangeFavoriteStatusAsync(MediaType.Tv, IdHelper.BreakingBad, true);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie IS favourited
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);
@@ -479,7 +479,7 @@ namespace TMDbLibTests
                 await TMDbClient.AccountChangeWatchlistStatusAsync(MediaType.Tv, IdHelper.BreakingBad, false);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie is NOT watchlisted
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);
@@ -491,7 +491,7 @@ namespace TMDbLibTests
             await TMDbClient.AccountChangeWatchlistStatusAsync(MediaType.Tv, IdHelper.BreakingBad, true);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie IS watchlisted
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);
@@ -511,11 +511,11 @@ namespace TMDbLibTests
                 Assert.True(await TMDbClient.TvShowRemoveRatingAsync(IdHelper.BreakingBad));
 
                 // Allow TMDb to cache our changes
-                Thread.Sleep(2000);
+                await Task.Delay(2000);
             }
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie is NOT rated
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);
@@ -527,7 +527,7 @@ namespace TMDbLibTests
             await TMDbClient.TvShowSetRatingAsync(IdHelper.BreakingBad, 5);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the movie IS rated
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);
@@ -571,7 +571,7 @@ namespace TMDbLibTests
                 Assert.True(await TMDbClient.TvShowRemoveRatingAsync(IdHelper.BreakingBad));
 
                 // Allow TMDb to cache our changes
-                Thread.Sleep(2000);
+                await Task.Delay(2000);
             }
 
             // Test that the episode is NOT rated
@@ -584,7 +584,7 @@ namespace TMDbLibTests
             await TMDbClient.TvShowSetRatingAsync(IdHelper.BreakingBad, 5);
 
             // Allow TMDb to cache our changes
-            Thread.Sleep(2000);
+            await Task.Delay(2000);
 
             // Test that the episode IS rated
             accountState = await TMDbClient.GetTvShowAccountStateAsync(IdHelper.BreakingBad);

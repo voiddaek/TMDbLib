@@ -46,9 +46,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesExtrasNone()
         {
-            // We will intentionally ignore errors reg. missing JSON as we do not request it
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations", " / external_ids");
-
             Movie movie = Config.Client.GetMovieAsync(IdHelper.AGoodDayToDieHard).Result;
 
             Assert.NotNull(movie);
@@ -66,16 +63,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesExtrasExclusive()
         {
-            // Ignore missing json
-            IgnoreMissingJson("similar.results[array] / media_type");
-
-            // We ignore the 'notes' field, as TMDb sometimes leaves it out
-            IgnoreMissingJson("release_dates.results[array].release_dates[array] / note");
-            IgnoreMissingJson(" / id");
-
-            // We will intentionally ignore errors reg. missing JSON as we do not request it
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", "alternative_titles / id", "credits / id", "keywords / id", "release_dates / id", "releases / id", "translations / id", "videos / id", " / recommendations");
-
             Config.Client.SetSessionInformation(Config.UserSessionId, SessionType.UserSession);
             TestMethodsHelper.TestGetExclusive(_methods, (id, extras) => Config.Client.GetMovieAsync(id, extras).Result, IdHelper.AGoodDayToDieHard);
         }
@@ -83,9 +70,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesImdbExtrasAll()
         {
-            // Ignore missing json
-            IgnoreMissingJson(" / id", " / videos", "alternative_titles / id", "credits / id", "keywords / id", "release_dates / id", "releases / id", "reviews.results[array] / media_type", "translations / id", "similar.results[array] / media_type", " / recommendations");
-
             Dictionary<MovieMethods, Func<Movie, object>> tmpMethods = new Dictionary<MovieMethods, Func<Movie, object>>(_methods);
             tmpMethods.Remove(MovieMethods.Videos);
 
@@ -103,12 +87,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesExtrasAll()
         {
-            // We ignore the 'notes' field, as TMDb sometimes leaves it out
-            IgnoreMissingJson("release_dates.results[array].release_dates[array] / note");
-
-            IgnoreMissingJson("similar.results[array] / media_type");
-            IgnoreMissingJson(" / id", "alternative_titles / id", "credits / id", "keywords / id", "release_dates / id", "releases / id", "translations / id", "videos / id", " / recommendations");
-
             Config.Client.SetSessionInformation(Config.UserSessionId, SessionType.UserSession);
             MovieMethods combinedEnum = _methods.Keys.Aggregate((methods, movieMethods) => methods | movieMethods);
             Movie item = Config.Client.GetMovieAsync(IdHelper.AGoodDayToDieHard, combinedEnum).Result;
@@ -119,8 +97,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesLanguage()
         {
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations");
-
             Movie movie = Config.Client.GetMovieAsync(IdHelper.AGoodDayToDieHard).Result;
             Movie movieItalian = Config.Client.GetMovieAsync(IdHelper.AGoodDayToDieHard, "it").Result;
 
@@ -157,9 +133,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGetMovieReleaseDates()
         {
-            // We ignore the 'notes' field, as TMDb sometimes leaves it out
-            IgnoreMissingJson("results[array].release_dates[array] / note");
-
             ResultContainer<ReleaseDatesContainer> resp = Config.Client.GetMovieReleaseDatesAsync(IdHelper.AGoodDayToDieHard).Result;
             Assert.NotNull(resp);
 
@@ -272,8 +245,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGetMovieWithImageLanguage()
         {
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations", " / external_ids");
-
             Movie resp = Config.Client.GetMovieAsync(IdHelper.Avatar, language: "en-US", includeImageLanguage: "en", extraMethods: MovieMethods.Images).Result;
 
             Assert.True(resp.Images.Backdrops.Count > 0);
@@ -350,9 +321,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGetMovieSimilarMovies()
         {
-            // Ignore missing json
-            IgnoreMissingJson("results[array] / media_type");
-
             SearchContainer<SearchMovie> resp = Config.Client.GetMovieSimilarAsync(IdHelper.AGoodDayToDieHard).Result;
             Assert.NotNull(resp);
 
@@ -376,9 +344,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGetMovieRecommendationsMovies()
         {
-            // Ignore missing json
-            IgnoreMissingJson("results[array] / media_type", "results[array] / popularity");
-
             SearchContainer<SearchMovie> resp = Config.Client.GetMovieRecommendationsAsync(IdHelper.AGoodDayToDieHard).Result;
             Assert.NotNull(resp);
 
@@ -427,11 +392,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGetMovieChanges()
         {
-            // Not all ChangeItem's have an iso_639_1
-            IgnoreMissingJson(" / iso_639_1");
-
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations");
-
             //GetMovieChangesAsync(int id, DateTime? startDate = null, DateTime? endDate = null)
             // FindAsync latest changed title
             Movie lastestMovie = Config.Client.GetMovieLatestAsync().Sync();
@@ -484,9 +444,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesPopularList()
         {
-            // Ignore missing json
-            IgnoreMissingJson("results[array] / media_type");
-
             SearchContainer<SearchMovie> list = Config.Client.GetMoviePopularListAsync().Result;
 
             Assert.NotNull(list);
@@ -521,9 +478,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesTopRatedList()
         {
-            // Ignore missing json
-            IgnoreMissingJson("results[array] / media_type");
-
             SearchContainer<SearchMovie> list = Config.Client.GetMovieTopRatedListAsync().Result;
 
             Assert.NotNull(list);
@@ -558,9 +512,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesNowPlayingList()
         {
-            // Ignore missing json
-            IgnoreMissingJson("results[array] / media_type");
-
             SearchContainerWithDates<SearchMovie> list = Config.Client.GetMovieNowPlayingListAsync().Result;
 
             Assert.NotNull(list);
@@ -595,9 +546,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesUpcomingList()
         {
-            // Ignore missing json
-            IgnoreMissingJson("results[array] / media_type");
-
             SearchContainerWithDates<SearchMovie> list = Config.Client.GetMovieUpcomingListAsync().Result;
 
             Assert.NotNull(list);
@@ -782,8 +730,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGetHtmlEncodedText()
         {
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations", " / external_ids");
-
             Movie item = Config.Client.GetMovieAsync(IdHelper.Furious7, "de").Result;
 
             Assert.NotNull(item);
@@ -794,8 +740,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesGet()
         {
-            IgnoreMissingJson(" / account_states", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations", " / external_ids");
-
             Movie item = Config.Client.GetMovieAsync(IdHelper.AGoodDayToDieHard).Result;
 
             Assert.NotNull(item);
@@ -845,9 +789,6 @@ namespace TMDbLibTests
         [Fact]
         public void TestMoviesExtrasAccountState()
         {
-            // Ignore certain properties
-            IgnoreMissingJson(" / id", " / alternative_titles", " / changes", " / credits", " / images", " / keywords", " / lists", " / release_dates", " / releases", " / reviews", " / similar", " / translations", " / videos", " / recommendations", " / external_ids");
-
             // Test the custom parsing code for Account State rating
             Config.Client.SetSessionInformation(Config.UserSessionId, SessionType.UserSession);
 

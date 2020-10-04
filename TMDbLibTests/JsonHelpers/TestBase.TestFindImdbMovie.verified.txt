@@ -1,0 +1,23 @@
+{
+  movie_results: [
+    {
+      original_title: 'The Terminator',
+      release_date: DateTime_1,
+      title: 'The Terminator',
+      backdrop_path: '/wh4ze6klUbeichAj603OKZwY1W5.jpg',
+      genre_ids: [
+        28,
+        878,
+        53
+      ],
+      original_language: 'en',
+      overview: 'In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the "Terminator" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?',
+      poster_path: '/qvktm0BHcnmDpul4Hz01GIazWPr.jpg',
+      vote_average: 7.6,
+      vote_count: 8705,
+      id: 218,
+      media_type: 'movie',
+      popularity: 46.479
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  first_air_date: DateTime_1,
+  name: 'Narcos',
+  original_name: 'Narcos',
+  origin_country: [
+    'US'
+  ],
+  backdrop_path: '/yJPI9e3H5fGNTWNzW2p4iSG5qdc.jpg',
+  genre_ids: [
+    80,
+    18
+  ],
+  original_language: 'en',
+  overview: "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
+  poster_path: '/rTmal9fDbwh5F0waol2hq35U4ah.jpg',
+  vote_average: 8.0,
+  vote_count: 1326,
+  id: 63351,
+  media_type: 'tv',
+  popularity: 46.115
+}

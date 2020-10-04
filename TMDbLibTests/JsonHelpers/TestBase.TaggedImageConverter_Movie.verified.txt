@@ -1,0 +1,7 @@
+{
+  media: {
+    original_title: 'Hello world',
+    media_type: 'movie'
+  },
+  media_type: 'movie'
+}

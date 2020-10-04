@@ -43,24 +43,19 @@ namespace TMDbLibTests.Helpers
         {
             // Check page 1
             TContainer results = await getter(1);
-
-            Assert.NotNull(results);
-            Assert.NotNull(results.Results);
+            
             Assert.Equal(1, results.Page);
+            Assert.NotEmpty(results.Results);
             Assert.True(results.Results.Count > 0);
             Assert.True(results.TotalResults > 0);
             Assert.True(results.TotalPages > 0);
 
             // Check page 2
             TContainer results2 = await getter(2);
-
-            Assert.NotNull(results2);
-            Assert.NotNull(results2.Results);
+            
             Assert.Equal(2, results2.Page);
-            // The page counts often don't match due to caching on the api
-            //Assert.AreEqual(results.TotalResults, results2.TotalResults);
-            //Assert.AreEqual(results.TotalPages, results2.TotalPages);
 
+            // If page 1 has all results, page 2 must be empty - else not.
             if (results.Results.Count == results.TotalResults)
                 Assert.Empty(results2.Results);
             else

@@ -20,6 +20,8 @@
 
         // TV
         public const int GameOfThrones = 1399;
+        public const int GameOfThronesSeason8 = 107971;
+        public const int GameOfThronesSeason4Episode10 = 63103;
         public const int BreakingBad = 1396;
         public const int BreakingBadSeason1Id = 3572;
         public const int BreakingBadSeason1Episode1Id = 62085;
@@ -39,7 +41,6 @@
         public const string FreebaseMidBreakingBadId = "m/03d34x8";
 
         // Persons
-        public const int PersonPartialDate = 833;
         public const int BruceWillis = 62;
         public const int HughLaurie = 41419;
         public const string ImdbBruceWillis = "nm0000246";
@@ -47,6 +48,7 @@
 
         // Collections
         public const int JamesBondCollection = 645;
+        public const int BackToTheFutureCollection = 264;
 
         // Networks
         public const int TwentiethCenturyFox = 25;
@@ -57,6 +59,13 @@
         // Credits
         public const string BruceWillisMiamiVice = "525719bb760ee3776a1835d3";
         public const string HughLaurieHouse = "5256ccf519c2956ff607ca00";
+
+        // Genres
+        public const int ActionAdventureTvGenre = 10759;
+        public const int AdventureMovieGenre = 12;
+
+        // Keywords
+        public const int AgentKeyword = 33705;
 
         // Invalid IDs
         public const int MissingMovie = 230;

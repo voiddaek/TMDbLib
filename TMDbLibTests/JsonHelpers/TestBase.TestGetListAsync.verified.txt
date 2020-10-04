@@ -1,0 +1,30 @@
+{
+  created_by: 'TMDbTestAccount',
+  items: [
+    {
+      original_title: 'Avatar',
+      release_date: DateTime_1,
+      title: 'Avatar',
+      backdrop_path: '/bIL7ENqh1egWTxN41sM2W42JqPc.jpg',
+      genre_ids: [
+        28,
+        12,
+        14,
+        878
+      ],
+      original_language: 'en',
+      overview: 'In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.',
+      poster_path: '/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg',
+      vote_average: 7.5,
+      vote_count: 22126,
+      id: 19995,
+      media_type: 'movie',
+      popularity: 74.978
+    }
+  ],
+  description: 'This is a test list',
+  id: '528349d419c2954bd21ca0a8',
+  iso_639_1: 'en',
+  item_count: 1,
+  name: 'Test list'
+}

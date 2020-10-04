@@ -1,0 +1,6 @@
+{
+  aspect_ratio: 0.66666666666667,
+  file_path: '/cPP5y15p6iU83MxQ3tEcbr5hqNR.jpg',
+  height: 1500,
+  width: 1000
+}

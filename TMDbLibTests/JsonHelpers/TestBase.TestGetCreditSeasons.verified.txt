@@ -1,0 +1,62 @@
+{
+  credit_type: 'Cast',
+  department: 'Acting',
+  id: '5256ccf519c2956ff607ca00',
+  job: 'Actor',
+  media: {
+    character: 'Gregory House',
+    id: 1408,
+    name: 'House',
+    original_name: 'House',
+    seasons: [
+      {
+        poster_path: '/4qDffrHMZRjSqiR3mVmzvAkhh54.jpg'
+      },
+      {
+        air_date: DateTime_1,
+        poster_path: '/lXBIhFheyDRA72vRQvYF1mkEF27.jpg',
+        season_number: 1
+      },
+      {
+        air_date: DateTime_2,
+        poster_path: '/muuLevUfVbpq87lWljfZ8HLga6b.jpg',
+        season_number: 3
+      },
+      {
+        air_date: DateTime_3,
+        poster_path: '/j2LxTsMhXYqfi4k9Vome8kQc26U.jpg',
+        season_number: 2
+      },
+      {
+        air_date: DateTime_4,
+        poster_path: '/fqMpdjiGe4jejxTm1NAWnhRV6CM.jpg',
+        season_number: 8
+      },
+      {
+        air_date: DateTime_5,
+        poster_path: '/z0zkn4BME4M9ycaHldChWR3m7XL.jpg',
+        season_number: 7
+      },
+      {
+        air_date: DateTime_6,
+        poster_path: '/hhcJGHhq2xMUCp2sGRrw523M7Zx.jpg',
+        season_number: 6
+      },
+      {
+        air_date: DateTime_7,
+        poster_path: '/bwE3QGVeC7E5VycnIPVzPtzpBId.jpg',
+        season_number: 5
+      },
+      {
+        air_date: DateTime_8,
+        poster_path: '/CryJFbwif5U1VViZ5EkmeomD3q.jpg',
+        season_number: 4
+      }
+    ]
+  },
+  media_type: 'tv',
+  person: {
+    id: 41419,
+    name: 'Hugh Laurie'
+  }
+}

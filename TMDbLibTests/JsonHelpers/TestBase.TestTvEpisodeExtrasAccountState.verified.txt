@@ -1,0 +1,148 @@
+{
+  account_states: {
+    rating: 5.0
+  },
+  crew: [
+    {
+      credit_id: '5256cfee19c2956ff60a280c',
+      department: 'Directing',
+      id: 157437,
+      job: 'Director',
+      name: 'James Burrows',
+      gender: 'Male'
+    },
+    {
+      credit_id: '5256cfbc19c2956ff60a0483',
+      department: 'Writing',
+      id: 160172,
+      job: 'Writer',
+      name: 'Chuck Lorre',
+      profile_path: '/ggJz5mkVzIPjiPEJcmfXS4SMK8M.jpg',
+      gender: 'Male'
+    },
+    {
+      credit_id: '5256cfbd19c2956ff60a04f0',
+      department: 'Writing',
+      id: 163528,
+      job: 'Writer',
+      name: 'Bill Prady',
+      gender: 'Male'
+    },
+    {
+      credit_id: '558819ffc3a36836ea006145',
+      department: 'Production',
+      id: 1480289,
+      job: 'Co-Producer',
+      name: 'Joe Bella'
+    },
+    {
+      credit_id: '55881a1492514179f6003f6e',
+      department: 'Production',
+      id: 1232374,
+      job: 'Producer',
+      name: 'Michael Collier'
+    },
+    {
+      credit_id: '55881a269251411efc000f6e',
+      department: 'Production',
+      id: 1480291,
+      job: 'Associate Producer',
+      name: 'Toti Levine'
+    },
+    {
+      credit_id: '55881d379251416818001c2b',
+      department: 'Costume & Make-Up',
+      id: 1480308,
+      job: 'Hairstylist',
+      name: 'Janice Zoladz'
+    },
+    {
+      credit_id: '5ba004ac92514177b2005c0c',
+      department: 'Production',
+      id: 2129931,
+      job: 'Unit Production Manager',
+      name: 'Carol Anne Miller',
+      gender: 'Female'
+    },
+    {
+      credit_id: '5ba0072cc3a3680444006f21',
+      department: 'Directing',
+      id: 2020833,
+      job: 'First Assistant Director',
+      name: 'Mark K. Samuels'
+    },
+    {
+      credit_id: '5ba0085d92514177d5005e27',
+      department: 'Directing',
+      id: 2129936,
+      job: 'Second Assistant Director',
+      name: 'Joseph Stafford'
+    },
+    {
+      credit_id: '5ba0dc3dc3a368710801d20c',
+      department: 'Production',
+      id: 1217292,
+      job: 'Consulting Producer',
+      name: 'Stephen Engel',
+      gender: 'Male'
+    },
+    {
+      credit_id: '5bb5c4a10e0a26338e009f52',
+      department: 'Directing',
+      id: 2141156,
+      job: 'Script Supervisor',
+      name: 'Marilyn Bagley'
+    },
+    {
+      credit_id: '5bb7446f9251410dc402174d',
+      department: 'Art',
+      id: 2142282,
+      job: 'Property Master',
+      name: 'Lee Lee Baird',
+      gender: 'Male'
+    },
+    {
+      credit_id: '5bbf077dc3a3682b3600e23a',
+      department: 'Sound',
+      id: 2147428,
+      job: 'Sound Re-Recording Mixer',
+      name: 'Kathy Oldham'
+    },
+    {
+      credit_id: '5bc04c6c0e0a266e59011603',
+      department: 'Production',
+      id: 2148172,
+      job: 'Production Coordinator',
+      name: 'Kathy Nawabi'
+    }
+  ],
+  guest_stars: [
+    {
+      character: 'Kurt',
+      credit_id: '5256cfc919c2956ff60a0c8f',
+      id: 1118085,
+      name: 'Brian Patrick Wade',
+      profile_path: '/w1GZvfEeGF1hAMZadDlzMDulO8L.jpg',
+      gender: 'Male'
+    },
+    {
+      character: 'Althea',
+      credit_id: '587403eec3a3681756012234',
+      id: 157085,
+      name: 'Vernee Watson-Johnson',
+      order: 163,
+      profile_path: '/g5URd4YcVrk7yYEGk4SvYzi3rml.jpg',
+      gender: 'Female'
+    }
+  ],
+  air_date: DateTime_1,
+  name: 'Pilot',
+  overview: 'Brilliant physicist roommates Leonard and Sheldon meet their new neighbor Penny, who begins showing them that as much as they know about science, they know little about actual living.',
+  production_code: '276023',
+  still_path: '/rxWlBXZhGWhumbLB8gAHyyW3ITD.jpg',
+  vote_average: 7.015,
+  vote_count: 67,
+  id: 64766,
+  season_number: 1,
+  episode_number: 1
+}

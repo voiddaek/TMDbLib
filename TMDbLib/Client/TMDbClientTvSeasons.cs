@@ -99,16 +99,6 @@ namespace TMDbLib.Client
             return item;
         }
 
-        public async Task<ChangesContainer> GetTvSeasonChangesAsync(int seasonId, CancellationToken cancellationToken = default(CancellationToken))
-        {
-            RestRequest req = _client.Create("tv/season/{id}/changes");
-            req.AddUrlSegment("id", seasonId.ToString(CultureInfo.InvariantCulture));
-
-            RestResponse<ChangesContainer> response = await req.ExecuteGet<ChangesContainer>(cancellationToken).ConfigureAwait(false);
-
-            return response;
-        }
-
         /// <summary>
         /// Returns a credits object for the season of the tv show associated with the provided TMDb id.
         /// </summary>

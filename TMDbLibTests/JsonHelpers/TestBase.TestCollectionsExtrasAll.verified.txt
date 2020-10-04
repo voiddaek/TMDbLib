@@ -1,0 +1,681 @@
+{
+  backdrop_path: '/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg',
+  id: 264,
+  images: {
+    backdrops: [
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg',
+        height: 1080,
+        vote_average: 5.442,
+        vote_count: 5,
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/cR2w1mVyiJ566scKTSL0PV6lSUd.jpg',
+        height: 1080,
+        iso_639_1: 'en',
+        vote_average: 5.317460317460317,
+        vote_count: 3,
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/AqQotqj7XOI6GjB28nhMMa8YzOT.jpg',
+        height: 1080,
+        vote_average: 5.312,
+        vote_count: 1,
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.778645833333333,
+        file_path: '/vT2uHqlVI4fYIzz7gzJQTzSYRp0.jpg',
+        height: 768,
+        iso_639_1: 'en',
+        vote_average: 5.287114845938375,
+        vote_count: 5,
+        width: 1366
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/jtrn95ywF0OsGo9GiSW32RJJNhT.jpg',
+        height: 720,
+        iso_639_1: 'en',
+        vote_average: 5.266955266955266,
+        vote_count: 3,
+        width: 1280
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/yA5agyeoT93cWtcHa91ubR2mB5P.jpg',
+        height: 1080,
+        iso_639_1: 'en',
+        vote_average: 5.260416666666666,
+        vote_count: 1,
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/jahCHmGrfVg66FWhwkibjJyszHT.jpg',
+        height: 1080,
+        vote_average: 5.23,
+        vote_count: 2,
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/yzAzFSdGN1J9ayd1o8aLiIU8qOe.jpg',
+        height: 1080,
+        vote_average: 5.172,
+        vote_count: 1,
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.778645833333333,
+        file_path: '/5sdh27klVcZgnuMfYlSkBgZB8cf.jpg',
+        height: 768,
+        iso_639_1: 'en',
+        vote_average: 5.172,
+        vote_count: 1,
+        width: 1366
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/peNuklOvW2VRJJQtAsNZA5dckmO.jpg',
+        height: 1080,
+        iso_639_1: 'de',
+        width: 1920
+      },
+      {
+        aspect_ratio: 1.777777777777778,
+        file_path: '/cTewXhKH30R24QBXX4bEJgH9CZp.jpg',
+        height: 1080,
+        iso_639_1: 'ru',
+        width: 1920
+      }
+    ],
+    posters: [
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/nykumUbCw1o43fHGkRqj9hO2c2h.jpg',
+        height: 1500,
+        iso_639_1: 'fr',
+        vote_average: 5.454,
+        vote_count: 3,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/qnJry6ppAAQy5pElK4SkoSNfJnF.jpg',
+        height: 1500,
+        iso_639_1: 'it',
+        vote_average: 5.39,
+        vote_count: 3,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/78z0WMBzBWOnCsXWulihPJKCToL.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.388,
+        vote_count: 4,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/yLGCo43ODdCAR0pny491aPoz4ZK.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.384,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/t5j8JsxCYpUEYYVYWCmZLtP6vWO.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        vote_average: 5.384,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/UV8VEgAxgKVnCVnZhFACmhxjE4.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.322,
+        vote_count: 5,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.7242120343839542,
+        file_path: '/e7xkfvdaB97Q2rxFbvpi3GVmyAd.jpg',
+        height: 1396,
+        iso_639_1: 'hu',
+        vote_average: 5.3125,
+        vote_count: 1,
+        width: 1011
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/8sqpH7lGZuvima0PUZLCh7slLXD.jpg',
+        height: 1500,
+        iso_639_1: 'it',
+        vote_average: 5.312,
+        vote_count: 1,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6661991584852734,
+        file_path: '/duJI6UkcknZPCEXwDlemHQGupX5.jpg',
+        height: 1426,
+        iso_639_1: 'ru',
+        vote_average: 5.312,
+        vote_count: 1,
+        width: 950
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/1r9tfyDI92odJrZLO4NMTCf0cBp.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.312,
+        vote_count: 1,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/izf7qXB3vvcU43otcDaVIkzMOMZ.jpg',
+        height: 2100,
+        iso_639_1: 'de',
+        vote_average: 5.267857142857143,
+        vote_count: 1,
+        width: 1400
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/lxVx97WUvmJzQmgyLxwF2EWnYJ5.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.258,
+        vote_count: 6,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.7012622720897616,
+        file_path: '/n7AhnUSfeHBOfwCEsgXK8oZXkkB.jpg',
+        height: 1426,
+        iso_639_1: 'en',
+        vote_average: 5.252,
+        vote_count: 4,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/8WCRlqs6BzNJXso5MBK9ahujdK4.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        vote_average: 5.252,
+        vote_count: 4,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/oRa6N7uB6Z6X3j06yygjhQqzGfx.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.246,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/uS3jAM1jWx82o9qAJxwX5cmURzy.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.246,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/x5nwgXk4PwQsD9vGqe259niwjlH.jpg',
+        height: 3000,
+        iso_639_1: 'ru',
+        vote_average: 5.246,
+        vote_count: 2,
+        width: 2000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/shf5zYpkwXMaWCc5NckEon0mO2n.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.246,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/pzZ9RBI2vwiSHOEPWNVxPIGEBhr.jpg',
+        height: 1500,
+        iso_639_1: 'es',
+        vote_average: 5.246,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/9IJ38n9wUylszaYd8XAVLuYl7Yl.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.246,
+        vote_count: 2,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/jRbEqob0GUozOxx59l1mdpyL7oB.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.238,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.703771849126035,
+        file_path: '/9u8pzIOpW0ZkUsCxtBxCTegGFGl.jpg',
+        height: 1087,
+        iso_639_1: 'it',
+        vote_average: 5.224089635854342,
+        vote_count: 5,
+        width: 765
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/uY0YpfjWwSdc6Q9dDfHiJ27zAw0.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.21,
+        vote_count: 4,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/eynUqd7dcg1RNnbkscHhW6hvRXf.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.204,
+        vote_count: 7,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/51J1AroyQ45V8DCJnfItFUaKFxL.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.198,
+        vote_count: 7,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/goDJLIbBSngWks6Vrxy327tLJq4.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.19,
+        vote_count: 5,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/lDgFnn7GPU2tVQdPvWdx5CnfmQm.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.182,
+        vote_count: 6,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/duKOInEGGHoV1WCZs4YrwnEYsCV.jpg',
+        height: 750,
+        iso_639_1: 'fr',
+        vote_average: 5.18,
+        vote_count: 3,
+        width: 500
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/lEHpmTCR2EJ4BQa7p4mvCzaWJZM.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.172,
+        vote_count: 1,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.667,
+        file_path: '/kzAMMjhMLpzJYFBewOMX6ODczrv.jpg',
+        height: 2000,
+        iso_639_1: 'en',
+        vote_average: 5.172,
+        vote_count: 1,
+        width: 1334
+      },
+      {
+        aspect_ratio: 0.7013333333333334,
+        file_path: '/lA4NgNniRE8AAOCjQ0THXV2vTPU.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        vote_average: 5.172,
+        vote_count: 1,
+        width: 1052
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/2YH4w1vGBdUl1aZM5nB08evIWqY.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        vote_average: 5.163690476190476,
+        vote_count: 1,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/qdVjh8PWGWqbssVqdwZIgr7Ckts.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        vote_average: 5.138,
+        vote_count: 13,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/nl2eKXzypfp3dtcDJs4NHeeUhaq.jpg',
+        height: 1500,
+        iso_639_1: 'fr',
+        vote_average: 5.128,
+        vote_count: 6,
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6976744186046512,
+        file_path: '/qaK6XKvOgmfzHiHRm1Hsi74AR2x.jpg',
+        height: 860,
+        iso_639_1: 'es',
+        vote_average: 5.106,
+        vote_count: 2,
+        width: 600
+      },
+      {
+        aspect_ratio: 0.7090909090909091,
+        file_path: '/A7qqdojCWc11x60rTY4tfsuIyPi.jpg',
+        height: 1100,
+        iso_639_1: 'en',
+        vote_average: 5.068,
+        vote_count: 4,
+        width: 780
+      },
+      {
+        aspect_ratio: 0.7459165154264973,
+        file_path: '/ioRfxaFko3GmoQor5XL3WXULUjg.jpg',
+        height: 1102,
+        iso_639_1: 'fr',
+        vote_average: 5.036,
+        vote_count: 3,
+        width: 822
+      },
+      {
+        aspect_ratio: 0.6871794871794872,
+        file_path: '/xFUr74qFewh9QMOKWjO0TPhXDPY.jpg',
+        height: 975,
+        iso_639_1: 'en',
+        vote_average: 5.008,
+        vote_count: 5,
+        width: 670
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/sNVWvLQInfQJmGBZhnzQJwAi4vz.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/z4jrzZ3WK4OGNPEsMZLAo2wecAi.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/az6kgt25W6CODDB84LbcgWuSOEM.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/e8LnyYhejQ66mefJ5Ph9hRlDhoW.jpg',
+        height: 1500,
+        iso_639_1: 'ru',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/TOUyFMNafpZBY8f7AgKhJwBMmB.jpg',
+        height: 1500,
+        iso_639_1: 'ru',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/oDrGpMc963vAQDzz8RaBsPQCQJP.jpg',
+        height: 1500,
+        iso_639_1: 'ru',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/5Xsu2o5IsZRuuxCEVZ9nVve21FP.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/eGu0arj9NI46V8s0Du733p0Wh1N.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/pFyMoSpQ49ricCYWO6Szn6tP6uH.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/jJf7x94O7ITdsUlms2qfqxePT8O.jpg',
+        height: 1500,
+        iso_639_1: 'sk',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/X0Q4hN36lvk9G81gFOc3BxrrDC.jpg',
+        height: 1500,
+        iso_639_1: 'sk',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/cGYgoNoMKNRY1Cw3LrRcqckjZI3.jpg',
+        height: 1500,
+        iso_639_1: 'de',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/dDu6asrTnQEfwOQyNPMgz2FQtFl.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/wSGK8j273IYSSIidoPech2ZUYOS.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/vYrchWnD3yiH596tL2k48jwqPOg.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/sNE6W1TrfVk8F187ung82Wd2Ny3.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/shYLe4qLOj3gQfeGcfhXPBoD2aG.jpg',
+        height: 1500,
+        iso_639_1: 'en',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/jmHrF4uwIOp3P53BswPRegClNJf.jpg',
+        height: 1500,
+        iso_639_1: 'hu',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/yRkeO9K1lazNRrCaQqzhrzh60T8.jpg',
+        height: 3000,
+        iso_639_1: 'it',
+        width: 2000
+      },
+      {
+        aspect_ratio: 0.7012622720897616,
+        file_path: '/wsIM0k33XebH5SmPBiUvy4cVVKf.jpg',
+        height: 1426,
+        iso_639_1: 'it',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.7012622720897616,
+        file_path: '/6XeTQNdsd4CtUDvXOTxtisl827V.jpg',
+        height: 1426,
+        iso_639_1: 'it',
+        width: 1000
+      },
+      {
+        aspect_ratio: 0.7269372693726938,
+        file_path: '/pexaSIjD6e2uSPS2hCvWKyhFlxh.jpg',
+        height: 813,
+        iso_639_1: 'uk',
+        width: 591
+      },
+      {
+        aspect_ratio: 0.6931407942238267,
+        file_path: '/niKyGSJnkFRkMh89qwNQ1M8ZLLr.jpg',
+        height: 2216,
+        iso_639_1: 'de',
+        width: 1536
+      },
+      {
+        aspect_ratio: 0.7142857142857143,
+        file_path: '/7QtKP1QZcCZTIGhMcQwOCYnbxjC.jpg',
+        height: 700,
+        iso_639_1: 'hu',
+        width: 500
+      },
+      {
+        aspect_ratio: 0.6666666666666666,
+        file_path: '/m3grRdVqV48ubeJu3Tifp5Q8bOx.jpg',
+        height: 1500,
+        iso_639_1: 'pt',
+        width: 1000
+      }
+    ]
+  },
+  name: 'Back to the Future Collection',
+  overview: 'An American science fiction–comedy film series that follows the adventures of a high school student, Marty McFly and an eccentric scientist, Dr Emmett L. Brown as they use a DeLorean time machine to time travel to different periods in the history of Hill Valley, California.',
+  parts: [
+    {
+      original_title: 'Back to the Future',
+      release_date: DateTime_1,
+      title: 'Back to the Future',
+      backdrop_path: '/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg',
+      genre_ids: [
+        12,
+        35,
+        878,
+        10751
+      ],
+      original_language: 'en',
+      overview: "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      poster_path: '/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg',
+      vote_average: 8.3,
+      vote_count: 13878,
+      id: 105,
+      media_type: 'movie',
+      popularity: 42.978
+    },
+    {
+      original_title: 'Back to the Future Part II',
+      release_date: DateTime_2,
+      title: 'Back to the Future Part II',
+      backdrop_path: '/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg',
+      genre_ids: [
+        12,
+        35,
+        10751,
+        878
+      ],
+      original_language: 'en',
+      overview: 'Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.',
+      poster_path: '/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg',
+      vote_average: 7.7,
+      vote_count: 8844,
+      id: 165,
+      media_type: 'movie',
+      popularity: 25.711
+    },
+    {
+      original_title: 'Back to the Future Part III',
+      release_date: DateTime_3,
+      title: 'Back to the Future Part III',
+      backdrop_path: '/h19AyhXRTODs0DTiOLhUYihkFF8.jpg',
+      genre_ids: [
+        12,
+        35,
+        878
+      ],
+      original_language: 'en',
+      overview: 'The final installment of the Back to the Future trilogy finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.',
+      poster_path: '/cZO1zLEFACR06FwpXN9urvmoulR.jpg',
+      vote_average: 7.4,
+      vote_count: 7091,
+      id: 196,
+      media_type: 'movie',
+      popularity: 20.613
+    }
+  ],
+  poster_path: '/78z0WMBzBWOnCsXWulihPJKCToL.jpg'
+}

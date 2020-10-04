@@ -1,0 +1,104 @@
+{
+  backdrop_path: '/js3J4SBiRfLvmRzaHoTA2tpKROw.jpg',
+  belongs_to_collection: {
+    backdrop_path: '/5kHVblr87FUScuab1PVSsK692IL.jpg',
+    id: 1570,
+    name: 'Die Hard Collection',
+    poster_path: '/xhnb5lVfwE7NHycdPNdIxHx7kZi.jpg'
+  },
+  budget: 92000000,
+  genres: [
+    {
+      id: 28,
+      name: 'Action'
+    },
+    {
+      id: 53,
+      name: 'Thriller'
+    }
+  ],
+  homepage: 'http://www.diehardmovie.com/',
+  id: 47964,
+  imdb_id: 'tt1606378',
+  original_language: 'en',
+  original_title: 'A Good Day to Die Hard',
+  overview: 'Iconoclastic, take-no-prisoners cop John McClane, finds himself for the first time on foreign soil after traveling to Moscow to help his wayward son Jack - unaware that Jack is really a highly-trained CIA operative out to stop a nuclear weapons heist. With the Russian underworld in pursuit, and battling a countdown to war, the two McClanes discover that their opposing methods make them unstoppable heroes.',
+  popularity: 33.958,
+  poster_path: '/9Zq88w35f1PpM22TIbf2amtjHD6.jpg',
+  production_companies: [
+    {
+      id: 2735,
+      name: 'Mid Atlantic Films',
+      origin_country: 'HU'
+    },
+    {
+      id: 290,
+      name: 'Ingenious Media',
+      logo_path: '/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png',
+      origin_country: 'GB'
+    },
+    {
+      id: 444,
+      name: 'Dune Entertainment',
+      logo_path: '/42UPdZl6B2cFXgNUASR8hSt9mpS.png',
+      origin_country: 'US'
+    },
+    {
+      id: 10893,
+      name: 'Big Screen Productions',
+      origin_country: ''
+    },
+    {
+      id: 12292,
+      name: 'Temple Hill Entertainment',
+      logo_path: '/llGRXF5WYUW2fzXg0ebCoKMXjmT.png',
+      origin_country: 'US'
+    },
+    {
+      id: 22213,
+      name: 'TSG Entertainment',
+      logo_path: '/qx9K6bFWJupwde0xQDwOvXkOaL8.png',
+      origin_country: 'US'
+    },
+    {
+      id: 34396,
+      name: 'Giant Pictures',
+      origin_country: ''
+    },
+    {
+      id: 34397,
+      name: 'Origo Film Group',
+      origin_country: ''
+    },
+    {
+      id: 25,
+      name: '20th Century Fox',
+      logo_path: '/qZCc1lty5FzX30aOCVRBLzaVmcp.png',
+      origin_country: 'US'
+    }
+  ],
+  production_countries: [
+    {
+      Iso_3166_1: 'US',
+      Name: 'United States of America'
+    }
+  ],
+  release_date: DateTime_1,
+  revenue: 304654182,
+  runtime: 98,
+  spoken_languages: [
+    {
+      Iso_639_1: 'en',
+      Name: 'English'
+    },
+    {
+      Iso_639_1: 'ru',
+      Name: 'Pусский'
+    }
+  ],
+  status: 'Released',
+  tagline: 'Yippee Ki-Yay Mother Russia',
+  title: 'A Good Day to Die Hard',
+  vote_average: 5.3,
+  vote_count: 4955
+}

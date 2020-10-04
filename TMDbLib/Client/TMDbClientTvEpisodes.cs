@@ -98,16 +98,6 @@ namespace TMDbLib.Client
             return item;
         }
 
-        public async Task<ChangesContainer> GetTvEpisodeChangesAsync(int episodeId, CancellationToken cancellationToken = default(CancellationToken))
-        {
-            RestRequest req = _client.Create("tv/episode/{id}/changes");
-            req.AddUrlSegment("id", episodeId.ToString(CultureInfo.InvariantCulture));
-
-            RestResponse<ChangesContainer> response = await req.ExecuteGet<ChangesContainer>(cancellationToken).ConfigureAwait(false);
-
-            return response;
-        }
-
         public async Task<ResultContainer<TvEpisodeInfo>> GetTvEpisodesScreenedTheatricallyAsync(int tvShowId, CancellationToken cancellationToken = default(CancellationToken))
         {
             RestRequest req = _client.Create("tv/{tv_id}/screened_theatrically");

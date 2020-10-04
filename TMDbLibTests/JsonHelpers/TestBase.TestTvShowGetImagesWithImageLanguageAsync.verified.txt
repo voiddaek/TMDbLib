@@ -1,0 +1,18 @@
+{
+  backdrop: {
+    aspect_ratio: 1.777777777777778,
+    file_path: '/otCnAN1edreRudT5E2OHk8beiDu.jpg',
+    height: 1080,
+    iso_639_1: 'en',
+    width: 1920
+  },
+  poster: {
+    aspect_ratio: 0.6666666666666666,
+    file_path: '/ggFHVNu6YYI5L9pCfOacjizRGt.jpg',
+    height: 1800,
+    iso_639_1: 'en',
+    vote_average: 5.522,
+    vote_count: 6,
+    width: 1200
+  }
+}

@@ -11,3 +11,7 @@ packages/
 # Project specific
 TestApplication/config.json
 *.lock.json
+
+# Verify
+# https://github.com/VerifyTests/Verify#received-and-verified
+*.received.*

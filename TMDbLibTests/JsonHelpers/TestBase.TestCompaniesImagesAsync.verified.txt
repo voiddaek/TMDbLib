@@ -1,0 +1,4 @@
+{
+  url: 'http://image.tmdb.org/t/p/original/nM2MfoMqzJQRiSynsDabOtFKetD.png',
+  urlSecure: 'https://image.tmdb.org/t/p/original/nM2MfoMqzJQRiSynsDabOtFKetD.png'
+}

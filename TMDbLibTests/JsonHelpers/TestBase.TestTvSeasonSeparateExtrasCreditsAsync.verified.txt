@@ -1,0 +1,205 @@
+{
+  cast: [
+    {
+      character: 'Walter White',
+      credit_id: '52542282760ee313280017f9',
+      id: 17419,
+      name: 'Bryan Cranston',
+      profile_path: '/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg',
+      gender: 'Male'
+    },
+    {
+      character: 'Skyler White',
+      credit_id: '52542282760ee3132800181b',
+      id: 134531,
+      name: 'Anna Gunn',
+      order: 2,
+      profile_path: '/adppyeu1a4REN3khtgmXusrapFi.jpg',
+      gender: 'Female'
+    },
+    {
+      character: 'Jesse Pinkman',
+      credit_id: '52542282760ee31328001845',
+      id: 84497,
+      name: 'Aaron Paul',
+      order: 1,
+      profile_path: '/u8UdsB9yenM4uHEjmce4nkBn48X.jpg',
+      gender: 'Male'
+    },
+    {
+      character: 'Hank Schrader',
+      credit_id: '52542283760ee3132800187b',
+      id: 14329,
+      name: 'Dean Norris',
+      order: 3,
+      profile_path: '/fXbHgZxCEclcTxV8MpeBXhe2OJS.jpg',
+      gender: 'Male'
+    },
+    {
+      character: 'Marie Schrader',
+      credit_id: '52542283760ee31328001891',
+      id: 1217934,
+      name: 'Betsy Brandt',
+      order: 4,
+      profile_path: '/zmhhPmXnwjSzVyoTVL93i1EkLRK.jpg',
+      gender: 'Female'
+    },
+    {
+      character: 'Walter White Jr.',
+      credit_id: '52542284760ee313280018a9',
+      id: 209674,
+      name: 'RJ Mitte',
+      order: 5,
+      profile_path: '/aG6NYV2EgzBFLRIl7vvbtd7go1j.jpg',
+      gender: 'Male'
+    }
+  ],
+  crew: [
+    {
+      credit_id: '52542287760ee31328001af1',
+      department: 'Production',
+      id: 66633,
+      job: 'Executive Producer',
+      name: 'Vince Gilligan',
+      profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542287760ee31328001b69',
+      department: 'Production',
+      id: 5162,
+      job: 'Executive Producer',
+      name: 'Mark Johnson',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542288760ee31328001b83',
+      department: 'Production',
+      id: 29779,
+      job: 'Executive Producer',
+      name: 'Michelle MacLaren',
+      gender: 'Female'
+    },
+    {
+      credit_id: '52b7034f19c2955402184de6',
+      department: 'Costume & Make-Up',
+      id: 35583,
+      job: 'Costume Design',
+      name: 'Kathleen Detoro'
+    },
+    {
+      credit_id: '52b7008819c29559eb03dd72',
+      department: 'Sound',
+      id: 1280070,
+      job: 'Original Music Composer',
+      name: 'Dave Porter',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52b7020b19c295223b0a46e8',
+      department: 'Art',
+      id: 21640,
+      job: 'Production Design',
+      name: 'Robb Wilson King',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542287760ee31328001b07',
+      department: 'Production',
+      id: 1218856,
+      job: 'Producer',
+      name: 'Patty Lin',
+      gender: 'Female'
+    },
+    {
+      credit_id: '52542287760ee31328001b27',
+      department: 'Production',
+      id: 29924,
+      job: 'Producer',
+      name: 'John Shiban',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542289760ee31328001b9d',
+      department: 'Production',
+      id: 1223199,
+      job: 'Producer',
+      name: 'Melissa Bernstein',
+      gender: 'Female'
+    },
+    {
+      credit_id: '52542289760ee31328001bb3',
+      department: 'Production',
+      id: 1223194,
+      job: 'Producer',
+      name: 'Sam Catlin',
+      profile_path: '/5Xt7ONeJpF3x2XZ9JwQO9vGDuJ1.jpg',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542289760ee31328001bd1',
+      department: 'Production',
+      id: 24951,
+      job: 'Producer',
+      name: 'Peter Gould',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542289760ee31328001be9',
+      department: 'Production',
+      id: 1223193,
+      job: 'Producer',
+      name: 'George Mastras',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542289760ee31328001c03',
+      department: 'Production',
+      id: 103009,
+      job: 'Producer',
+      name: 'Thomas Schnauz',
+      gender: 'Male'
+    },
+    {
+      credit_id: '5254228a760ee31328001c1d',
+      department: 'Production',
+      id: 1223200,
+      job: 'Producer',
+      name: 'Stewart Lyons'
+    },
+    {
+      credit_id: '5254228c760ee31328001c37',
+      department: 'Production',
+      id: 1223201,
+      job: 'Producer',
+      name: 'Karen Moore'
+    },
+    {
+      credit_id: '5254228c760ee31328001c6d',
+      department: 'Production',
+      id: 1223198,
+      job: 'Producer',
+      name: 'Moira Walley-Beckett',
+      profile_path: '/nysIQz4lEMqar1Bd3gBaCzuwSde.jpg',
+      gender: 'Female'
+    },
+    {
+      credit_id: '5254228d760ee31328001cc7',
+      department: 'Production',
+      id: 17419,
+      job: 'Producer',
+      name: 'Bryan Cranston',
+      profile_path: '/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg',
+      gender: 'Male'
+    },
+    {
+      credit_id: '5254228e760ee31328001ce1',
+      department: 'Production',
+      id: 1223202,
+      job: 'Producer',
+      name: 'Diane Mercer',
+      gender: 'Female'
+    }
+  ],
+  id: 3572
+}

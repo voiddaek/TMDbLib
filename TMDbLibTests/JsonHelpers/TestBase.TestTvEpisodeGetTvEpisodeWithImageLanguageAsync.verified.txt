@@ -1,0 +1,45 @@
+{
+  id: 62085,
+  stills: [
+    {
+      aspect_ratio: 1.777777777777778,
+      file_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
+      height: 1080,
+      vote_average: 5.3125,
+      vote_count: 1,
+      width: 1920
+    },
+    {
+      aspect_ratio: 1.777777777777778,
+      file_path: '/88Z0fMP8a88EpQWMCs1593G0ngu.jpg',
+      height: 1080,
+      vote_average: 5.282738095238095,
+      vote_count: 1,
+      width: 1920
+    },
+    {
+      aspect_ratio: 1.777777777777778,
+      file_path: '/kdvMh2q0iexchzBwnaN3o0ZpxrC.jpg',
+      height: 1080,
+      width: 1920
+    },
+    {
+      aspect_ratio: 1.777777777777778,
+      file_path: '/u90Ryx8OztC5OeVTXHPcZ8fnKoA.jpg',
+      height: 1080,
+      width: 1920
+    },
+    {
+      aspect_ratio: 1.777777777777778,
+      file_path: '/37TsVQ1YU7nkfuqD1iES6EzIQcw.jpg',
+      height: 1080,
+      width: 1920
+    },
+    {
+      aspect_ratio: 1.476014760147601,
+      file_path: '/2IksiG9RPQ4lxYxgiKEhns0N4Zx.jpg',
+      height: 271,
+      width: 400
+    }
+  ]
+}

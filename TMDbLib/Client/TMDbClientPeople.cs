@@ -13,6 +13,35 @@ namespace TMDbLib.Client
 {
     public partial class TMDbClient
     {
+        private async Task<T> GetPersonMethodInternal<T>(int personId, PersonMethods personMethod, string dateFormat = null, string country = null, string language = null,
+            int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default) where T : new()
+        {
+            RestRequest req = _client.Create("person/{personId}/{method}");
+            req.AddUrlSegment("personId", personId.ToString());
+            req.AddUrlSegment("method", personMethod.GetDescription());
+
+            // TODO: Dateformat?
+            //if (dateFormat != null)
+            //    req.DateFormat = dateFormat;
+
+            if (country != null)
+                req.AddParameter("country", country);
+            language = language ?? DefaultLanguage;
+            if (!string.IsNullOrWhiteSpace(language))
+                req.AddParameter("language", language);
+
+            if (page >= 1)
+                req.AddParameter("page", page.ToString());
+            if (startDate.HasValue)
+                req.AddParameter("startDate", startDate.Value.ToString("yyyy-MM-dd"));
+            if (endDate != null)
+                req.AddParameter("endDate", endDate.Value.ToString("yyyy-MM-dd"));
+
+            RestResponse<T> resp = await req.ExecuteGet<T>(cancellationToken).ConfigureAwait(false);
+
+            return resp;
+        }
+
         public async Task<Person> GetLatestPersonAsync(CancellationToken cancellationToken = default)
         {
             RestRequest req = _client.Create("person/latest");
@@ -77,12 +106,12 @@ namespace TMDbLib.Client
 
         public async Task<ExternalIdsPerson> GetPersonExternalIdsAsync(int personId, CancellationToken cancellationToken = default)
         {
-            return await GetPersonMethod<ExternalIdsPerson>(personId, PersonMethods.ExternalIds, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetPersonMethodInternal<ExternalIdsPerson>(personId, PersonMethods.ExternalIds, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         public async Task<ProfileImages> GetPersonImagesAsync(int personId, CancellationToken cancellationToken = default)
         {
-            return await GetPersonMethod<ProfileImages>(personId, PersonMethods.Images, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetPersonMethodInternal<ProfileImages>(personId, PersonMethods.Images, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         public async Task<SearchContainer<PersonResult>> GetPersonListAsync(PersonListType type, int page = 0, CancellationToken cancellationToken = default)
@@ -109,35 +138,6 @@ namespace TMDbLib.Client
             return resp;
         }
 
-        private async Task<T> GetPersonMethod<T>(int personId, PersonMethods personMethod, string dateFormat = null, string country = null, string language = null,
-                                        int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default) where T : new()
-        {
-            RestRequest req = _client.Create("person/{personId}/{method}");
-            req.AddUrlSegment("personId", personId.ToString());
-            req.AddUrlSegment("method", personMethod.GetDescription());
-
-            // TODO: Dateformat?
-            //if (dateFormat != null)
-            //    req.DateFormat = dateFormat;
-
-            if (country != null)
-                req.AddParameter("country", country);
-            language = language ?? DefaultLanguage;
-            if (!string.IsNullOrWhiteSpace(language))
-                req.AddParameter("language", language);
-
-            if (page >= 1)
-                req.AddParameter("page", page.ToString());
-            if (startDate.HasValue)
-                req.AddParameter("startDate", startDate.Value.ToString("yyyy-MM-dd"));
-            if (endDate != null)
-                req.AddParameter("endDate", endDate.Value.ToString("yyyy-MM-dd"));
-
-            RestResponse<T> resp = await req.ExecuteGet<T>(cancellationToken).ConfigureAwait(false);
-
-            return resp;
-        }
-
         public async Task<MovieCredits> GetPersonMovieCreditsAsync(int personId, CancellationToken cancellationToken = default)
         {
             return await GetPersonMovieCreditsAsync(personId, DefaultLanguage, cancellationToken).ConfigureAwait(false);
@@ -145,7 +145,7 @@ namespace TMDbLib.Client
 
         public async Task<MovieCredits> GetPersonMovieCreditsAsync(int personId, string language, CancellationToken cancellationToken = default)
         {
-            return await GetPersonMethod<MovieCredits>(personId, PersonMethods.MovieCredits, language: language, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetPersonMethodInternal<MovieCredits>(personId, PersonMethods.MovieCredits, language: language, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         public async Task<SearchContainerWithId<TaggedImage>> GetPersonTaggedImagesAsync(int personId, int page, CancellationToken cancellationToken = default)
@@ -155,7 +155,7 @@ namespace TMDbLib.Client
 
         public async Task<SearchContainerWithId<TaggedImage>> GetPersonTaggedImagesAsync(int personId, string language, int page, CancellationToken cancellationToken = default)
         {
-            return await GetPersonMethod<SearchContainerWithId<TaggedImage>>(personId, PersonMethods.TaggedImages, language: language, page: page, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetPersonMethodInternal<SearchContainerWithId<TaggedImage>>(personId, PersonMethods.TaggedImages, language: language, page: page, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         public async Task<TvCredits> GetPersonTvCreditsAsync(int personId, CancellationToken cancellationToken = default)
@@ -165,7 +165,7 @@ namespace TMDbLib.Client
 
         public async Task<TvCredits> GetPersonTvCreditsAsync(int personId, string language, CancellationToken cancellationToken = default)
         {
-            return await GetPersonMethod<TvCredits>(personId, PersonMethods.TvCredits, language: language, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetPersonMethodInternal<TvCredits>(personId, PersonMethods.TvCredits, language: language, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
     }
 }

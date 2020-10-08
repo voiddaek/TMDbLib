@@ -10,7 +10,7 @@ namespace TMDbLib.Client
 {
     public partial class TMDbClient
     {
-        private async Task<T> GetChanges<T>(string type, int page = 0, int? id = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
+        private async Task<T> GetChangesInternal<T>(string type, int page = 0, int? id = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
             string resource;
             if (id.HasValue)
@@ -52,7 +52,7 @@ namespace TMDbLib.Client
 		/// <remarks>the change log system to support this was changed on October 5, 2012 and will only show movies that have been edited since.</remarks>
         public async Task<SearchContainer<ChangesListItem>> GetChangesMoviesAsync(int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            return await GetChanges<SearchContainer<ChangesListItem>>("movie", page, startDate: startDate, endDate: endDate, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetChangesInternal<SearchContainer<ChangesListItem>>("movie", page, startDate: startDate, endDate: endDate, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         /// <summary>
@@ -64,7 +64,7 @@ namespace TMDbLib.Client
 		/// <remarks>the change log system to support this was changed on October 5, 2012 and will only show people that have been edited since.</remarks>
         public async Task<SearchContainer<ChangesListItem>> GetChangesPeopleAsync(int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            return await GetChanges<SearchContainer<ChangesListItem>>("person", page, startDate: startDate, endDate: endDate, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetChangesInternal<SearchContainer<ChangesListItem>>("person", page, startDate: startDate, endDate: endDate, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         /// <summary>
@@ -79,30 +79,30 @@ namespace TMDbLib.Client
 		/// </remarks>
 		public async Task<SearchContainer<ChangesListItem>> GetChangesTvAsync(int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            return await GetChanges<SearchContainer<ChangesListItem>>("tv", page, startDate: startDate, endDate: endDate, cancellationToken: cancellationToken).ConfigureAwait(false);
+            return await GetChangesInternal<SearchContainer<ChangesListItem>>("tv", page, startDate: startDate, endDate: endDate, cancellationToken: cancellationToken).ConfigureAwait(false);
         }
 
         public async Task<IList<Change>> GetMovieChangesAsync(int movieId, int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            ChangesContainer changesContainer = await GetChanges<ChangesContainer>("movie", page, movieId, startDate, endDate, cancellationToken);
+            ChangesContainer changesContainer = await GetChangesInternal<ChangesContainer>("movie", page, movieId, startDate, endDate, cancellationToken);
             return changesContainer.Changes;
         }
 
         public async Task<IList<Change>> GetPersonChangesAsync(int personId, int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            ChangesContainer changesContainer = await GetChanges<ChangesContainer>("person", page, personId, startDate, endDate, cancellationToken).ConfigureAwait(false);
+            ChangesContainer changesContainer = await GetChangesInternal<ChangesContainer>("person", page, personId, startDate, endDate, cancellationToken).ConfigureAwait(false);
             return changesContainer.Changes;
         }
 
         public async Task<IList<Change>> GetTvSeasonChangesAsync(int seasonId, int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            ChangesContainer changesContainer = await GetChanges<ChangesContainer>("tv/season", page, seasonId, startDate, endDate, cancellationToken).ConfigureAwait(false);
+            ChangesContainer changesContainer = await GetChangesInternal<ChangesContainer>("tv/season", page, seasonId, startDate, endDate, cancellationToken).ConfigureAwait(false);
             return changesContainer.Changes;
         }
 
         public async Task<IList<Change>> GetTvEpisodeChangesAsync(int episodeId, int page = 0, DateTime? startDate = null, DateTime? endDate = null, CancellationToken cancellationToken = default)
         {
-            ChangesContainer changesContainer = await GetChanges<ChangesContainer>("tv/episode", page, episodeId, startDate, endDate, cancellationToken).ConfigureAwait(false);
+            ChangesContainer changesContainer = await GetChangesInternal<ChangesContainer>("tv/episode", page, episodeId, startDate, endDate, cancellationToken).ConfigureAwait(false);
             return changesContainer.Changes;
         }
     }

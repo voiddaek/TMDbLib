@@ -30,7 +30,7 @@ namespace TMDbLib.Client
             if (!string.IsNullOrWhiteSpace(language))
                 req.AddParameter("language", language);
 
-            RestResponse<T> response = await req.ExecuteGet<T>(cancellationToken).ConfigureAwait(false);
+            T response = await req.GetOfT<T>(cancellationToken).ConfigureAwait(false);
 
             return response;
         }
@@ -45,7 +45,7 @@ namespace TMDbLib.Client
             req.AddUrlSegment("method", TvEpisodeMethods.AccountStates.GetDescription());
             AddSessionId(req, SessionType.UserSession);
 
-            RestResponse<ResultContainer<TvEpisodeAccountStateWithNumber>> response = await req.ExecuteGet<ResultContainer<TvEpisodeAccountStateWithNumber>>(cancellationToken).ConfigureAwait(false);
+            RestResponse<ResultContainer<TvEpisodeAccountStateWithNumber>> response = await req.Get<ResultContainer<TvEpisodeAccountStateWithNumber>>(cancellationToken).ConfigureAwait(false);
 
             return await response.GetDataObject().ConfigureAwait(false);
         }
@@ -90,7 +90,7 @@ namespace TMDbLib.Client
             if (appends != string.Empty)
                 req.AddParameter("append_to_response", appends);
 
-            RestResponse<TvSeason> response = await req.ExecuteGet<TvSeason>(cancellationToken).ConfigureAwait(false);
+            RestResponse<TvSeason> response = await req.Get<TvSeason>(cancellationToken).ConfigureAwait(false);
 
             if (!response.IsValid)
                 return null;

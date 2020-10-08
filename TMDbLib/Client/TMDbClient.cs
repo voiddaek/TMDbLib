@@ -10,6 +10,7 @@ using RestRequest = TMDbLib.Rest.RestRequest;
 using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
+using TMDbLib.Rest;
 
 namespace TMDbLib.Client
 {
@@ -156,7 +157,7 @@ namespace TMDbLib.Client
 
         public async Task<TMDbConfig> GetConfigAsync()
         {
-            TMDbConfig config = await _client.Create("configuration").ExecuteGet<TMDbConfig>(CancellationToken.None);
+            TMDbConfig config = await _client.Create("configuration").GetOfT<TMDbConfig>(CancellationToken.None);
 
             if (config == null)
                 throw new Exception("Unable to retrieve configuration");

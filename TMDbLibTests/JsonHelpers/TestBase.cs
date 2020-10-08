@@ -22,14 +22,13 @@ namespace TMDbLibTests.JsonHelpers
         protected TestBase()
         {
             VerifySettings = new VerifySettings();
-            //VerifySettings.UseExtension("json");
-            VerifySettings.AutoVerify();
+            //VerifySettings.AutoVerify();
             VerifySettings.IgnoreProperty<SearchMovie>(x => x.VoteCount, x => x.Popularity);
 
             JsonSerializerSettings sett = new JsonSerializerSettings();
 
-            //WebProxy proxy = null;
-            WebProxy proxy = new WebProxy("http://127.0.0.1:8888");
+            WebProxy proxy = null;
+            //WebProxy proxy = new WebProxy("http://127.0.0.1:8888");
 
             TestConfig = new TestConfig(serializer: JsonSerializer.Create(sett), proxy: proxy);
         }

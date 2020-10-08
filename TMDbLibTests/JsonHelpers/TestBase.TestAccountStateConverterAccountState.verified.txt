@@ -1,0 +1,5 @@
+{
+  favorite: true,
+  id: 19995,
+  rating: 2.5
+}

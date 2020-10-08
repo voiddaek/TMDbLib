@@ -69,16 +69,17 @@ namespace TMDbLibTests.UtilityTests
             ResultContainer<TvEpisodeAccountStateWithNumber> season = await TMDbClient.GetTvSeasonAccountStateAsync(IdHelper.BigBangTheory, 1);
 
             // Episode 1 has a rating
-            TvEpisodeAccountStateWithNumber episode = season.Results.Single(s => s.EpisodeNumber == 1);
-            
-            await Verify(episode, settings => settings.UseExtension("a.txt"));
-            Assert.NotNull(episode.Rating);
+            TvEpisodeAccountStateWithNumber episode1 = season.Results.Single(s => s.EpisodeNumber == 1);
+            TvEpisodeAccountStateWithNumber episode2 = season.Results.Single(s => s.EpisodeNumber == 2);
 
-            // Episode 2 has no rating
-            episode = season.Results.Single(s => s.EpisodeNumber == 2);
+            await Verify(new
+            {
+                episode1,
+                episode2
+            });
 
-            await Verify(episode, settings => settings.UseExtension("b.txt"));
-            Assert.Null(episode.Rating);
+            Assert.NotNull(episode1.Rating);
+            Assert.Null(episode2.Rating);
         }
     }
 }

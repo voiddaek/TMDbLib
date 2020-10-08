@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -70,7 +70,7 @@ namespace TMDbLibTests
             SearchContainer<SearchMovie> movies = await TMDbClient.AccountGetFavoriteMoviesAsync();
             SearchMovie movie = movies.Results.Single(s => s.Id == IdHelper.Avatar);
 
-            await Verify(movie);
+            await Verify(movie, x => x.IgnoreProperty<SearchMovie>(n => n.VoteCount, n => n.Popularity));
         }
 
         [Fact]
@@ -107,7 +107,7 @@ namespace TMDbLibTests
             await TestHelpers.SearchPagesAsync(i => TMDbClient.AccountGetTvWatchlistAsync(i));
 
             SearchContainer<SearchTv> tvShows = await TMDbClient.AccountGetTvWatchlistAsync();
-            SearchTv tvShow = tvShows.Results.Single(s => s.Id == IdHelper.BreakingBad);
+            SearchTv tvShow = tvShows.Results.Single(s => s.Id == 2691);
 
             await Verify(tvShow);
         }

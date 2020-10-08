@@ -16,13 +16,10 @@
     overview: 'In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.',
     poster_path: '/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg',
     vote_average: 6.6,
-    vote_count: 5574,
     id: 450465,
     media_type: 'movie',
-    popularity: 101.29
   },
   media_type: 'movie',
   vote_average: 5.854,
-  vote_count: 29,
   width: 2000
 }

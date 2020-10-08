@@ -342,7 +342,6 @@
         file_path: '/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg',
         height: 1688,
         vote_average: 5.454,
-        vote_count: 3,
         width: 3000
       },
       {
@@ -350,7 +349,6 @@
         file_path: '/vFxjuhENDjEKzWXUGKmRFct15bA.jpg',
         height: 1080,
         vote_average: 5.384,
-        vote_count: 2,
         width: 1920
       },
       {
@@ -358,7 +356,6 @@
         file_path: '/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg',
         height: 1080,
         vote_average: 5.318,
-        vote_count: 3,
         width: 1920
       },
       {
@@ -366,7 +363,6 @@
         file_path: '/lKODbE8ARPJEPnjTBfiIJ98I3YL.jpg',
         height: 1080,
         vote_average: 5.312,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -374,7 +370,6 @@
         file_path: '/sp1RSDvoVsbvDouQx1A75ebU35e.jpg',
         height: 1080,
         vote_average: 5.312,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -382,7 +377,6 @@
         file_path: '/wuwcaQlk6ldGXgQiVgV0MshOxHE.jpg',
         height: 1080,
         vote_average: 5.312,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -390,7 +384,6 @@
         file_path: '/n3u3kgNttY1F5Ixi5bMY9BwZImQ.jpg',
         height: 1080,
         vote_average: 5.312,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -398,7 +391,6 @@
         file_path: '/84XPpjGvxNyExjSuLQe0SzioErt.jpg',
         height: 1080,
         vote_average: 5.246,
-        vote_count: 2,
         width: 1920
       },
       {
@@ -406,7 +398,6 @@
         file_path: '/nPJ1quzQIDhu4u5tqjE6baKcOMT.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -414,7 +405,6 @@
         file_path: '/dFWqgL6MYHWLOs6Pev4G0TbMHSW.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -422,7 +412,6 @@
         file_path: '/iU5e7Po31TsvxmQ87lZtuobe250.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -430,7 +419,6 @@
         file_path: '/zQp0DoO0zcTDZSci7AgcRvdmWZi.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -438,7 +426,6 @@
         file_path: '/vQNFD4F0CYbDBLupQ7VFkyR0Q34.jpg',
         height: 1152,
         vote_average: 5.172,
-        vote_count: 1,
         width: 2048
       },
       {
@@ -446,7 +433,6 @@
         file_path: '/bOf7rb9P30MISpaLCs5VWnHJYq9.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -454,7 +440,6 @@
         file_path: '/gc8PfyTqzqltKPW3X0cIVUGmagz.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -462,7 +447,6 @@
         file_path: '/9WcEE9XfG4yxJkr3x1fjOHPblTO.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -470,7 +454,6 @@
         file_path: '/14lvW78eZ0o3uptiRMZYmXhqCGU.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -478,7 +461,6 @@
         file_path: '/wbfg0y8Ptk472rLa9e3TTO9XVNh.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -486,7 +468,6 @@
         file_path: '/xbRNGC939ZIiCF6qNwmbx0FedLs.jpg',
         height: 1080,
         vote_average: 5.172,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -494,7 +475,6 @@
         file_path: '/fo94LwJdqHX2wUC5QVw6pI6my6H.jpg',
         height: 1080,
         vote_average: 5.106,
-        vote_count: 2,
         width: 1920
       },
       {
@@ -767,7 +747,6 @@
         height: 1800,
         iso_639_1: 'en',
         vote_average: 5.522,
-        vote_count: 6,
         width: 1200
       },
       {
@@ -776,7 +755,6 @@
         height: 2268,
         iso_639_1: 'bo',
         vote_average: 5.384,
-        vote_count: 2,
         width: 1512
       },
       {
@@ -785,7 +763,6 @@
         height: 2100,
         iso_639_1: 'pt',
         vote_average: 5.312,
-        vote_count: 1,
         width: 1400
       },
       {
@@ -794,7 +771,6 @@
         height: 1500,
         iso_639_1: 'en',
         vote_average: 5.312,
-        vote_count: 1,
         width: 1012
       },
       {
@@ -803,7 +779,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.246,
-        vote_count: 2,
         width: 680
       },
       {
@@ -812,7 +787,6 @@
         height: 1800,
         iso_639_1: 'en',
         vote_average: 5.246,
-        vote_count: 2,
         width: 1200
       },
       {
@@ -821,7 +795,6 @@
         height: 2880,
         iso_639_1: 'ru',
         vote_average: 5.246,
-        vote_count: 2,
         width: 1920
       },
       {
@@ -830,7 +803,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.198,
-        vote_count: 7,
         width: 680
       },
       {
@@ -839,7 +811,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.18,
-        vote_count: 3,
         width: 680
       },
       {
@@ -848,7 +819,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.172,
-        vote_count: 1,
         width: 680
       },
       {
@@ -857,7 +827,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.172,
-        vote_count: 1,
         width: 680
       },
       {
@@ -866,7 +835,6 @@
         height: 1500,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 1012
       },
       {
@@ -875,7 +843,6 @@
         height: 2400,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 1600
       },
       {
@@ -884,7 +851,6 @@
         height: 1500,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 999
       },
       {
@@ -893,7 +859,6 @@
         height: 1500,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 1012
       },
       {
@@ -902,7 +867,6 @@
         height: 1500,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 1012
       },
       {
@@ -911,7 +875,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 680
       },
       {
@@ -920,7 +883,6 @@
         height: 774,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 500
       },
       {
@@ -929,7 +891,6 @@
         height: 1000,
         iso_639_1: 'en',
         vote_average: 5.106,
-        vote_count: 2,
         width: 680
       },
       {
@@ -1077,7 +1038,6 @@
     show_id: 1396,
     still_path: '/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg',
     vote_average: 9.144,
-    vote_count: 90,
     id: 62161,
     season_number: 5,
     episode_number: 16
@@ -1099,7 +1059,6 @@
     'US'
   ],
   overview: "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-  popularity: 215.352,
   poster_path: '/ggFHVNu6YYI5L9pCfOacjizRGt.jpg',
   production_companies: [
     {
@@ -1200,10 +1159,8 @@
           'US'
         ],
         overview: 'Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.',
-        popularity: 111.028,
         poster_path: '/p4rx3FW14Ayx1dLHJQBqDGw9YiX.jpg',
         vote_average: 8.1,
-        vote_count: 1944
       },
       {
         backdrop_path: '/AlqSvfI6bmxh31iaJTgjNSemF3D.jpg',
@@ -1228,10 +1185,8 @@
           'US'
         ],
         overview: 'Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer".',
-        popularity: 77.508,
         poster_path: '/cU0kAjGjA6d2XjBzJMUIEVKiGDb.jpg',
         vote_average: 8.3,
-        vote_count: 1825
       },
       {
         backdrop_path: '/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg',
@@ -1254,10 +1209,8 @@
           'US'
         ],
         overview: 'Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.',
-        popularity: 64.723,
         poster_path: '/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg',
         vote_average: 8.1,
-        vote_count: 1528
       },
       {
         backdrop_path: '/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg',
@@ -1280,10 +1233,8 @@
           'US'
         ],
         overview: 'An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.',
-        popularity: 41.643,
         poster_path: '/aowr4xpLP5sRCL50TkuADomJ98T.jpg',
         vote_average: 8.3,
-        vote_count: 1539
       },
       {
         backdrop_path: '/oFvjxSIPYv5YXspDlnWeDJhnPHI.jpg',
@@ -1308,10 +1259,8 @@
           'GB'
         ],
         overview: 'A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.',
-        popularity: 74.693,
         poster_path: '/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg',
         vote_average: 8.4,
-        vote_count: 2411
       },
       {
         backdrop_path: '/xcJLhsFGVC4LVvucSqVXks2mnUJ.jpg',
@@ -1335,10 +1284,8 @@
           'US'
         ],
         overview: 'A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.',
-        popularity: 75.507,
         poster_path: '/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg',
         vote_average: 8.3,
-        vote_count: 1340
       },
       {
         backdrop_path: '/qpZ7dcM5yDyBDP4JSQr9LRUIBRm.jpg',
@@ -1364,10 +1311,8 @@
           'US'
         ],
         overview: 'Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds many secrets.',
-        popularity: 104.884,
         poster_path: '/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg',
         vote_average: 7.9,
-        vote_count: 1909
       },
       {
         backdrop_path: '/p39K75uoZLwnhGlEAJxRG5xAD9y.jpg',
@@ -1396,10 +1341,8 @@
           'GB'
         ],
         overview: "A contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world. \n\nOver the last ten years, technology has transformed almost every aspect of our lives before we've had time to stop and question it. In every home; on every desk; in every palm - a plasma screen; a monitor; a smartphone - a black mirror of our 21st Century existence.",
-        popularity: 73.981,
         poster_path: '/pXeuSWSKgWUnhRFHZ4TjAUU8lbE.jpg',
         vote_average: 8.3,
-        vote_count: 2121
       },
       {
         backdrop_path: '/3ltpFyIfAtGjRMRJdECFoQQCfzx.jpg',
@@ -1422,10 +1365,8 @@
           'US'
         ],
         overview: "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
-        popularity: 51.79,
         poster_path: '/6nNZnnUkXcI3DvdrkclulanYXzg.jpg',
         vote_average: 8.4,
-        vote_count: 1162
       },
       {
         backdrop_path: '/yJPI9e3H5fGNTWNzW2p4iSG5qdc.jpg',
@@ -1449,41 +1390,12 @@
           'US'
         ],
         overview: "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
-        popularity: 46.115,
         poster_path: '/rTmal9fDbwh5F0waol2hq35U4ah.jpg',
         vote_average: 8.0,
-        vote_count: 1326
-      },
-      {
-        backdrop_path: '/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg',
-        first_air_date: DateTime_18,
-        genre_ids: [
-          80,
-          18
-        ],
-        id: 62560,
-        name: 'Mr. Robot',
-        networks: [
-          {
-            id: 30,
-            name: 'USA Network',
-            origin_country: 'US'
-          }
-        ],
-        original_language: 'en',
-        original_name: 'Mr. Robot',
-        origin_country: [
-          'US'
-        ],
-        overview: 'A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.',
-        popularity: 89.181,
-        poster_path: '/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg',
-        vote_average: 8.2,
-        vote_count: 2433
       },
       {
         backdrop_path: '/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg',
-        first_air_date: DateTime_19,
+        first_air_date: DateTime_18,
         genre_ids: [
           18,
           80
@@ -1503,10 +1415,33 @@
           'US'
         ],
         overview: 'Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated.',
-        popularity: 45.678,
         poster_path: '/4lbclFySvugI51fwsyxBTOm4DqK.jpg',
         vote_average: 8.3,
-        vote_count: 1110
+      },
+      {
+        backdrop_path: '/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg',
+        first_air_date: DateTime_19,
+        genre_ids: [
+          80,
+          18
+        ],
+        id: 62560,
+        name: 'Mr. Robot',
+        networks: [
+          {
+            id: 30,
+            name: 'USA Network',
+            origin_country: 'US'
+          }
+        ],
+        original_language: 'en',
+        original_name: 'Mr. Robot',
+        origin_country: [
+          'US'
+        ],
+        overview: 'A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.',
+        poster_path: '/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg',
+        vote_average: 8.2,
       },
       {
         backdrop_path: '/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg',
@@ -1530,10 +1465,8 @@
           'US'
         ],
         overview: 'Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.',
-        popularity: 62.5,
         poster_path: '/QWbPaDxiB6LW2LjASknzYBvjMj.jpg',
         vote_average: 7.9,
-        vote_count: 2014
       },
       {
         backdrop_path: '/5BMwFwNzSidVYArn561acqtktxv.jpg',
@@ -1556,10 +1489,8 @@
           'US'
         ],
         overview: 'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
-        popularity: 106.292,
         poster_path: '/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg',
         vote_average: 8.0,
-        vote_count: 2169
       },
       {
         backdrop_path: '/391ixi0wVbFtFLQnOy8ZncWv2io.jpg',
@@ -1585,10 +1516,8 @@
           'US'
         ],
         overview: 'CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.',
-        popularity: 91.103,
         poster_path: '/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg',
         vote_average: 7.5,
-        vote_count: 1259
       },
       {
         backdrop_path: '/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg',
@@ -1611,10 +1540,8 @@
           'US'
         ],
         overview: 'Mad Men is set in the 1960s, initially at the fictional Sterling Cooper advertising agency on Madison Avenue in New York City, and later at the newly created firm, Sterling Cooper Draper Pryce, located nearby in the Time-Life Building, at 1271 Avenue of the Americas. According to the show\'s pilot, the phrase "mad men" was a slang term coined in the 1950s by advertisers working on Madison Avenue to refer to themselves. The focal point of the series is Don Draper, creative director at Sterling Cooper and a founding partner at Sterling Cooper Draper Pryce, and the people in his life, both in and out of the office. The plot focuses on the business of the agencies as well as the personal lives of the characters, regularly depicting the changing moods and social mores of the United States in the 1960s.',
-        popularity: 43.467,
         poster_path: '/5vpF8rBxIkjwcVI5H2vPG1JkoKn.jpg',
         vote_average: 8.1,
-        vote_count: 597
       },
       {
         backdrop_path: '/ArZwmJl1y6qlnLjuE9FXlEd8RU0.jpg',
@@ -1642,10 +1569,8 @@
           'US'
         ],
         overview: 'The story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together.',
-        popularity: 34.671,
         poster_path: '/qMzwO952hMWQSCfHkp7IL20s4K7.jpg',
         vote_average: 8.1,
-        vote_count: 681
       },
       {
         backdrop_path: '/iP9Xjlc8KRmXE0kVMTaJRaN0umh.jpg',
@@ -1670,10 +1595,8 @@
           'US'
         ],
         overview: 'In the year 2517, after the arrival of humans in a new star system, follow the adventures of the renegade crew of Serenity, a "Firefly-class" spaceship. The ensemble cast portrays the nine characters who live on Serenity.',
-        popularity: 28.441,
         poster_path: '/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg',
         vote_average: 8.3,
-        vote_count: 1208
       },
       {
         backdrop_path: '/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -1697,10 +1620,8 @@
           'US'
         ],
         overview: 'The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.',
-        popularity: 146.124,
         poster_path: '/f496cm9enuEsZkSPzCwnTESEK5s.jpg',
         vote_average: 8.2,
-        vote_count: 3102
       },
       {
         backdrop_path: '/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg',
@@ -1724,15 +1645,12 @@
           'US'
         ],
         overview: 'Atlantic City at the dawn of Prohibition is a place where the rules don\'t apply. And the man who runs things -- legally and otherwise -- is the town\'s treasurer, Enoch "Nucky" Thompson, who is equal parts politician and gangster.',
-        popularity: 26.291,
         poster_path: '/7jgt1T8D7ng50rTGyvjNBQw7e5A.jpg',
         vote_average: 8.0,
-        vote_count: 510
       }
     ]
   },
   status: 'Ended',
   type: 'Scripted',
   vote_average: 8.6,
-  vote_count: 5704
 }

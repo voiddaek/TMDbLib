@@ -1,20 +1,18 @@
 {
   first_air_date: DateTime_1,
-  name: 'Breaking Bad',
-  original_name: 'Breaking Bad',
+  name: 'Two and a Half Men',
+  original_name: 'Two and a Half Men',
   origin_country: [
     'US'
   ],
-  backdrop_path: '/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg',
+  backdrop_path: '/nMJO71S7r7bn1ABvARtfuUQJbcS.jpg',
   genre_ids: [
-    18
+    35
   ],
   original_language: 'en',
-  overview: "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-  poster_path: '/ggFHVNu6YYI5L9pCfOacjizRGt.jpg',
-  vote_average: 8.6,
-  vote_count: 5693,
-  id: 1396,
+  overview: "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+  poster_path: '/A9QDK4OWpv41W27kCv0LXe30k9S.jpg',
+  vote_average: 7.1,
+  id: 2691,
   media_type: 'tv',
-  popularity: 198.035
 }

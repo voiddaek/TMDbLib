@@ -3,6 +3,8 @@ using System.Net;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using TMDbLib.Client;
+using TMDbLib.Objects.Search;
+using TMDbLibTests.Helpers;
 using VerifyTests;
 using VerifyXunit;
 
@@ -22,6 +24,7 @@ namespace TMDbLibTests.JsonHelpers
             VerifySettings = new VerifySettings();
             //VerifySettings.UseExtension("json");
             VerifySettings.AutoVerify();
+            VerifySettings.IgnoreProperty<SearchMovie>(x => x.VoteCount, x => x.Popularity);
 
             JsonSerializerSettings sett = new JsonSerializerSettings();
 

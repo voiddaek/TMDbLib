@@ -118,7 +118,6 @@
       season_number: 1,
       still_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
       vote_average: 7.926,
-      vote_count: 170
     },
     {
       air_date: DateTime_2,
@@ -183,7 +182,6 @@
       season_number: 1,
       still_path: '/tjDNvbokPLtEnpFyFPyXMOd6Zr1.jpg',
       vote_average: 7.918,
-      vote_count: 79
     },
     {
       air_date: DateTime_3,
@@ -268,7 +266,6 @@
       season_number: 1,
       still_path: '/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg',
       vote_average: 7.98,
-      vote_count: 75
     },
     {
       air_date: DateTime_4,
@@ -378,7 +375,6 @@
       season_number: 1,
       still_path: '/i5BAJVhuIWfkoSqDID6FnQNCTVc.jpg',
       vote_average: 7.718,
-      vote_count: 71
     },
     {
       air_date: DateTime_5,
@@ -480,7 +476,6 @@
       season_number: 1,
       still_path: '/82G3wZgEvZLKcte6yoZJahUWBtx.jpg',
       vote_average: 8.029,
-      vote_count: 68
     },
     {
       air_date: DateTime_6,
@@ -621,7 +616,6 @@
       season_number: 1,
       still_path: '/hyYwqbmcHn3fuxWE3h4IhZZbkU3.jpg',
       vote_average: 8.797,
-      vote_count: 69
     },
     {
       air_date: DateTime_7,
@@ -735,7 +729,6 @@
       season_number: 1,
       still_path: '/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg',
       vote_average: 8.203,
-      vote_count: 69
     }
   ],
   id: 3572,

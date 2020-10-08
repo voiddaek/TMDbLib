@@ -112,7 +112,6 @@
   production_code: '',
   still_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
   vote_average: 7.926,
-  vote_count: 170,
   id: 62085,
   season_number: 1,
   episode_number: 1

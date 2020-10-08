@@ -57,7 +57,7 @@ namespace TMDbLibTests
 
             GenericList newlyAddedList = await TMDbClient.GetListAsync(listId);
 
-            await Verify(newlyAddedList, settings => settings.IgnoreProperty("id"));
+            await Verify(newlyAddedList, settings => settings.IgnoreProperty<GenericList>(x => x.Id, x => x.Name));
 
             // Add a movie
             await TMDbClient.ListAddMovieAsync(listId, IdHelper.Avatar);

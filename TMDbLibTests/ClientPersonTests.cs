@@ -50,7 +50,7 @@ namespace TMDbLibTests
         [Fact]
         public async Task TestPersonsExtrasAllAsync()
         {
-            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetPersonAsync(IdHelper.BruceWillis, combined), async person => await Verify(person));
+            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetPersonAsync(IdHelper.FrankSinatra, combined), async person => await Verify(person));
         }
 
         [Fact]

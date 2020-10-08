@@ -10,8 +10,6 @@
   overview: "20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption.",
   poster_path: '/mktwkMjmoR83eXNakk0M2nh1cty.jpg',
   vote_average: 5.5,
-  vote_count: 2280,
   id: 100042,
   media_type: 'movie',
-  popularity: 32.611
 }

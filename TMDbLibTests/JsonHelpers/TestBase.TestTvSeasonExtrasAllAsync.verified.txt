@@ -1,35 +1,58 @@
 {
   account_states: {
-    id: 3572,
+    id: 69559,
     results: [
       {
         episode_number: 1,
-        id: 62085,
-        rating: 5.0
+        id: 1151470
       },
       {
         episode_number: 2,
-        id: 62086
+        id: 1151471
       },
       {
         episode_number: 3,
-        id: 62087
+        id: 1151472
       },
       {
         episode_number: 4,
-        id: 62088
+        id: 1151473
       },
       {
         episode_number: 5,
-        id: 62089
+        id: 1151474
       },
       {
         episode_number: 6,
-        id: 62090
+        id: 1151475
       },
       {
         episode_number: 7,
-        id: 62091
+        id: 1151476
+      },
+      {
+        episode_number: 8,
+        id: 1151477
+      },
+      {
+        episode_number: 9,
+        id: 1151478
+      },
+      {
+        episode_number: 10,
+        id: 1151479
+      },
+      {
+        episode_number: 11,
+        id: 1151480
+      },
+      {
+        episode_number: 12,
+        id: 1151481
+      },
+      {
+        episode_number: 13,
+        id: 1151482
       }
     ]
   },
@@ -37,1174 +60,1142 @@
   credits: {
     cast: [
       {
-        character: 'Walter White',
-        credit_id: '52542282760ee313280017f9',
-        id: 17419,
-        name: 'Bryan Cranston',
-        profile_path: '/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg',
-        gender: 'Male'
-      },
-      {
-        character: 'Skyler White',
-        credit_id: '52542282760ee3132800181b',
-        id: 134531,
-        name: 'Anna Gunn',
-        order: 2,
-        profile_path: '/adppyeu1a4REN3khtgmXusrapFi.jpg',
+        character: 'Stephanie Tanner',
+        credit_id: '55cda9f0925141319000167f',
+        id: 1234708,
+        name: 'Jodie Sweetin',
+        profile_path: '/7jeFeCWWp75GT9ztIXBiavjxczI.jpg',
         gender: 'Female'
       },
       {
-        character: 'Jesse Pinkman',
-        credit_id: '52542282760ee31328001845',
-        id: 84497,
-        name: 'Aaron Paul',
+        character: 'DJ Tanner-Fuller',
+        credit_id: '55cda9e0c3a36815800012d4',
+        id: 31363,
+        name: 'Candace Cameron Bure',
         order: 1,
-        profile_path: '/u8UdsB9yenM4uHEjmce4nkBn48X.jpg',
-        gender: 'Male'
+        profile_path: '/hriMbAfs8HCzj9QLcwKNEARCglp.jpg',
+        gender: 'Female'
       },
       {
-        character: 'Hank Schrader',
-        credit_id: '52542283760ee3132800187b',
-        id: 14329,
-        name: 'Dean Norris',
+        character: 'Kimmy Gibbler',
+        credit_id: '55cf7cfa9251413196005076',
+        id: 1212537,
+        name: 'Andrea Barber',
+        order: 2,
+        profile_path: '/sljfYJXI6qp82tZY78h8TZKu2IO.jpg',
+        gender: 'Female'
+      },
+      {
+        character: 'Max Fuller',
+        credit_id: '55cf7d4ec3a3681bf500560f',
+        id: 1497222,
+        name: 'Elias Harger',
         order: 3,
-        profile_path: '/fXbHgZxCEclcTxV8MpeBXhe2OJS.jpg',
+        profile_path: '/lwx0AR8CcNpRdiBPTEjmJCjRifb.jpg',
         gender: 'Male'
       },
       {
-        character: 'Marie Schrader',
-        credit_id: '52542283760ee31328001891',
-        id: 1217934,
-        name: 'Betsy Brandt',
+        character: 'Ramona Gibbler',
+        credit_id: '56d2c77f9251413e6a00f38e',
+        id: 1583967,
+        name: 'Soni Bringas',
         order: 4,
-        profile_path: '/zmhhPmXnwjSzVyoTVL93i1EkLRK.jpg',
+        profile_path: '/fEDvgHAuXyUabYOtsosr1b2Ehm1.jpg',
         gender: 'Female'
       },
       {
-        character: 'Walter White Jr.',
-        credit_id: '52542284760ee313280018a9',
-        id: 209674,
-        name: 'RJ Mitte',
-        order: 5,
-        profile_path: '/aG6NYV2EgzBFLRIl7vvbtd7go1j.jpg',
-        gender: 'Male'
-      }
-    ],
-    crew: [
-      {
-        credit_id: '52542287760ee31328001af1',
-        department: 'Production',
-        id: 66633,
-        job: 'Executive Producer',
-        name: 'Vince Gilligan',
-        profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
+        character: 'Jackson Fuller',
+        credit_id: '56d2c730c3a3681e3600e598',
+        id: 1471109,
+        name: 'Michael Campion',
+        order: 6,
+        profile_path: '/b4XJh0NNkAEMwMkz9reyyC684gv.jpg',
         gender: 'Male'
       },
       {
-        credit_id: '52542287760ee31328001b69',
-        department: 'Production',
-        id: 5162,
-        job: 'Executive Producer',
-        name: 'Mark Johnson',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52542288760ee31328001b83',
-        department: 'Production',
-        id: 29779,
-        job: 'Executive Producer',
-        name: 'Michelle MacLaren',
+        character: 'Phyllis Gladstone',
+        credit_id: '59ea0021c3a3687fc60129fd',
+        id: 1675772,
+        name: 'Ruby Rose Turner',
+        order: 500,
+        profile_path: '/vM9kcA15eu0MnSpe7dnS3BpPbXy.jpg',
         gender: 'Female'
       },
       {
-        credit_id: '52b7034f19c2955402184de6',
-        department: 'Costume & Make-Up',
-        id: 35583,
-        job: 'Costume Design',
-        name: 'Kathleen Detoro'
-      },
-      {
-        credit_id: '52b7008819c29559eb03dd72',
-        department: 'Sound',
-        id: 1280070,
-        job: 'Original Music Composer',
-        name: 'Dave Porter',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52b7020b19c295223b0a46e8',
-        department: 'Art',
-        id: 21640,
-        job: 'Production Design',
-        name: 'Robb Wilson King',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52542287760ee31328001b07',
-        department: 'Production',
-        id: 1218856,
-        job: 'Producer',
-        name: 'Patty Lin',
-        gender: 'Female'
-      },
-      {
-        credit_id: '52542287760ee31328001b27',
-        department: 'Production',
-        id: 29924,
-        job: 'Producer',
-        name: 'John Shiban',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52542289760ee31328001b9d',
-        department: 'Production',
-        id: 1223199,
-        job: 'Producer',
-        name: 'Melissa Bernstein',
-        gender: 'Female'
-      },
-      {
-        credit_id: '52542289760ee31328001bb3',
-        department: 'Production',
-        id: 1223194,
-        job: 'Producer',
-        name: 'Sam Catlin',
-        profile_path: '/5Xt7ONeJpF3x2XZ9JwQO9vGDuJ1.jpg',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52542289760ee31328001bd1',
-        department: 'Production',
-        id: 24951,
-        job: 'Producer',
-        name: 'Peter Gould',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52542289760ee31328001be9',
-        department: 'Production',
-        id: 1223193,
-        job: 'Producer',
-        name: 'George Mastras',
-        gender: 'Male'
-      },
-      {
-        credit_id: '52542289760ee31328001c03',
-        department: 'Production',
-        id: 103009,
-        job: 'Producer',
-        name: 'Thomas Schnauz',
-        gender: 'Male'
-      },
-      {
-        credit_id: '5254228a760ee31328001c1d',
-        department: 'Production',
-        id: 1223200,
-        job: 'Producer',
-        name: 'Stewart Lyons'
-      },
-      {
-        credit_id: '5254228c760ee31328001c37',
-        department: 'Production',
-        id: 1223201,
-        job: 'Producer',
-        name: 'Karen Moore'
-      },
-      {
-        credit_id: '5254228c760ee31328001c6d',
-        department: 'Production',
-        id: 1223198,
-        job: 'Producer',
-        name: 'Moira Walley-Beckett',
-        profile_path: '/nysIQz4lEMqar1Bd3gBaCzuwSde.jpg',
-        gender: 'Female'
-      },
-      {
-        credit_id: '5254228d760ee31328001cc7',
-        department: 'Production',
-        id: 17419,
-        job: 'Producer',
-        name: 'Bryan Cranston',
-        profile_path: '/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg',
-        gender: 'Male'
-      },
-      {
-        credit_id: '5254228e760ee31328001ce1',
-        department: 'Production',
-        id: 1223202,
-        job: 'Producer',
-        name: 'Diane Mercer',
+        character: 'Joan Gladstone',
+        credit_id: '59ea0329c3a3687f32012e7b',
+        id: 1728254,
+        name: 'Kingston Foster',
+        order: 500,
+        profile_path: '/22u9JiTnCIXI3x3fV1zA8b1vOPJ.jpg',
         gender: 'Female'
       }
     ],
-    id: 3572
+    id: 69559
   },
   episodes: [
     {
       air_date: DateTime_1,
       crew: [
         {
-          credit_id: '52542275760ee313280006ce',
-          department: 'Writing',
-          id: 66633,
-          job: 'Writer',
-          name: 'Vince Gilligan',
-          profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52542275760ee313280006e8',
+          credit_id: '5851b49cc3a3682fb801ed4b',
           department: 'Directing',
-          id: 66633,
+          id: 1212114,
           job: 'Director',
-          name: 'Vince Gilligan',
-          profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
+          name: 'Mark Cendrowski',
           gender: 'Male'
         },
         {
-          credit_id: '52b7029219c29533d00dd2c1',
-          department: 'Camera',
-          id: 2483,
-          job: 'Director of Photography',
-          name: 'John Toll',
-          profile_path: '/cfL9A6tC7L5Ps5fq1o3WpVKGMb1.jpg',
+          credit_id: '5851b4adc3a36831500190d4',
+          department: 'Writing',
+          id: 60621,
+          job: 'Writer',
+          name: 'Jeff Franklin',
+          profile_path: '/7oPqgDS1YCNSneqg2DlkquywEJE.jpg',
           gender: 'Male'
-        },
-        {
-          credit_id: '52b702ea19c2955402183a66',
-          department: 'Editing',
-          id: 1280071,
-          job: 'Editor',
-          name: 'Lynne Willingham'
         }
       ],
       episode_number: 1,
       guest_stars: [
         {
-          character: 'Emilio Koyama',
-          credit_id: '52542273760ee3132800068e',
-          id: 92495,
-          name: 'John Koyama',
-          order: 1,
-          profile_path: '/eW2fkCny1ptIz7k5HgI8yRawMvo.jpg',
-          gender: 'Male'
+          character: 'Nicky Katsopolis',
+          credit_id: '56d2c864c3a3681e440102d6',
+          id: 1234709,
+          name: 'Blake Tuomy-Wilhoit',
+          order: 6
         },
         {
-          character: 'Jock',
-          credit_id: '52542275760ee313280006b4',
-          id: 1216132,
-          name: 'Aaron Hill',
-          order: 3,
-          profile_path: '/rNp31SeoVqSQU6OZWxZUhGwAgyq.jpg',
-          gender: 'Male'
+          character: 'Alex Katsopolis',
+          credit_id: '56d2c878c3a3681e4a00e2ff',
+          id: 1236340,
+          name: 'Dylan Tuomy-Wilhoit',
+          order: 7
         },
         {
-          character: 'Dr. Belknap (as Greg Chase)',
-          credit_id: '52725cb1760ee3044d0b9984',
-          id: 161591,
-          name: 'Gregory Chase',
-          order: 33,
-          profile_path: '/gNdodev00CROpXuAh5EFmkWTVOo.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Krazy-8',
-          credit_id: '52725845760ee3046b09426e',
-          id: 1046460,
-          name: 'Max Arciniega',
-          order: 38,
-          profile_path: '/eqKAJKPpt41KpsLIkkBnAY4HMAL.jpg'
-        },
-        {
-          character: 'Bogdan Wolynetz',
-          credit_id: '5272587a760ee3045009ddec',
-          id: 1223197,
-          name: 'Marius Stan',
-          order: 112,
-          profile_path: '/wSIrKmUXbohaRGORr0CTTTSGctK.jpg'
-        },
-        {
-          character: 'Steven Gomez',
-          credit_id: '5271b489760ee35b3e0881a7',
-          id: 61535,
-          name: 'Steven Michael Quezada',
-          order: 173,
-          profile_path: '/4BRo6oc26kePVYxgNzYwUrDagVO.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Carmen Molina',
-          credit_id: '52542273760ee31328000676',
-          id: 115688,
-          name: 'Carmen Serano',
-          order: 176,
-          profile_path: '/nzJEe2UqvvMIBJZP1aeFEj4EunN.jpg',
+          character: 'Teri Tanner',
+          credit_id: '56d2c8b69251413e5f00ee44',
+          id: 121769,
+          name: 'Eva LaRue',
+          order: 9,
+          profile_path: '/y5ixiPFhB5tl38AQt7baqjOn6a7.jpg',
           gender: 'Female'
         },
         {
-          character: "Chad's Girlfriend",
-          credit_id: '56846abbc3a36836280008d4',
-          id: 1223192,
-          name: 'Roberta Marquez Seret',
-          order: 180,
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Jesse Katsopolis',
+          credit_id: '56d2c7cd92514102db0005ea',
+          id: 32600,
+          name: 'John Stamos',
+          order: 81,
+          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Joey Gladstone',
+          credit_id: '56d2c8149251413e5f00ee2c',
+          id: 1218736,
+          name: 'Dave Coulier',
+          order: 82,
+          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Danny Tanner',
+          credit_id: '56d2c7fbc3a3681e3c010177',
+          id: 72450,
+          name: 'Bob Saget',
+          order: 90,
+          profile_path: '/hLHwGxlfhm1qnPgjp1deDdhZN7t.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Becky Katsopolis',
+          credit_id: '56d2c834925141799e00c208',
+          id: 92509,
+          name: 'Lori Loughlin',
+          order: 91,
+          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
           gender: 'Female'
         }
       ],
-      id: 62085,
-      name: 'Pilot',
-      overview: 'When an unassuming high school chemistry teacher discovers he has a rare form of lung cancer, he decides to team up with a former student and create a top of the line crystal meth in a used RV, to provide for his family once he is gone.',
+      id: 1151470,
+      name: 'Our Very First Show, Again',
+      overview: 'The entire Tanner clan comes together for a final reunion before the family home is sold, but parting turns out to be tougher than expected',
       production_code: '',
       season_number: 1,
-      still_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
-      vote_average: 7.926,
-      vote_count: 170
+      still_path: '/kaDQaO55HHkcHAdf3UMLN7UqGp5.jpg',
+      vote_average: 8.296,
     },
     {
-      air_date: DateTime_2,
-      crew: [
-        {
-          credit_id: '52542275760ee313280006ce',
-          department: 'Writing',
-          id: 66633,
-          job: 'Writer',
-          name: 'Vince Gilligan',
-          profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52542275760ee31328000725',
-          department: 'Directing',
-          id: 111338,
-          job: 'Director',
-          name: 'Adam Bernstein',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b7049c19c2953b63015013',
-          department: 'Camera',
-          id: 17948,
-          job: 'Director of Photography',
-          name: 'Reynaldo Villalobos',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b702ea19c2955402183a66',
-          department: 'Editing',
-          id: 1280071,
-          job: 'Editor',
-          name: 'Lynne Willingham'
-        }
-      ],
+      air_date: DateTime_1,
       episode_number: 2,
       guest_stars: [
         {
-          character: 'Emilio Koyama',
-          credit_id: '52542273760ee3132800068e',
-          id: 92495,
-          name: 'John Koyama',
-          order: 1,
-          profile_path: '/eW2fkCny1ptIz7k5HgI8yRawMvo.jpg',
-          gender: 'Male'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
         },
         {
-          character: 'Krazy-8',
-          credit_id: '52725845760ee3046b09426e',
-          id: 1046460,
-          name: 'Max Arciniega',
-          order: 38,
-          profile_path: '/eqKAJKPpt41KpsLIkkBnAY4HMAL.jpg'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Jesse Katsopolis',
+          credit_id: '56d2c7cd92514102db0005ea',
+          id: 32600,
+          name: 'John Stamos',
+          order: 81,
+          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
+          gender: 'Male'
         }
       ],
-      id: 62086,
-      name: "Cat's in the Bag...",
-      overview: "Walt and Jesse attempt to tie up loose ends. The desperate situation gets more complicated with the flip of a coin. Walt's wife, Skyler, becomes suspicious of Walt's strange behavior.",
+      id: 1151471,
+      name: 'Moving Day',
+      overview: 'When the big day comes for Stephanie and Kimmy to join the Fuller house, Jackson feels outnumbered and takes drastic action',
       production_code: '',
       season_number: 1,
-      still_path: '/tjDNvbokPLtEnpFyFPyXMOd6Zr1.jpg',
-      vote_average: 7.918,
-      vote_count: 79
+      still_path: '/3ta5oISPOgy5MCTPMOkrDv87A6B.jpg',
+      vote_average: 7.75,
     },
     {
-      air_date: DateTime_3,
-      crew: [
-        {
-          credit_id: '52542275760ee313280006ce',
-          department: 'Writing',
-          id: 66633,
-          job: 'Writer',
-          name: 'Vince Gilligan',
-          profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52542275760ee31328000725',
-          department: 'Directing',
-          id: 111338,
-          job: 'Director',
-          name: 'Adam Bernstein',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b7049c19c2953b63015013',
-          department: 'Camera',
-          id: 17948,
-          job: 'Director of Photography',
-          name: 'Reynaldo Villalobos',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b7051619c29533d00e8c79',
-          department: 'Editing',
-          id: 1280074,
-          job: 'Editor',
-          name: 'Kelley Dixon',
-          profile_path: '/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg',
-          gender: 'Female'
-        }
-      ],
+      air_date: DateTime_1,
       episode_number: 3,
       guest_stars: [
         {
-          character: 'Krazy-8',
-          credit_id: '52725845760ee3046b09426e',
-          id: 1046460,
-          name: 'Max Arciniega',
-          order: 38,
-          profile_path: '/eqKAJKPpt41KpsLIkkBnAY4HMAL.jpg'
+          character: 'Macy Gray',
+          credit_id: '56d2ca21c3a3681e5700ea3d',
+          id: 60560,
+          name: 'Macy Gray',
+          order: 12,
+          profile_path: '/p65H5JEEbBvcKsBt2FVDFOlZj3O.jpg',
+          gender: 'Female'
         },
         {
-          character: 'Steven Gomez',
-          credit_id: '5271b489760ee35b3e0881a7',
-          id: 61535,
-          name: 'Steven Michael Quezada',
-          order: 173,
-          profile_path: '/4BRo6oc26kePVYxgNzYwUrDagVO.jpg',
+          character: 'Maks',
+          credit_id: '56d2ca3b9251413e6a00f3e7',
+          id: 1456289,
+          name: 'Maksim Chmerkovskiy',
+          order: 13,
+          profile_path: '/anFr8Ixj7JaZ5Cq6oBix1m9Abgn.jpg'
+        },
+        {
+          character: 'Val',
+          credit_id: '56d2ca5092514102db000653',
+          id: 1583970,
+          name: 'Val Chmerkovskiy',
+          order: 14,
+          profile_path: '/kGKrOnhfANfy9Nps9jIDhg8uuYI.jpg',
           gender: 'Male'
         },
         {
-          character: 'Carmen Molina',
-          credit_id: '52542273760ee31328000676',
-          id: 115688,
-          name: 'Carmen Serano',
-          order: 176,
-          profile_path: '/nzJEe2UqvvMIBJZP1aeFEj4EunN.jpg',
+          character: 'Mandy',
+          credit_id: '56d2ca7e9251417994000da6',
+          id: 970084,
+          name: 'Tyne Stecklein',
+          order: 15,
+          profile_path: '/fBuUCmyXLCG1quREaZ8CDX7Kanc.jpg',
           gender: 'Female'
         },
         {
-          character: 'Gretchen Schwartz',
-          credit_id: '52542275760ee31328000768',
-          id: 14984,
-          name: 'Jessica Hecht',
-          order: 182,
-          profile_path: '/icLFpyGlarQNUuwRvcY6xwSXT0p.jpg',
-          gender: 'Female'
+          character: 'Pet Clinic Woman',
+          credit_id: '56d2cab6c3a3681e3900e626',
+          id: 1525753,
+          name: 'Lex Montgomery',
+          order: 16
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Joey Gladstone',
+          credit_id: '56d2c8149251413e5f00ee2c',
+          id: 1218736,
+          name: 'Dave Coulier',
+          order: 82,
+          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
         }
       ],
-      id: 62087,
-      name: "...And the Bag's in the River",
-      overview: 'Walter fights with Jesse over his drug use, causing him to leave Walter alone with their captive, Krazy-8. Meanwhile, Hank has a scared straight moment with Walter Jr. after his aunt discovers he has been smoking pot. Also, Skylar is upset when Walter stays away from home.',
+      id: 1151472,
+      name: 'Funner House',
+      overview: "When Stephanie, Kimmy and DJ have a girls' night out and leave Joey in charge of the kids, things get wild out on the town and at home.",
       production_code: '',
       season_number: 1,
-      still_path: '/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg',
-      vote_average: 7.98,
-      vote_count: 75
+      still_path: '/yrJyWx01XQdqNThCTYQKpEFmLx8.jpg',
+      vote_average: 7.5,
     },
     {
-      air_date: DateTime_4,
-      crew: [
-        {
-          credit_id: '52542275760ee313280006ce',
-          department: 'Writing',
-          id: 66633,
-          job: 'Writer',
-          name: 'Vince Gilligan',
-          profile_path: '/uFh3OrBvkwKSU3N5y0XnXOhqBJz.jpg',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52542278760ee31328000a9b',
-          department: 'Directing',
-          id: 205639,
-          job: 'Director',
-          name: 'Jim McKay',
-          profile_path: '/hrrBk9T8Ds0UH9NKds1gkbJioTo.jpg',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b7049c19c2953b63015013',
-          department: 'Camera',
-          id: 17948,
-          job: 'Director of Photography',
-          name: 'Reynaldo Villalobos',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b702ea19c2955402183a66',
-          department: 'Editing',
-          id: 1280071,
-          job: 'Editor',
-          name: 'Lynne Willingham'
-        }
-      ],
+      air_date: DateTime_1,
       episode_number: 4,
       guest_stars: [
         {
-          character: 'Ken Wins',
-          credit_id: '52743e4d760ee35a69055194',
-          id: 1215836,
-          name: 'Kyle Bornheimer',
-          order: 37,
-          profile_path: '/79KUwXqB2FdKqxsAMppkJ8Aa78e.jpg',
+          character: 'Mr. Gerald',
+          credit_id: '56d2cb3bc3a3681e5000d900',
+          id: 537,
+          name: 'Stephen Tobolowsky',
+          order: 19,
+          profile_path: '/4GNQJVEcU4V8AGVMXKM5FVOuW8h.jpg',
           gender: 'Male'
         },
         {
-          character: 'Jake Pinkman (as Ben Petry)',
-          credit_id: '527442eb760ee3572b078715',
-          id: 220118,
-          name: 'Benjamin Petry',
-          order: 40,
+          character: 'Darren',
+          credit_id: '56d2cb4d925141799e00c26a',
+          id: 26975,
+          name: 'Steve Talley',
+          order: 20,
+          profile_path: '/bY9OTcMxmJokUNmMLCUAFlppWb1.jpg',
           gender: 'Male'
         },
         {
-          character: 'Dr. Delcavoli',
-          credit_id: '5271b65b760ee35b0c090f74',
-          id: 79211,
-          name: 'David House',
-          order: 71,
-          profile_path: '/t67HnLsCMecFLMdhtJQbkiQiyXq.jpg'
+          character: 'Dr. Fred Harmon',
+          credit_id: '56d2cb68c3a3681e5700ea7b',
+          id: 41465,
+          name: 'Robin Thomas',
+          order: 21,
+          profile_path: '/seivBO3KRFAKqNgL3wnvpwxHwKz.jpg',
+          gender: 'Male'
         },
         {
-          character: 'Mrs. Pinkman',
-          credit_id: '52542277760ee31328000a61',
-          id: 41249,
-          name: 'Tess Harper',
-          order: 75,
-          profile_path: '/8Z770Kk13MK1NP7skWmTxvRGx3V.jpg',
+          character: 'GoPro',
+          credit_id: '56d2cb949251413e6a00f436',
+          id: 1583972,
+          name: 'Jacquez Swanigan',
+          order: 23
+        },
+        {
+          character: 'Dog Owner',
+          credit_id: '56d2cbc1c3a3681e4a00e366',
+          id: 1583973,
+          name: 'Phillip Garcia',
+          order: 24,
+          profile_path: '/hXOnEMXGpW2H8j6kf9q1gf6bXzS.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Barista',
+          credit_id: '56d2cc0dc3a3681e4401036b',
+          id: 1583975,
+          name: 'Anthony Hill',
+          order: 25,
+          gender: 'Male'
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
           gender: 'Female'
         },
         {
-          character: 'Mr. Pinkman',
-          credit_id: '527440ce760ee3570906ada3',
-          id: 95195,
-          name: 'Michael Bofshever',
-          order: 75,
-          profile_path: '/v0StOMYNP2HIGjfGBQJIcn6OcBY.jpg',
-          gender: 'Male'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
         },
         {
-          character: 'Steven Gomez',
-          credit_id: '5271b489760ee35b3e0881a7',
-          id: 61535,
-          name: 'Steven Michael Quezada',
-          order: 173,
-          profile_path: '/4BRo6oc26kePVYxgNzYwUrDagVO.jpg',
-          gender: 'Male'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
         },
         {
-          character: 'Skinny Pete',
-          credit_id: '52744007760ee356f6076365',
-          id: 82945,
-          name: 'Charles Baker',
-          order: 182,
-          profile_path: '/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg',
+          character: 'Janet',
+          credit_id: '56d2cb7fc3a3681e3900e648',
+          id: 1292489,
+          name: 'Kimberley Drummond',
+          order: 70,
+          profile_path: '/4yP8MOtfT1Uu17ZsDVb6lGALrnC.jpg',
+          gender: 'Female'
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
           gender: 'Male'
         }
       ],
-      id: 62088,
-      name: 'Cancer Man',
-      overview: "Walter finally tells his family that he has been stricken with cancer. Meanwhile, the DEA believes Albuquerque has a new, big time player to worry about. Meanwhile, a worthy recipient is the target of a depressed Walter's anger, and Jesse makes a surprise visit to his parents home.",
+      id: 1151473,
+      name: 'The Not-So-Great Escape',
+      overview: 'Jackson tries to help Ramona at school but that lands them both in trouble and leads to a disagreement between DJ and Kimmy over parenting styles.',
       production_code: '',
       season_number: 1,
-      still_path: '/i5BAJVhuIWfkoSqDID6FnQNCTVc.jpg',
-      vote_average: 7.718,
-      vote_count: 71
+      still_path: '/5jyjlncgUhBPpK8hrO3TepCgR9k.jpg',
+      vote_average: 7.4,
     },
     {
-      air_date: DateTime_5,
-      crew: [
-        {
-          credit_id: '52542278760ee31328000aea',
-          department: 'Writing',
-          id: 1218856,
-          job: 'Writer',
-          name: 'Patty Lin',
-          gender: 'Female'
-        },
-        {
-          credit_id: '52b7049c19c2953b63015013',
-          department: 'Camera',
-          id: 17948,
-          job: 'Director of Photography',
-          name: 'Reynaldo Villalobos',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b7051619c29533d00e8c79',
-          department: 'Editing',
-          id: 1280074,
-          job: 'Editor',
-          name: 'Kelley Dixon',
-          profile_path: '/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg',
-          gender: 'Female'
-        },
-        {
-          credit_id: '5603c49292514122c00042fc',
-          department: 'Directing',
-          id: 1215145,
-          job: 'Director',
-          name: 'Tricia Brock',
-          profile_path: '/5OV41AzetM5WrJ0zKqmw4mShEk5.jpg',
-          gender: 'Female'
-        }
-      ],
+      air_date: DateTime_1,
       episode_number: 5,
       guest_stars: [
         {
-          character: 'Manager',
-          credit_id: '527445a9760ee356ff077e53',
-          id: 202830,
-          name: 'William Sterchi',
-          order: 43,
-          profile_path: '/6Pbp5BWDPZ7NhkcnjTkUhKEx3QU.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Farley',
-          credit_id: '527445f5760ee357130849b9',
-          id: 59303,
-          name: 'Marc Mouchet',
-          order: 44,
-          profile_path: '/8RRgHjKnTnRnhwbUTFn1V6vvc2S.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Off Duty Cop',
-          credit_id: '54e89b13c3a36836e0001dc9',
-          id: 209680,
-          name: 'Frederic Doss',
-          order: 180
-        },
-        {
-          character: 'Gretchen Schwartz',
-          credit_id: '52542275760ee31328000768',
-          id: 14984,
-          name: 'Jessica Hecht',
-          order: 182,
-          profile_path: '/icLFpyGlarQNUuwRvcY6xwSXT0p.jpg',
+          character: 'Shannon',
+          credit_id: '56d2cc69c3a3681e3600e651',
+          id: 212985,
+          name: 'Sasha Jackson',
+          order: 26,
+          profile_path: '/e1dVUW0ch27YdavOKI9F8XZwt1W.jpg',
           gender: 'Female'
         },
         {
-          character: 'Badger',
-          credit_id: '52744535760ee3572209100e',
-          id: 191202,
-          name: 'Matt Jones',
-          order: 182,
-          profile_path: '/x13vFDaJHY1CxNvSPWujYe12bMc.jpg',
+          character: 'Tyler',
+          credit_id: '56d2cc8092514157b50012a7',
+          id: 93031,
+          name: 'Ryan McPartlin',
+          order: 27,
+          profile_path: '/v0vKYfoSVLBEGBZ2ldjm3cHJwf3.jpg',
           gender: 'Male'
         },
         {
-          character: 'Elliott Schwartz',
-          credit_id: '527444c1760ee3572208fbc2',
-          id: 23429,
-          name: 'Adam Godley',
-          order: 182,
-          profile_path: '/xOM0zOb2KZ2q8M6lRrDo9bEBeJE.jpg',
-          gender: 'Male'
+          character: 'Hank',
+          credit_id: '56d2cc92925141340200a914',
+          id: 1583977,
+          name: 'Chris Rubeiz',
+          order: 28
+        },
+        {
+          character: 'DJ Unbreakable',
+          credit_id: '56d2cca8c3a3681e3600e65d',
+          id: 1583979,
+          name: 'Rajiv Dhall',
+          order: 29
+        },
+        {
+          character: 'Raver',
+          credit_id: '56d2ccc3c3a3681e3e010622',
+          id: 1569771,
+          name: 'Jenna Osterlund',
+          order: 30
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
         }
       ],
-      id: 62089,
-      name: 'Gray Matter',
-      overview: "Walter and Skyler attend a former colleague's party. Jesse tries to free himself from the drugs, while Skyler organizes an intervention.",
+      id: 1151474,
+      name: 'Mad Max',
+      overview: 'When an old friend whisks her away for a concert and after-hours fun, Stephanie realizes how much her nephews mean to her. Kimmy finds DJ a date.',
       production_code: '',
       season_number: 1,
-      still_path: '/82G3wZgEvZLKcte6yoZJahUWBtx.jpg',
-      vote_average: 8.029,
-      vote_count: 68
+      still_path: '/3LSOiNolRybPDjefsy4Y45Iafvu.jpg',
+      vote_average: 7.0,
     },
     {
-      air_date: DateTime_6,
-      crew: [
-        {
-          credit_id: '52542279760ee31328000b45',
-          department: 'Writing',
-          id: 1223193,
-          job: 'Writer',
-          name: 'George Mastras',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52542279760ee31328000b61',
-          department: 'Directing',
-          id: 18320,
-          job: 'Director',
-          name: 'Bronwen Hughes',
-          gender: 'Female'
-        },
-        {
-          credit_id: '52b7049c19c2953b63015013',
-          department: 'Camera',
-          id: 17948,
-          job: 'Director of Photography',
-          name: 'Reynaldo Villalobos',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b705e619c2955a1f0c895b',
-          department: 'Editing',
-          id: 1123195,
-          job: 'Editor',
-          name: 'Skip MacDonald'
-        }
-      ],
+      air_date: DateTime_1,
       episode_number: 6,
       guest_stars: [
         {
-          character: 'Tuco Salamanca',
-          credit_id: '5254227b760ee31328000cd6',
-          id: 58650,
-          name: 'Raymond Cruz',
-          order: 44,
-          profile_path: '/1a0GyTD2v2HSDUGlGf69IGKdFmJ.jpg',
+          character: 'King Jaguarito',
+          credit_id: '56d2cdb6c3a3681e3e010657',
+          id: 1583992,
+          name: 'John Overgaauw',
+          order: 33
+        },
+        {
+          character: 'Wrestling Arena Patron',
+          credit_id: '56d2cdd8925141340200a942',
+          id: 1583993,
+          name: 'Mary-Kate Fitzpatrick',
+          order: 34
+        },
+        {
+          character: 'Wrestling Arena Patron',
+          credit_id: '56d2cdddc3a3681e3600e690',
+          id: 1583994,
+          name: 'Mary-Kate Fitzpatrick',
+          order: 35
+        },
+        {
+          character: 'Chicken Costumed Patron',
+          credit_id: '56d2ce28c3a3681e5000d962',
+          id: 1555649,
+          name: 'Punnavith Koy',
+          order: 36,
+          profile_path: '/bKPoUxFeqfDV5tNykysMxOGC2Xf.jpg',
           gender: 'Male'
         },
         {
-          character: 'Hugo Archuleta',
-          credit_id: '52744776760ee356ea0892f3',
-          id: 210056,
-          name: 'Pierre Barrera',
-          order: 44,
-          profile_path: '/4JHYsaULy3LwSHig94olNyuYkx5.jpg'
+          character: 'Wrestling Announcer',
+          credit_id: '5789468ec3a36835fa003981',
+          id: 162811,
+          name: 'Jeff Bryan Davis',
+          order: 46,
+          profile_path: '/6Vt2uOD50PBf58a0YZAfWTNqiRj.jpg',
+          gender: 'Male'
         },
         {
-          character: 'Mrs. Pope',
-          credit_id: '527447f4760ee37c3e00f81f',
-          id: 187505,
-          name: 'Vivian Nesbitt',
-          order: 47,
-          profile_path: '/9ox3VUolTMVCvHHsxkY2DfGPRFa.jpg'
-        },
-        {
-          character: 'Student',
-          credit_id: '52744908760ee35a690730ed',
-          id: 1089016,
-          name: 'Seri DeYoung',
-          order: 49,
-          profile_path: '/nS0I9N5LOb8TmH4kIa7tIgpIy2z.jpg',
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
           gender: 'Female'
         },
         {
-          character: 'Lookout',
-          credit_id: '52744a4a760ee35a69077c8c',
-          id: 1221121,
-          name: 'Dennis Keiffer',
-          order: 50,
-          profile_path: '/bmLkNcO8emp17vTMKaRUBHYE15j.jpg',
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Bobby Popko',
+          credit_id: '56d2cd87c3a3681e5700eace',
+          id: 1567591,
+          name: 'Isaak Presley',
+          order: 82,
+          profile_path: '/7H36jaYm7RM8sqXVDnAjTvKe0lY.jpg',
           gender: 'Male'
         },
         {
-          character: 'Gonzo',
-          credit_id: '527447ca760ee356ea08e165',
-          id: 53255,
-          name: 'Cesar Garcia',
-          order: 52
-        },
-        {
-          character: 'No-Doze',
-          credit_id: '527447b3760ee3571308a638',
-          id: 1260529,
-          name: 'Jesus Jr.',
-          order: 52,
-          profile_path: '/g9FFHKY95LLALg7DuqeX6akAJSG.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Office Manager',
-          credit_id: '52744834760ee37c3e010cc7',
-          id: 210057,
-          name: 'Judith Rane',
-          order: 61,
-          profile_path: '/yY8fuyFCaXSjBRtDXaF178AwVqq.jpg'
-        },
-        {
-          character: 'Steven Gomez',
-          credit_id: '5271b489760ee35b3e0881a7',
-          id: 61535,
-          name: 'Steven Michael Quezada',
-          order: 173,
-          profile_path: '/4BRo6oc26kePVYxgNzYwUrDagVO.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Carmen Molina',
-          credit_id: '52542273760ee31328000676',
-          id: 115688,
-          name: 'Carmen Serano',
-          order: 176,
-          profile_path: '/nzJEe2UqvvMIBJZP1aeFEj4EunN.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Skinny Pete',
-          credit_id: '52744007760ee356f6076365',
-          id: 82945,
-          name: 'Charles Baker',
-          order: 182,
-          profile_path: '/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg',
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
           gender: 'Male'
         }
       ],
-      id: 62090,
-      name: "Crazy Handful of Nothin'",
-      overview: 'The side effects of chemo begin to plague Walt. Meanwhile, the DEA rounds up suspected dealers.',
+      id: 1151475,
+      name: 'The Legend of El Explosivo',
+      overview: 'DJ punishes Jackson, causing him to muss his favorite Mexican wrestling league, Lucha Kaboom. But only leads to more action for the fans.',
       production_code: '',
       season_number: 1,
-      still_path: '/hyYwqbmcHn3fuxWE3h4IhZZbkU3.jpg',
-      vote_average: 8.797,
-      vote_count: 69
+      still_path: '/rD67R26gu85poAPSBy4gtXLP2TJ.jpg',
+      vote_average: 6.75,
     },
     {
-      air_date: DateTime_7,
-      crew: [
-        {
-          credit_id: '5254227b760ee31328000d0c',
-          department: 'Directing',
-          id: 15858,
-          job: 'Director',
-          name: 'Tim Hunter',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b7049c19c2953b63015013',
-          department: 'Camera',
-          id: 17948,
-          job: 'Director of Photography',
-          name: 'Reynaldo Villalobos',
-          gender: 'Male'
-        },
-        {
-          credit_id: '52b702ea19c2955402183a66',
-          department: 'Editing',
-          id: 1280071,
-          job: 'Editor',
-          name: 'Lynne Willingham'
-        },
-        {
-          credit_id: '52542286760ee31328001ab9',
-          department: 'Writing',
-          id: 24951,
-          job: 'Writer',
-          name: 'Peter Gould',
-          gender: 'Male'
-        }
-      ],
+      air_date: DateTime_1,
       episode_number: 7,
       guest_stars: [
         {
-          character: 'Tuco Salamanca',
-          credit_id: '5254227b760ee31328000cd6',
-          id: 58650,
-          name: 'Raymond Cruz',
-          order: 44,
-          profile_path: '/1a0GyTD2v2HSDUGlGf69IGKdFmJ.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Realtor',
-          credit_id: '52744bd7760ee356ff08c286',
-          id: 967071,
-          name: 'Beth Bailey',
-          order: 50,
-          profile_path: '/eoedvwzfma84LRwfCYhkb69wky7.jpg',
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
           gender: 'Female'
         },
         {
-          character: 'Police Officer',
-          credit_id: '52744c32760ee37c3e01cba4',
-          id: 58651,
-          name: 'Geoffrey Rivas',
-          order: 51,
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
           gender: 'Male'
         },
         {
-          character: 'Gonzo',
-          credit_id: '527447ca760ee356ea08e165',
-          id: 53255,
-          name: 'Cesar Garcia',
-          order: 52
-        },
-        {
-          character: 'Jewelry Store Owner',
-          credit_id: '52744cd0760ee357130a126e',
-          id: 210154,
-          name: 'Mike Miller',
-          order: 52,
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
           gender: 'Male'
         },
         {
-          character: 'No-Doze',
-          credit_id: '527447b3760ee3571308a638',
-          id: 1260529,
-          name: 'Jesus Jr.',
-          order: 52,
-          profile_path: '/g9FFHKY95LLALg7DuqeX6akAJSG.jpg',
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        }
+      ],
+      id: 1151476,
+      name: "Ramona's Not-So-Epic Party",
+      overview: "Steve tries setting up DJ's handsome coworker with Kimmy, and Ramona's much-anticipated 13th birthday party doesn't turn out as planned for anybody.",
+      production_code: '',
+      season_number: 1,
+      still_path: '/hubbSJh92mSc7hMcEH4ecEU8Lv4.jpg',
+      vote_average: 7.0,
+    },
+    {
+      air_date: DateTime_1,
+      episode_number: 8,
+      guest_stars: [
+        {
+          character: 'Chief Mulrooney',
+          credit_id: '56d2cf57925141340200a97a',
+          id: 17837,
+          name: 'Patrick Gallagher',
+          order: 37,
+          profile_path: '/8ZWcp7kRwoh5cGZFByDQdhTODw9.jpg',
           gender: 'Male'
         },
         {
-          character: 'Dr. Delcavoli',
-          credit_id: '5271b65b760ee35b0c090f74',
-          id: 79211,
-          name: 'David House',
-          order: 71,
-          profile_path: '/t67HnLsCMecFLMdhtJQbkiQiyXq.jpg'
+          character: 'Kyle',
+          credit_id: '56d2cf6992514157b5001317',
+          id: 1517537,
+          name: 'Bechir Sylvain',
+          order: 38,
+          gender: 'Male'
         },
         {
-          character: 'Carmen Molina',
-          credit_id: '52542273760ee31328000676',
-          id: 115688,
-          name: 'Carmen Serano',
-          order: 176,
-          profile_path: '/nzJEe2UqvvMIBJZP1aeFEj4EunN.jpg',
+          character: 'Taylor',
+          credit_id: '56d2cf7e92514157b5001322',
+          id: 1583996,
+          name: 'Lucas Jaye',
+          order: 39,
+          profile_path: '/zj4CFCNqDcGZopRhraGNHNykB59.jpg'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Danny Tanner',
+          credit_id: '56d2c7fbc3a3681e3c010177',
+          id: 72450,
+          name: 'Bob Saget',
+          order: 90,
+          profile_path: '/hLHwGxlfhm1qnPgjp1deDdhZN7t.jpg',
+          gender: 'Male'
+        }
+      ],
+      id: 1151477,
+      name: 'Secrets, Lies and Firetrucks',
+      overview: 'When Max learns to lie, he also learns that lies can backfire. Meanwhile, the ladies of the house fall in love with secrets.',
+      production_code: '',
+      season_number: 1,
+      still_path: '/yoerAj0P42YePcdG0Tr1BHYPvs0.jpg',
+      vote_average: 5.667,
+    },
+    {
+      air_date: DateTime_1,
+      episode_number: 9,
+      guest_stars: [
+        {
+          character: 'Harry Takayama',
+          credit_id: '56d2d0529251413e6a00f520',
+          id: 179048,
+          name: 'Michael Sun Lee',
+          order: 40,
+          profile_path: '/c1rUC0vTFQemJfRjq5d8zpEbrfQ.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Jesse Katsopolis',
+          credit_id: '56d2c7cd92514102db0005ea',
+          id: 32600,
+          name: 'John Stamos',
+          order: 81,
+          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Becky Katsopolis',
+          credit_id: '56d2c834925141799e00c208',
+          id: 92509,
+          name: 'Lori Loughlin',
+          order: 91,
+          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
           gender: 'Female'
         }
       ],
-      id: 62091,
-      name: 'A No-Rough-Stuff-Type Deal',
-      overview: "Walter accepts his new identity as a drug dealer after a PTA meeting. Elsewhere, Jesse decides to put his aunt's house on the market and Skyler is the recipient of a baby shower.",
+      id: 1151478,
+      name: 'War of the Roses',
+      overview: 'After 1,000 roses show up without a card, DJ, Kimmy and Stephanie must figure out which one of them has a secret admirer.',
       production_code: '',
       season_number: 1,
-      still_path: '/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg',
-      vote_average: 8.203,
-      vote_count: 69
+      still_path: '/e5NQxP9LEv1yEtdhXEet8zCzeQr.jpg',
+      vote_average: 6.0,
+    },
+    {
+      air_date: DateTime_1,
+      episode_number: 10,
+      guest_stars: [
+        {
+          character: 'Hunter Pence',
+          credit_id: '56d2d103c3a3681e5000d9eb',
+          id: 1583997,
+          name: 'Hunter Pence',
+          order: 41
+        },
+        {
+          character: 'Fan',
+          credit_id: '56d2d11692514102db000752',
+          id: 159907,
+          name: 'Brad Grunberg',
+          order: 42,
+          profile_path: '/4ZBParqJyo1eJ1ti5QcnejP0ZJx.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Vendor',
+          credit_id: '56d2d12892514102db000759',
+          id: 1583999,
+          name: 'Derek Viveiros',
+          order: 43
+        },
+        {
+          character: 'Baseball Fan',
+          credit_id: '56d2d137925141799e00c36c',
+          id: 1584000,
+          name: 'Benito M. Selim',
+          order: 44
+        },
+        {
+          character: 'Baseball Fan',
+          credit_id: '56d2d154c3a3681e3c0102cd',
+          id: 208382,
+          name: 'Jeff Redlick',
+          order: 45
+        },
+        {
+          character: 'San Francisco Giants Security Officer',
+          credit_id: '56d2d166c3a3681e4401045c',
+          id: 928577,
+          name: 'Steven Wiig',
+          order: 46
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        }
+      ],
+      id: 1151479,
+      name: 'A Giant Leap',
+      overview: "Things get out of hand when Stephanie's new boyfriend, Hunter Pence of the San Fransisco Giants, invites everybody to one of his baseball games.",
+      production_code: '',
+      season_number: 1,
+      still_path: '/i7owl1Ff84EWFhtuPpGceqAJ3NC.jpg',
+      vote_average: 5.5,
+    },
+    {
+      air_date: DateTime_1,
+      episode_number: 11,
+      guest_stars: [
+        {
+          character: 'Dr. Fred Harmon',
+          credit_id: '56d2cb68c3a3681e5700ea7b',
+          id: 41465,
+          name: 'Robin Thomas',
+          order: 21,
+          profile_path: '/seivBO3KRFAKqNgL3wnvpwxHwKz.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        }
+      ],
+      id: 1151480,
+      name: 'Partnership in the Night',
+      overview: "Stephanie and Kimmy form a strange partnership. DJ's boss retires, and Max has Jackson and Ramona right where he wants them.",
+      production_code: '',
+      season_number: 1,
+      still_path: '/tIpJCJmkd497xGfAQGnqJlHGJpC.jpg',
+      vote_average: 6.0,
+    },
+    {
+      air_date: DateTime_1,
+      episode_number: 12,
+      guest_stars: [
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        }
+      ],
+      id: 1151481,
+      name: 'Save the Dates',
+      overview: "DJ has a date with her past that catches get off guard, and Kimmy's date with Fernando is nothing but surprises.",
+      production_code: '',
+      season_number: 1,
+      still_path: '/fz0Pf7BYCkXNJXocCDn0qRA9Bwt.jpg',
+      vote_average: 7.0,
+    },
+    {
+      air_date: DateTime_1,
+      episode_number: 13,
+      guest_stars: [
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Jesse Katsopolis',
+          credit_id: '56d2c7cd92514102db0005ea',
+          id: 32600,
+          name: 'John Stamos',
+          order: 81,
+          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Joey Gladstone',
+          credit_id: '56d2c8149251413e5f00ee2c',
+          id: 1218736,
+          name: 'Dave Coulier',
+          order: 82,
+          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Becky Katsopolis',
+          credit_id: '56d2c834925141799e00c208',
+          id: 92509,
+          name: 'Lori Loughlin',
+          order: 91,
+          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
+          gender: 'Female'
+        }
+      ],
+      id: 1151482,
+      name: 'Love is in the Air',
+      overview: 'When Jesse and Becky return to renew their vows, a bachelorette party leads to trouble for DJ, who is forced to make a decision.',
+      production_code: '',
+      season_number: 1,
+      still_path: '/r24ItY7B4KRCgZOVnFUxoAy5N7x.jpg',
+      vote_average: 7.0,
     }
   ],
   external_ids: {
-    tvdb_id: '30272',
-    freebase_id: '/en/breaking_bad_season_1',
-    freebase_mid: '/m/05yy27m',
-    id: 3572
+    id: 69559
   },
-  id: 3572,
+  id: 69559,
   images: {
-    id: 3572,
+    id: 69559,
     posters: [
       {
         aspect_ratio: 0.6666666666666666,
-        file_path: '/1BP4xYv9ZG4ZVHkL7ocOziBbSYH.jpg',
-        height: 1800,
-        iso_639_1: 'en',
-        vote_average: 5.522,
-        vote_count: 6,
-        width: 1200
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/o5131POxv9xFl3wBmdg0YWc9Iz4.jpg',
-        height: 1425,
-        iso_639_1: 'en',
-        vote_average: 5.318,
-        vote_count: 3,
-        width: 950
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/qMzUt1Sc9RgfcjB1ScD8N3knR70.jpg',
-        height: 1500,
+        file_path: '/zruCf7X7i05nH0greNkcYouKYAW.jpg',
+        height: 2100,
         iso_639_1: 'en',
         vote_average: 5.312,
-        vote_count: 1,
-        width: 1000
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/mLPHZocLjPmzACcnvJVaOiM4Sf4.jpg',
-        height: 2268,
-        iso_639_1: 'hu',
-        vote_average: 5.312,
-        vote_count: 1,
-        width: 1512
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg',
-        height: 578,
-        iso_639_1: 'pt',
-        vote_average: 5.312,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/8yHDd0EVpNpWk1VBa9QP4iUmw0v.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.296703296703297,
-        vote_count: 2,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/e5WjVMRr1DOZMnqsm6jRtnmMOTf.jpg',
-        height: 1500,
-        iso_639_1: 'hu',
-        vote_average: 5.246,
-        vote_count: 2,
-        width: 1000
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/4b2BRHmDnb3Ab9WdNZS3zB2zcyG.jpg',
-        height: 578,
-        iso_639_1: 'de',
-        vote_average: 5.246,
-        vote_count: 2,
-        width: 400
-      },
-      {
-        aspect_ratio: 1.0,
-        file_path: '/lVbofIPlw3kYa8FQgHT7GtWMI2Q.jpg',
-        height: 1000,
-        iso_639_1: 'nl',
-        vote_average: 5.246,
-        vote_count: 2,
-        width: 1000
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/dHCYpEoHEjAV6Xt3eyNthkdLRl3.jpg',
-        height: 1500,
-        iso_639_1: 'en',
-        vote_average: 5.245202558635395,
-        vote_count: 4,
-        width: 1000
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/l5s5lfqpdP4uigrZtu5Sg8hfWqG.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/tkZ9bXm9iFNEdZmblSl8rxgpstT.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/m8V6Fm2dV7tNvjCmBpROSU3Zrq4.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/ryreluyqCf6CxlEFbZSceVGw8NL.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/zJV0m4IFtsmF2QsCk4Yrwv5frNn.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/wr0pPDfwn4gNQxjNWpkazhN13tZ.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/6lP6ac4wNmWgtfVvrsl53bMqrKS.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.171130952380953,
-        vote_count: 1,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/2lhO5zd1nnf7PjC7dGCUo45Volz.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        vote_average: 5.106227106227106,
-        vote_count: 2,
-        width: 400
-      },
-      {
-        aspect_ratio: 0.706,
-        file_path: '/smOdus61Cfc7PbYlb3LkOfljj8f.jpg',
-        height: 1000,
-        iso_639_1: 'bg',
-        width: 706
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/kmMkmUOdDzbYNFKkMLSRpxEgsvQ.jpg',
-        height: 3000,
-        iso_639_1: 'es',
-        width: 2000
+        width: 1400
       },
       {
         aspect_ratio: 0.68,
-        file_path: '/pD4gCQunvD921tOz4QZBX2Zdk7H.jpg',
+        file_path: '/3pnNvxZSOuVECMXBjKb1NHiUSbs.jpg',
         height: 1000,
-        iso_639_1: 'ru',
+        vote_average: 5.172,
         width: 680
       },
       {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/fRlrqBPD0jf7WS3c1kdd4NTpE3c.jpg',
-        height: 578,
-        iso_639_1: 'pt',
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/dwuLNYvZR0n22tHx5a14mhq4ysn.jpg',
-        height: 578,
-        iso_639_1: 'en',
-        width: 400
-      },
-      {
-        aspect_ratio: 0.6666666666666666,
-        file_path: '/wyYKXa7ebhUjgGZOGQ5Qx3c7DUB.jpg',
-        height: 1395,
-        iso_639_1: 'en',
-        width: 930
-      },
-      {
-        aspect_ratio: 0.6920415224913494,
-        file_path: '/oW0G4MKWcyNaRGckZf8WRFyO5cH.jpg',
-        height: 578,
-        iso_639_1: 'ru',
-        width: 400
+        aspect_ratio: 0.6802721088435374,
+        file_path: '/xxvGlY8xRK17vtpmxRvAIaP5l8Z.jpg',
+        height: 882,
+        iso_639_1: 'he',
+        width: 600
       }
     ]
   },
   name: 'Season 1',
-  overview: 'High school chemistry teacher Walter White\'s life is suddenly transformed by a dire medical diagnosis. Street-savvy former student Jesse Pinkman "teaches" Walter a new trade.',
-  poster_path: '/1BP4xYv9ZG4ZVHkL7ocOziBbSYH.jpg',
+  overview: '',
+  poster_path: '/zruCf7X7i05nH0greNkcYouKYAW.jpg',
   season_number: 1,
   videos: {
-    id: 3572
+    id: 69559,
+    results: [
+      {
+        id: '5debfc93daf57c0013ea6d67',
+        iso_3166_1: 'US',
+        iso_639_1: 'en',
+        key: '_n3MhMY7EgQ',
+        name: 'FULLER HOUSE Official Season 1 TRAILER (2016) Netflix',
+        site: 'YouTube',
+        size: 1080,
+        type: 'Trailer'
+      }
+    ]
   }
 }

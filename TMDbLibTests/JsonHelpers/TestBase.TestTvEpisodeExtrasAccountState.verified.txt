@@ -141,7 +141,6 @@
   production_code: '276023',
   still_path: '/rxWlBXZhGWhumbLB8gAHyyW3ITD.jpg',
   vote_average: 7.015,
-  vote_count: 67,
   id: 64766,
   season_number: 1,
   episode_number: 1

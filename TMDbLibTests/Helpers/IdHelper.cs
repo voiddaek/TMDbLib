@@ -30,6 +30,7 @@
         public const int BigBangTheorySeason1Episode2Id = 64777;
         public const int DoctorWho = 121;
         public const int House = 1408;
+        public const int FullerHouse = 63623;
 
         public const int TmdbBreakingBadId = 1396;
         public const string TvdbBreakingBadId = "81189";
@@ -41,6 +42,7 @@
         public const string FreebaseMidBreakingBadId = "m/03d34x8";
 
         // Persons
+        public const int FrankSinatra = 4347;
         public const int BruceWillis = 62;
         public const int HughLaurie = 41419;
         public const string ImdbBruceWillis = "nm0000246";

@@ -70,9 +70,9 @@ namespace TMDbLibTests
             await TMDbClient.SetSessionInformationAsync(TestConfig.UserSessionId, SessionType.UserSession);
 
             // Account states will only show up if we've done something
-            await TMDbClient.TvEpisodeSetRatingAsync(IdHelper.BreakingBad, 1, 1, 5);
+            await TMDbClient.TvEpisodeSetRatingAsync(IdHelper.FullerHouse, 1, 1, 5);
 
-            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetTvSeasonAsync(IdHelper.BreakingBad, 1, combined), season => Verify(season));
+            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetTvSeasonAsync(IdHelper.FullerHouse, 1, combined), season => Verify(season));
         }
 
         [Fact]

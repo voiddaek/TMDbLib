@@ -82,15 +82,6 @@
         gender: 'Male'
       },
       {
-        character: 'Jesse Pinkman',
-        credit_id: '52542282760ee31328001845',
-        id: 84497,
-        name: 'Aaron Paul',
-        order: 1,
-        profile_path: '/u8UdsB9yenM4uHEjmce4nkBn48X.jpg',
-        gender: 'Male'
-      },
-      {
         character: 'Skyler White',
         credit_id: '52542282760ee3132800181b',
         id: 134531,
@@ -98,6 +89,15 @@
         order: 2,
         profile_path: '/adppyeu1a4REN3khtgmXusrapFi.jpg',
         gender: 'Female'
+      },
+      {
+        character: 'Jesse Pinkman',
+        credit_id: '52542282760ee31328001845',
+        id: 84497,
+        name: 'Aaron Paul',
+        order: 1,
+        profile_path: '/u8UdsB9yenM4uHEjmce4nkBn48X.jpg',
+        gender: 'Male'
       },
       {
         character: 'Hank Schrader',
@@ -287,7 +287,6 @@
         file_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
         height: 1080,
         vote_average: 5.3125,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -295,7 +294,6 @@
         file_path: '/88Z0fMP8a88EpQWMCs1593G0ngu.jpg',
         height: 1080,
         vote_average: 5.282738095238095,
-        vote_count: 1,
         width: 1920
       },
       {
@@ -333,7 +331,6 @@
   production_code: '',
   still_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
   vote_average: 7.926,
-  vote_count: 170,
   id: 62085,
   season_number: 1,
   episode_number: 1

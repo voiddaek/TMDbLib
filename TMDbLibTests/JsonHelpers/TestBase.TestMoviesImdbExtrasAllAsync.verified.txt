@@ -919,12 +919,32 @@
         gender: 'Male'
       },
       {
+        cast_id: 412,
+        character: '(archive footage)',
+        credit_id: '5f7f93a862e86f0034dd5d81',
+        id: 3897,
+        name: 'Katie Holmes',
+        order: 92,
+        profile_path: '/dSvQMmznCsoXQBSOtU5IBA399R4.jpg',
+        gender: 'Female'
+      },
+      {
+        cast_id: 413,
+        character: '(archive footage)',
+        credit_id: '5f7f93bf62e86f0035dd5d68',
+        id: 6383,
+        name: 'Aaron Eckhart',
+        order: 93,
+        profile_path: '/u9daQmQQU10r3l6R2NW5UVWyeKv.jpg',
+        gender: 'Male'
+      },
+      {
         cast_id: 232,
         character: 'Gotham City Police Officer (uncredited)',
         credit_id: '5623d5d69251417f4700becf',
         id: 1406682,
         name: 'Marc Abbink',
-        order: 93,
+        order: 94,
         gender: 'Male'
       },
       {
@@ -933,7 +953,7 @@
         credit_id: '56252c5a9251413980001f01',
         id: 1167718,
         name: 'Isiah Adams',
-        order: 94
+        order: 95
       },
       {
         cast_id: 234,
@@ -941,7 +961,7 @@
         credit_id: '56252cb2c3a3680e1d013497',
         id: 572221,
         name: 'Charlie Alejandro',
-        order: 95,
+        order: 96,
         gender: 'Female'
       },
       {
@@ -950,7 +970,7 @@
         credit_id: '56252cf9c3a3680e1d01349c',
         id: 1116933,
         name: 'Robert Arensen',
-        order: 96,
+        order: 97,
         gender: 'Male'
       },
       {
@@ -959,7 +979,7 @@
         credit_id: '56252d43c3a3680e2001483e',
         id: 1524158,
         name: 'Grant Babbitt',
-        order: 97
+        order: 98
       },
       {
         cast_id: 237,
@@ -967,7 +987,7 @@
         credit_id: '56252d6e9251413980001f2a',
         id: 139188,
         name: 'Fileena Bahris',
-        order: 98,
+        order: 99,
         profile_path: '/sxbHLlfBpu3k10rbkbDETQN2I5p.jpg',
         gender: 'Female'
       },
@@ -977,7 +997,7 @@
         credit_id: '56258b759251413980002af5',
         id: 1075845,
         name: 'Rick Bolander',
-        order: 99
+        order: 100
       },
       {
         cast_id: 239,
@@ -985,7 +1005,7 @@
         credit_id: '56258bb192514135b000724c',
         id: 1283949,
         name: 'Kyle Patrick Brennan',
-        order: 100
+        order: 101
       },
       {
         cast_id: 240,
@@ -993,7 +1013,7 @@
         credit_id: '56267a109251412f15000873',
         id: 1344943,
         name: 'Scott Churchson',
-        order: 101
+        order: 102
       },
       {
         cast_id: 241,
@@ -1001,7 +1021,7 @@
         credit_id: '56267aeec3a3680e200186f9',
         id: 1240191,
         name: 'Bill Cowher',
-        order: 102,
+        order: 103,
         profile_path: '/nR2Sea2RUoaoRwyQyMR3Aun00uD.jpg'
       },
       {
@@ -1010,7 +1030,7 @@
         credit_id: '56267bbc9251412f150008ac',
         id: 1359461,
         name: 'Graham Curry',
-        order: 103,
+        order: 104,
         gender: 'Male'
       },
       {
@@ -1019,7 +1039,7 @@
         credit_id: '5626dd3f92514137bb0006c8',
         id: 1163300,
         name: 'Stephanie Domini Ehlert',
-        order: 104,
+        order: 105,
         gender: 'Female'
       },
       {
@@ -1028,7 +1048,7 @@
         credit_id: '5627ca69c3a3687c52000500',
         id: 93752,
         name: 'John Farrer',
-        order: 105,
+        order: 106,
         profile_path: '/aNSWpZyyyZNQCISCLKoHqtpNKyU.jpg',
         gender: 'Male'
       },
@@ -1038,7 +1058,7 @@
         credit_id: '5627caafc3a3687c600004b3',
         id: 1343309,
         name: 'Frank Fata',
-        order: 106
+        order: 107
       },
       {
         cast_id: 246,
@@ -1046,7 +1066,7 @@
         credit_id: '562830b7c3a3684880000421',
         id: 1372419,
         name: 'Christopher Bryan Gomez',
-        order: 107
+        order: 108
       },
       {
         cast_id: 247,
@@ -1054,7 +1074,7 @@
         credit_id: '562831229251414cdd000442',
         id: 1502323,
         name: 'Vito Grassi',
-        order: 108
+        order: 109
       },
       {
         cast_id: 248,
@@ -1062,7 +1082,7 @@
         credit_id: '5628314ec3a368487d00043e',
         id: 1509064,
         name: 'Michael Wren Gucciardo',
-        order: 109,
+        order: 110,
         gender: 'Male'
       },
       {
@@ -1071,7 +1091,7 @@
         credit_id: '56291cdc9251414ccf002762',
         id: 1365976,
         name: 'Ed Heavey',
-        order: 110
+        order: 111
       },
       {
         cast_id: 251,
@@ -1079,7 +1099,7 @@
         credit_id: '56291d5cc3a368488c002830',
         id: 1098036,
         name: 'John W. Iwanonkiw',
-        order: 111,
+        order: 112,
         profile_path: '/v2PmLZJAt2CrEMyN7yNVvYkrc2f.jpg',
         gender: 'Male'
       },
@@ -1089,7 +1109,7 @@
         credit_id: '56291dec9251414cd20026d0',
         id: 1354413,
         name: 'Cindy Jackson',
-        order: 112
+        order: 113
       },
       {
         cast_id: 253,
@@ -1097,7 +1117,7 @@
         credit_id: '56291ecc9251414cd800251f',
         id: 123875,
         name: 'Daniel Jordano',
-        order: 113
+        order: 114
       },
       {
         cast_id: 255,
@@ -1255,7 +1275,7 @@
         credit_id: '562d1f0592514128530088c1',
         id: 1429650,
         name: 'Kyle David Pierce',
-        order: 135
+        order: 133
       },
       {
         cast_id: 277,
@@ -1263,7 +1283,7 @@
         credit_id: '562d1f3c9251412845007b7b',
         id: 1349600,
         name: 'Troy Polamalu',
-        order: 136,
+        order: 134,
         profile_path: '/wwOV9ETBQh3kCeqW4K0lpXDiqrm.jpg'
       },
       {
@@ -1272,7 +1292,7 @@
         credit_id: '562d1fc89251412857007fd5',
         id: 1066138,
         name: 'Michael Power',
-        order: 137
+        order: 135
       },
       {
         cast_id: 279,
@@ -1280,7 +1300,7 @@
         credit_id: '562e68b892514140060097f1',
         id: 565508,
         name: 'James Rawlings',
-        order: 138
+        order: 136
       },
       {
         cast_id: 280,
@@ -1288,7 +1308,7 @@
         credit_id: '562e696e9251410a22006da5',
         id: 1513716,
         name: 'Kirsten Roeters',
-        order: 139,
+        order: 137,
         profile_path: '/gQdrVuphVVheH6FVW2Jq37vJ50G.jpg',
         gender: 'Female'
       },
@@ -1298,7 +1318,7 @@
         credit_id: '562e69a79251414006009814',
         id: 1215314,
         name: 'Ben Roethlisberger',
-        order: 140,
+        order: 138,
         profile_path: '/mk6jp0aMH5j0bTRbe5nHeycxgsQ.jpg'
       },
       {
@@ -1307,7 +1327,7 @@
         credit_id: '562e6a059251410a22006dba',
         id: 1452954,
         name: 'Mark Roman',
-        order: 141,
+        order: 139,
         gender: 'Male'
       },
       {
@@ -1316,7 +1336,7 @@
         credit_id: '562ed4c7c3a3681b6100c5aa',
         id: 1085730,
         name: 'Eric Salazar',
-        order: 142,
+        order: 140,
         profile_path: '/bPFWIV2ClLBZeF9oaSH78gMzqzS.jpg'
       },
       {
@@ -1325,7 +1345,7 @@
         credit_id: '562ed503c3a3681b5c00bed4',
         id: 557202,
         name: 'Emily Schooley',
-        order: 143
+        order: 141
       },
       {
         cast_id: 286,
@@ -1333,7 +1353,7 @@
         credit_id: '562fbf75c3a3681b5c00dc2a',
         id: 54211,
         name: 'Thomas Tull',
-        order: 144,
+        order: 142,
         profile_path: '/5UG4FK7rsmhzJDYxpU28acqfxtu.jpg'
       },
       {
@@ -1342,7 +1362,7 @@
         credit_id: '562fbfd3c3a3681b6100e4f0',
         id: 1480223,
         name: 'Chris Vaina',
-        order: 145,
+        order: 143,
         gender: 'Male'
       },
       {
@@ -1351,7 +1371,7 @@
         credit_id: '562fbff69251414ab700beee',
         id: 102516,
         name: 'Vincent van Ommen',
-        order: 146,
+        order: 144,
         gender: 'Male'
       },
       {
@@ -1360,7 +1380,7 @@
         credit_id: '562fc0af925141285700d780',
         id: 1205623,
         name: 'Barbara Vincent',
-        order: 148
+        order: 145
       },
       {
         cast_id: 291,
@@ -1368,7 +1388,7 @@
         credit_id: '5630244bc3a3681b5200e663',
         id: 1521872,
         name: 'Justin Michael Woods',
-        order: 149
+        order: 146
       },
       {
         cast_id: 292,
@@ -1376,7 +1396,7 @@
         credit_id: '5630248e925141284c00e8af',
         id: 306870,
         name: 'Jason Yee',
-        order: 150,
+        order: 147,
         profile_path: '/1lfUWAtThxdgCtBMNyIstflkHSq.jpg'
       },
       {
@@ -1385,7 +1405,7 @@
         credit_id: '56302558925141284c00e8c9',
         id: 1343746,
         name: 'John Zion',
-        order: 152
+        order: 148
       },
       {
         cast_id: 295,
@@ -1393,7 +1413,7 @@
         credit_id: '56302586c3a3681b4d0101a4',
         id: 1454322,
         name: 'Alex Ziwak',
-        order: 153,
+        order: 149,
         gender: 'Male'
       },
       {
@@ -1402,7 +1422,7 @@
         credit_id: '567b4b6ac3a3684bcc001325',
         id: 1553053,
         name: 'Tommy Bayiokos',
-        order: 154,
+        order: 150,
         gender: 'Male'
       },
       {
@@ -1411,7 +1431,7 @@
         credit_id: '567c3783c3a36860e90013c3',
         id: 1553307,
         name: 'Matthew Gooley',
-        order: 155
+        order: 151
       },
       {
         cast_id: 314,
@@ -1419,7 +1439,7 @@
         credit_id: '567c9d3d9251417ddd0050fc',
         id: 1553377,
         name: 'Jeff Moffitt',
-        order: 156
+        order: 152
       },
       {
         cast_id: 352,
@@ -1427,7 +1447,7 @@
         credit_id: '56be271e9251417344004195',
         id: 1576421,
         name: 'Diogo Hausen',
-        order: 157
+        order: 153
       },
       {
         cast_id: 355,
@@ -1435,7 +1455,7 @@
         credit_id: '56c8aca1925141172f00382b',
         id: 1580574,
         name: 'Gary Sievers',
-        order: 158,
+        order: 154,
         gender: 'Male'
       },
       {
@@ -1444,7 +1464,7 @@
         credit_id: '56d0fb3d925141799e004ac6',
         id: 1583389,
         name: 'Orion McCabe',
-        order: 159
+        order: 155
       },
       {
         cast_id: 368,
@@ -1452,7 +1472,7 @@
         credit_id: '575af48cc3a368540300009a',
         id: 1633514,
         name: 'London May',
-        order: 160,
+        order: 156,
         gender: 'Male'
       },
       {
@@ -1461,7 +1481,7 @@
         credit_id: '57c84ca89251415a13000102',
         id: 1673036,
         name: 'James Quinn',
-        order: 161,
+        order: 157,
         profile_path: '/bR46FAkEgtBJwAshZGZS4zaTxTs.jpg',
         gender: 'Male'
       },
@@ -1471,7 +1491,7 @@
         credit_id: '5a0de8c19251416c80002a60',
         id: 1543874,
         name: 'Joe Fishel',
-        order: 162,
+        order: 158,
         profile_path: '/Aapim9EAy3vY8eeS4n4tnF4iHsY.jpg',
         gender: 'Male'
       },
@@ -1481,7 +1501,7 @@
         credit_id: '5d5102609c0550234a45037a',
         id: 2385060,
         name: 'Vanessa Alameda',
-        order: 163,
+        order: 159,
         gender: 'Female'
       },
       {
@@ -1490,7 +1510,7 @@
         credit_id: '5e84a874cb6db50015a80970',
         id: 2476315,
         name: 'Ming Wang',
-        order: 164,
+        order: 160,
         profile_path: '/uX7Ikgi1EUgMGtFRYsHch5ZtDhj.jpg',
         gender: 'Female'
       }
@@ -4099,6 +4119,14 @@
     page: 1,
     results: [
       {
+        description: 'Peliculas vistas',
+        id: '132058',
+        iso_639_1: 'en',
+        item_Count: 293,
+        list_type: 'movie',
+        name: 'Vistas'
+      },
+      {
         description: '',
         id: '128648',
         iso_639_1: 'en',
@@ -4249,14 +4277,6 @@
         item_Count: 68,
         list_type: 'movie',
         name: 'Películas Vistas'
-      },
-      {
-        description: '',
-        id: '16832',
-        iso_639_1: 'en',
-        item_Count: 525,
-        list_type: 'movie',
-        name: 'Cinema'
       }
     ],
     total_pages: 70,
@@ -5476,28 +5496,8 @@
         popularity: 29.566
       },
       {
-        original_title: 'Batman: Assault on Arkham',
-        release_date: DateTime_23,
-        title: 'Batman: Assault on Arkham',
-        backdrop_path: '/bAM1hVZEQRo1ZujryQ47bOtxEe8.jpg',
-        genre_ids: [
-          53,
-          16,
-          28,
-          80
-        ],
-        original_language: 'en',
-        overview: 'Based on the hit video game series, Batman must find a bomb planted by the Joker while dealing with a mysterious team of villains called the Suicide Squad.',
-        poster_path: '/mmQZekxr9gJ7c0Grkx6xgKvrpDy.jpg',
-        vote_average: 7.3,
-        vote_count: 707,
-        id: 242643,
-        media_type: 'movie',
-        popularity: 20.427
-      },
-      {
         original_title: 'Green Lantern',
-        release_date: DateTime_24,
+        release_date: DateTime_23,
         title: 'Green Lantern',
         backdrop_path: '/8EZ3hY4zhSorcRt4WtoaydsG3Ts.jpg',
         genre_ids: [
@@ -5514,6 +5514,26 @@
         id: 44912,
         media_type: 'movie',
         popularity: 28.297
+      },
+      {
+        original_title: 'Batman: Assault on Arkham',
+        release_date: DateTime_24,
+        title: 'Batman: Assault on Arkham',
+        backdrop_path: '/bAM1hVZEQRo1ZujryQ47bOtxEe8.jpg',
+        genre_ids: [
+          53,
+          16,
+          28,
+          80
+        ],
+        original_language: 'en',
+        overview: 'Based on the hit video game series, Batman must find a bomb planted by the Joker while dealing with a mysterious team of villains called the Suicide Squad.',
+        poster_path: '/mmQZekxr9gJ7c0Grkx6xgKvrpDy.jpg',
+        vote_average: 7.3,
+        vote_count: 707,
+        id: 242643,
+        media_type: 'movie',
+        popularity: 20.427
       },
       {
         original_title: 'Batman: Year One',
@@ -5675,28 +5695,8 @@
         popularity: 24.052
       },
       {
-        original_title: 'Man of Steel',
-        release_date: DateTime_33,
-        title: 'Man of Steel',
-        backdrop_path: '/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg',
-        genre_ids: [
-          28,
-          12,
-          14,
-          878
-        ],
-        original_language: 'en',
-        overview: 'A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.',
-        poster_path: '/7rIPjn5TUK04O25ZkMyHrGNPgLx.jpg',
-        vote_average: 6.5,
-        vote_count: 11403,
-        id: 49521,
-        media_type: 'movie',
-        popularity: 43.612
-      },
-      {
         original_title: 'Supergirl',
-        release_date: DateTime_34,
+        release_date: DateTime_33,
         title: 'Supergirl',
         backdrop_path: '/iITh61m2nhUQ27kfmWH5bGoxEuf.jpg',
         genre_ids: [
@@ -5715,8 +5715,47 @@
         popularity: 24.221
       },
       {
-        original_title: 'Wonder Woman',
+        original_title: 'Man of Steel',
+        release_date: DateTime_34,
+        title: 'Man of Steel',
+        backdrop_path: '/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg',
+        genre_ids: [
+          28,
+          12,
+          14,
+          878
+        ],
+        original_language: 'en',
+        overview: 'A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.',
+        poster_path: '/7rIPjn5TUK04O25ZkMyHrGNPgLx.jpg',
+        vote_average: 6.5,
+        vote_count: 11403,
+        id: 49521,
+        media_type: 'movie',
+        popularity: 43.612
+      },
+      {
+        original_title: 'Justice League: Crisis on Two Earths',
         release_date: DateTime_35,
+        title: 'Justice League: Crisis on Two Earths',
+        backdrop_path: '/izhfC6rIMgqWdNgBJGoJ5lP5M5.jpg',
+        genre_ids: [
+          28,
+          12,
+          16
+        ],
+        original_language: 'en',
+        overview: "A heroic version of Lex Luthor from an alternate universe appears to recruit the Justice League to help save his Earth from the Crime Syndicate, an evil version of the League. What ensues is the ultimate battle of good versus evil in a war that threatens both planets and, through a devious plan launched by Batman's counterpart Owlman, puts the balance of all existence in peril.",
+        poster_path: '/5Cjrxbv0BIxzgKFC9PYcgmPtnMV.jpg',
+        vote_average: 7.3,
+        vote_count: 390,
+        id: 30061,
+        media_type: 'movie',
+        popularity: 20.915
+      },
+      {
+        original_title: 'Wonder Woman',
+        release_date: DateTime_36,
         title: 'Wonder Woman',
         backdrop_path: '/qMp8cqGbqje5wmb4w4cZelurKw0.jpg',
         genre_ids: [
@@ -5734,25 +5773,6 @@
         id: 15359,
         media_type: 'movie',
         popularity: 14.986
-      },
-      {
-        original_title: 'Justice League: Crisis on Two Earths',
-        release_date: DateTime_36,
-        title: 'Justice League: Crisis on Two Earths',
-        backdrop_path: '/izhfC6rIMgqWdNgBJGoJ5lP5M5.jpg',
-        genre_ids: [
-          28,
-          12,
-          16
-        ],
-        original_language: 'en',
-        overview: "A heroic version of Lex Luthor from an alternate universe appears to recruit the Justice League to help save his Earth from the Crime Syndicate, an evil version of the League. What ensues is the ultimate battle of good versus evil in a war that threatens both planets and, through a devious plan launched by Batman's counterpart Owlman, puts the balance of all existence in peril.",
-        poster_path: '/5Cjrxbv0BIxzgKFC9PYcgmPtnMV.jpg',
-        vote_average: 7.3,
-        vote_count: 390,
-        id: 30061,
-        media_type: 'movie',
-        popularity: 20.915
       },
       {
         original_title: 'Justice League vs. Teen Titans',
@@ -5858,7 +5878,7 @@
       },
       {
         original_title: 'Man of Steel',
-        release_date: DateTime_33,
+        release_date: DateTime_34,
         title: 'Man of Steel',
         backdrop_path: '/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg',
         genre_ids: [
@@ -6447,5 +6467,5 @@
     ]
   },
   vote_average: 7.7,
-  vote_count: 16728
+  vote_count: 16729
 }

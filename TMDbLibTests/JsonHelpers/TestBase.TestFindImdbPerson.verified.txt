@@ -17,10 +17,8 @@
           media_type: 'movie',
           original_language: 'en',
           overview: "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-          popularity: 44.948,
           poster_path: '/plnlrtBUULT0rh3Xsjmpubiso3L.jpg',
           vote_average: 8.5,
-          vote_count: 19629
         },
         {
           original_title: 'Split',
@@ -35,10 +33,8 @@
           media_type: 'movie',
           original_language: 'en',
           overview: 'Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.',
-          popularity: 52.443,
           poster_path: '/kBvO58pt13dgYImjZNjq6QiOT8n.jpg',
           vote_average: 7.3,
-          vote_count: 12914
         },
         {
           original_title: 'The Sixth Sense',
@@ -54,17 +50,14 @@
           media_type: 'movie',
           original_language: 'en',
           overview: 'A psychological thriller about an eight year old boy named Cole Sear who believes he can see into the world of the dead. A child psychologist named Malcolm Crowe comes to Cole to help him deal with his problem, learning that he really can see the ghosts of dead people.',
-          popularity: 36.459,
           poster_path: '/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg',
           vote_average: 7.9,
-          vote_count: 7900
         }
       ],
       name: 'Bruce Willis',
       profile_path: '/A1XBu3CffBpSK8HEIJM8q7Mn4lz.jpg',
       id: 62,
       media_type: 'person',
-      popularity: 17.814
     }
   ]
 }

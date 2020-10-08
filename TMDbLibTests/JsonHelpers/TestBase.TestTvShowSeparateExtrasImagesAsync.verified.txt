@@ -4,7 +4,6 @@
     file_path: '/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg',
     height: 1688,
     vote_average: 5.454,
-    vote_count: 3,
     width: 3000
   },
   poster: {
@@ -13,7 +12,6 @@
     height: 1800,
     iso_639_1: 'en',
     vote_average: 5.522,
-    vote_count: 6,
     width: 1200
   }
 }

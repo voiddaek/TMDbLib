@@ -13,10 +13,8 @@
     overview: 'James Bond helps a Russian General escape into the west. He soon finds out that the KGB wants to kill him for helping the General. A little while later the General is kidnapped from the Secret Service leading 007 to be suspicious.',
     poster_path: '/vIngn15zT32wWd2sg5MNdfVCBE2.jpg',
     vote_average: 6.4,
-    vote_count: 1026,
     id: 708,
     media_type: 'movie',
-    popularity: 19.112
   },
   singleGerman: {
     original_title: 'The Living Daylights',
@@ -32,9 +30,7 @@
     overview: 'James Bond verhilft einem russischen General zur Flucht in den Westen. Von ihm erfährt er, dass der KGB in einer groß angelegten Aktion alle feindlichen Agenten töten will. Wenig später wird der General vor den Augen des Secret Service entführt. 007 schöpft einen Verdacht.',
     poster_path: '/9jPMRCz9cLo7GV7cbSvksmlR3ew.jpg',
     vote_average: 6.4,
-    vote_count: 1026,
     id: 708,
     media_type: 'movie',
-    popularity: 19.112
   }
 }

@@ -1,1707 +1,1513 @@
 {
   also_known_as: [
-    'Брюс Уиллис',
-    'ブルース・ウィリス',
-    'بروس ويليس',
-    '브루스 윌리스',
-    'บรูซ วิลลิส',
-    'ברוס וויליס',
-    'Walter Bruce Willis',
-    'Bruno',
-    'Γουόλτερ Μπρους Γουίλις',
-    'Μπρους Γουίλις'
+    'Фрэнк Синатра',
+    'Френк Сінатра'
   ],
-  biography: 'An American actor and producer. His career began in television in the 1980s and has continued both in television and film since, including comedic, dramatic, and action roles. He is well known for the role of John McClane in the Die Hard series. Willis was born in Idar-Oberstein, West Germany, the son of a Kassel-born German, Marlene, who worked in a bank, and David Willis, an American soldier. Willis is the eldest of four children. At the premiere for the film Stakeout, Willis met actress Demi Moore. They married on November 21, 1987 and had three daughters before the couple divorced on October 18, 2000. Since the divorce he has dated models Maria Bravo Rosado and Emily Sandberg; he was engaged to Brooke Burns until they broke up in 2004 after ten months together. He married Emma Heming on March 21, 2009.',
-  birthday: '03/19/1955 00:00:00',
+  biography: 'Francis Albert "Frank" Sinatra ( December 12, 1915 – May 14, 1998) was an American singer and actor. Beginning his musical career in the swing era with Harry James and Tommy Dorsey, Sinatra became a successful solo artist in the early to mid-1940s, being the idol of the "bobby soxers".\n\nHis professional career had stalled by the 1950s, but it was reborn in 1954 after he won the Academy Award for Best Supporting Actor (for his performance in From Here to Eternity). He signed with Capitol Records and released several critically lauded albums (such as In the Wee Small Hours, Songs for Swingin\' Lovers, Come Fly with Me, Only the Lonely and Nice \'n\' Easy). Sinatra left Capitol to found his own record label, Reprise Records (finding success with albums such as Ring-A-Ding-Ding, Sinatra at the Sands and Francis Albert Sinatra & Antonio Carlos Jobim), toured internationally, was a founding member of the Rat Pack and fraternized with celebrities and statesmen, including John F. Kennedy.\n\nSinatra turned 50 in 1965, recorded the retrospective September of My Years, starred in the Emmy-winning television special Frank Sinatra: A Man and His Music, and scored hits with "Strangers in the Night" and "My Way". With sales of his music dwindling and after appearing in several poorly received films, Sinatra retired for the first time in 1971. Two years later, however, he came out of retirement and in 1973 recorded several albums, scoring a Top 40 hit with "(Theme From) New York, New York" in 1980. Using his Las Vegas shows as a home base, he toured both within the United States and internationally, until a short time before his death in 1998.\n\nSinatra also forged a successful career as a film actor, winning the Academy Award for Best Supporting Actor for his performance in From Here to Eternity, a nomination for Best Actor for The Man with the Golden Arm, and critical acclaim for his performance in The Manchurian Candidate. He also starred in such musicals as High Society, Pal Joey, Guys and Dolls and On the Town. Sinatra was honored at the Kennedy Center Honors in 1983 and was awarded the Presidential Medal of Freedom by Ronald Reagan in 1985 and the Congressional Gold Medal in 1997. Sinatra was also the recipient of eleven Grammy Awards, including the Grammy Trustees Award, Grammy Legend Award and the Grammy Lifetime Achievement Award.\n\nDescription above from the Wikipedia article Frank Sinatra, licensed under CC-BY-SA, full list of contributors on Wikipedia.',
+  birthday: '12/12/1915 00:00:00',
   changes: {},
+  deathday: '05/14/1998 00:00:00',
   external_ids: {
-    facebook_id: 'ActorBruceWillis',
-    imdb_id: 'nm0000246',
-    freebase_id: '/en/bruce_willis',
-    freebase_mid: '/m/0h7pj',
-    tvrage_id: '10183'
+    imdb_id: 'nm0000069',
+    freebase_id: '/en/frank_sinatra',
+    freebase_mid: '/m/02_fj',
+    tvrage_id: '47349'
   },
   gender: 'Male',
-  id: 62,
+  id: 4347,
   images: {
-    id: 62,
+    id: 4347,
     profiles: [
       {
         aspect_ratio: 0.66666666666667,
-        file_path: '/7UiCn2srvVfYjyORa8CldFW8lOX.jpg',
-        height: 450,
-        vote_average: 5.128,
-        vote_count: 6,
-        width: 300
-      },
-      {
-        aspect_ratio: 0.66666666666667,
-        file_path: '/2B7RySy2WMVJKKEFN2XA3IFb8w0.jpg',
-        height: 2100,
-        vote_average: 5.128,
-        vote_count: 6,
-        width: 1400
-      },
-      {
-        aspect_ratio: 0.66666666666667,
-        file_path: '/A1XBu3CffBpSK8HEIJM8q7Mn4lz.jpg',
-        height: 750,
-        vote_average: 5.264,
-        vote_count: 8,
-        width: 500
-      },
-      {
-        aspect_ratio: 0.66642857142857,
-        file_path: '/z2845fbZx4GTmjRsfaVNkUBxvl1.jpg',
-        height: 2800,
-        vote_average: 5.138,
-        vote_count: 8,
-        width: 1866
-      },
-      {
-        aspect_ratio: 0.66621621621622,
-        file_path: '/d6WnHi44Ixudj3L6w2loWbPnpFN.jpg',
-        height: 740,
-        vote_average: 5.252,
-        vote_count: 4,
-        width: 493
-      },
-      {
-        aspect_ratio: 0.66713189113747,
-        file_path: '/vMiYcAAFug2JwOEwtSiWpsMVdWH.jpg',
-        height: 1433,
-        vote_average: 5.18,
-        vote_count: 3,
-        width: 956
-      },
-      {
-        aspect_ratio: 0.66666666666667,
-        file_path: '/cPP5y15p6iU83MxQ3tEcbr5hqNR.jpg',
+        file_path: '/dafKPsivu50RdChBSrgGmMRenYt.jpg',
         height: 1500,
+        vote_average: 5.252,
         width: 1000
+      },
+      {
+        aspect_ratio: 0.66684578183772,
+        file_path: '/hGGA9qT74P7p2czjwka7xANzBO9.jpg',
+        height: 1861,
+        vote_average: 5.246,
+        width: 1241
+      },
+      {
+        aspect_ratio: 0.66666666666667,
+        file_path: '/w9Wl6FznONDn5O880ScJo79AOMU.jpg',
+        height: 1350,
+        vote_average: 5.312,
+        width: 900
       }
     ]
   },
-  imdb_id: 'nm0000246',
+  imdb_id: 'nm0000069',
   movie_credits: {
     cast: [
       {
-        character: 'Korben Dallas',
-        credit_id: '52fe420fc3a36847f8000b53',
-        id: 18,
-        original_title: 'The Fifth Element',
-        poster_path: '/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg',
+        character: 'Danny Ocean',
+        credit_id: '52fe4234c3a36847f800bf47',
+        id: 299,
+        original_title: "Ocean's Eleven",
+        poster_path: '/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg',
         release_date: DateTime_1,
-        title: 'The Fifth Element'
+        title: "Ocean's Eleven"
       },
       {
-        character: 'James Cole',
-        credit_id: '52fe4212c3a36847f8001b31',
-        id: 63,
-        original_title: 'Twelve Monkeys',
-        poster_path: '/kKoG0hXBmBbkDnJYhhHisdin73W.jpg',
+        character: 'Frankie Machine',
+        credit_id: '52fe424fc3a36847f8014359',
+        id: 541,
+        original_title: 'The Man with the Golden Arm',
+        poster_path: '/dEw3SzGbKVYXKTJ2kIXC3jLmG5s.jpg',
         release_date: DateTime_2,
-        title: 'Twelve Monkeys'
+        title: 'The Man with the Golden Arm'
       },
       {
-        character: 'Harry S. Stamper',
-        credit_id: '52fe4216c3a36847f800316b',
-        id: 95,
-        original_title: 'Armageddon',
-        poster_path: '/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg',
+        character: 'Capt./Maj. Bennett Marco',
+        credit_id: '52fe4296c3a36847f802a3c3',
+        id: 982,
+        original_title: 'The Manchurian Candidate',
+        poster_path: '/fE0Yjnxnv9JPs11elXha4BEwKTR.jpg',
         release_date: DateTime_3,
-        title: 'Armageddon'
+        title: 'The Manchurian Candidate'
       },
       {
-        character: 'Det. John Hartigan',
-        credit_id: '52fe4224c3a36847f800737f',
-        id: 187,
-        original_title: 'Sin City',
-        poster_path: '/1Br0CXgpDIgF0ue7HVhO08bn7kn.jpg',
+        character: 'Capt. Tom Reynolds',
+        credit_id: '52fe43dcc3a36847f807493b',
+        id: 4820,
+        original_title: 'Never So Few',
+        poster_path: '/5TzI4sDBPscxeq2SNcM8GZEL0Mh.jpg',
         release_date: DateTime_4,
-        title: 'Sin City'
+        title: 'Never So Few'
       },
       {
-        character: 'John McClane',
-        credit_id: '52fe4252c3a36847f801543f',
-        id: 562,
-        original_title: 'Die Hard',
-        poster_path: '/p5hURTvac8sxLRhe5hLchvfy5Pu.jpg',
+        character: 'Colonel Joseph L. Ryan',
+        credit_id: '52fe442bc3a368484e013931',
+        id: 21876,
+        original_title: "Von Ryan's Express",
+        poster_path: '/qYYyOPomT1lhZ5mQQBt3JUE1buq.jpg',
         release_date: DateTime_5,
-        title: 'Die Hard'
+        title: "Von Ryan's Express"
       },
       {
-        character: 'Malcolm Crowe',
-        credit_id: '52fe426fc3a36847f801e74b',
-        id: 745,
-        original_title: 'The Sixth Sense',
-        poster_path: '/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg',
+        character: 'Tony Rome',
+        credit_id: '52fe44f4c3a368484e040463',
+        id: 26204,
+        original_title: 'Tony Rome',
+        poster_path: '/fRJu6yAOOIhDGABarY66sr2pDiF.jpg',
         release_date: DateTime_6,
-        title: 'The Sixth Sense'
+        title: 'Tony Rome'
       },
       {
-        character: 'John McClane',
-        credit_id: '52fe42fec3a36847f8032857',
-        id: 1571,
-        original_title: 'Live Free or Die Hard',
-        poster_path: '/esB1DPeSNNbRQunQbbI3ENClqj8.jpg',
+        character: 'Tony Manetta',
+        credit_id: '52fe45339251416c9102ab3b',
+        id: 33725,
+        original_title: 'A Hole in the Head',
+        poster_path: '/rjtB4nXqKdTg9TPYGy2dBQpL0DL.jpg',
         release_date: DateTime_7,
-        title: 'Live Free or Die Hard'
+        title: 'A Hole in the Head'
       },
       {
-        character: 'John McClane',
-        credit_id: '52fe42ffc3a36847f803297b',
-        id: 1572,
-        original_title: 'Die Hard: With a Vengeance',
-        poster_path: '/sOqB9iMEcbGhAgH70dbs8U58UW5.jpg',
+        character: 'François Durnais',
+        credit_id: '52fe45339251416c9102ab81',
+        id: 33726,
+        original_title: 'Can-Can',
+        poster_path: '/9b30Tvtqv1IUU2nLr3q0sBoM8FI.jpg',
         release_date: DateTime_8,
-        title: 'Die Hard: With a Vengeance'
+        title: 'Can-Can'
       },
       {
-        character: 'John McClane',
-        credit_id: '52fe42ffc3a36847f8032a27',
-        id: 1573,
-        original_title: 'Die Hard 2',
-        poster_path: '/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg',
+        character: 'Alan Baker',
+        credit_id: '52fe45339251416c9102ac39',
+        id: 33729,
+        original_title: 'Come Blow Your Horn',
+        poster_path: '/b5YVP5Kncb6colRZoMwe5EtnT2t.jpg',
         release_date: DateTime_9,
-        title: 'Die Hard 2'
+        title: 'Come Blow Your Horn'
       },
       {
-        character: 'Jeff Talley',
-        credit_id: '52fe432ec3a36847f8040619',
-        id: 2026,
-        original_title: 'Hostage',
-        poster_path: '/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg',
+        character: 'Dennis Ryan',
+        credit_id: '52fe45349251416c9102ae7f',
+        id: 33738,
+        original_title: 'Take Me Out to the Ball Game',
+        poster_path: '/1xGMSguv3rtUOV79GajPgm629dw.jpg',
         release_date: DateTime_10,
-        title: 'Hostage'
+        title: 'Take Me Out to the Ball Game'
       },
       {
-        character: 'Jimmy Tudeski',
-        credit_id: '52fe4338c3a36847f80436b1',
-        id: 2122,
-        original_title: 'The Whole Ten Yards',
-        poster_path: '/4fbglyCpPqK1u40fhncLXKAF74A.jpg',
-        release_date: DateTime_11,
-        title: 'The Whole Ten Yards'
-      },
-      {
-        character: 'Dr. Bill Capa',
-        credit_id: '52fe4338c3a36847f804380b',
-        id: 2124,
-        original_title: 'Color of Night',
-        poster_path: '/w1OBPkf3BxeC7543YzFwiKIwBFJ.jpg',
-        release_date: DateTime_12,
-        title: 'Color of Night'
-      },
-      {
-        character: 'Jack Mosley',
-        credit_id: '52fe4341c3a36847f804622b',
-        id: 2207,
-        original_title: '16 Blocks',
-        poster_path: '/sRns3OuMcZTOs4OfVfKtL9JiaE2.jpg',
-        release_date: DateTime_13,
-        title: '16 Blocks'
-      },
-      {
-        character: 'Joseph Blake',
-        credit_id: '52fe438cc3a36847f805cb53',
-        id: 3172,
-        original_title: 'Bandits',
-        poster_path: '/67AUAkiT4rbgqN7SNlIJn0zWZqU.jpg',
-        release_date: DateTime_14,
-        title: 'Bandits'
-      },
-      {
-        character: 'Col. William A. McNamara',
-        credit_id: '52fe438f9251416c750151d7',
-        id: 10592,
-        original_title: "Hart's War",
-        poster_path: '/yRUhSU7vzs5ePa72LNPcKKCCMZ5.jpg',
-        release_date: DateTime_15,
-        title: "Hart's War"
-      },
-      {
-        character: 'Russell Duritz',
-        credit_id: '52fe43b5c3a36847f80695f3',
-        id: 4244,
-        original_title: 'The Kid',
-        poster_path: '/jNfL8De5IDVIuUYsrNnmPxCQkz8.jpg',
-        release_date: DateTime_16,
-        title: 'The Kid'
-      },
-      {
-        character: 'The Jackal',
-        credit_id: '52fe43dcc3a36847f8074b4b',
-        id: 4824,
-        original_title: 'The Jackal',
-        poster_path: '/wkLF73oenC1n1DDKKU7oyLKVcMa.jpg',
-        release_date: DateTime_17,
-        title: 'The Jackal'
-      },
-      {
-        character: 'Det. Tom Hardy',
-        credit_id: '52fe43f29251416c75023ceb',
-        id: 11074,
-        original_title: 'Striking Distance',
-        poster_path: '/1bLazrQWJQhO6u58vJZXJZ3ZFDh.jpg',
-        release_date: DateTime_18,
-        title: 'Striking Distance'
-      },
-      {
-        character: 'Jimmy Monroe',
-        credit_id: '52fe4475c3a368484e0242eb',
-        id: 23742,
-        original_title: 'Cop Out',
-        poster_path: '/qA31i7FPVDHezuoevx3497CvZd4.jpg',
-        release_date: DateTime_19,
-        title: 'Cop Out'
-      },
-      {
-        character: 'RJ (voice)',
-        credit_id: '52fe4482c3a36847f809a4cd',
-        id: 7518,
-        original_title: 'Over the Hedge',
-        poster_path: '/6qKM3Rl1tQgOFO1fMA7DAizWZ5n.jpg',
-        release_date: DateTime_20,
-        title: 'Over the Hedge'
-      },
-      {
-        character: 'Art Jeffries',
-        credit_id: '52fe44bec3a36847f80a785b',
-        id: 8838,
-        original_title: 'Mercury Rising',
-        poster_path: '/60AAso6I2TzQCy2SjqtzPni8csA.jpg',
-        release_date: DateTime_21,
-        title: 'Mercury Rising'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe44cac3a36847f80aa233',
-        id: 8944,
-        original_title: 'What Just Happened',
-        poster_path: '/o88aPDDMtdwQsPyXqSKhu98jjru.jpg',
-        release_date: DateTime_22,
-        title: 'What Just Happened'
-      },
-      {
-        character: 'Ben Jordan',
-        credit_id: '52fe44cc9251416c75041487',
-        id: 12220,
-        original_title: 'The Story of Us',
-        poster_path: '/sHRS5yf6JH2ORDohUcX0KlspksG.jpg',
-        release_date: DateTime_23,
-        title: 'The Story of Us'
-      },
-      {
-        character: "Eddie 'Hudson Hawk' Hawkins",
-        credit_id: '52fe44e3c3a36847f80afed9',
-        id: 9292,
-        original_title: 'Hudson Hawk',
-        poster_path: '/2AiR7HZuIOUdJp6LYOEOA8z7pF3.jpg',
-        release_date: DateTime_24,
-        title: 'Hudson Hawk'
-      },
-      {
-        character: 'Joe Hallenbeck',
-        credit_id: '52fe44e7c3a36847f80b0d73',
-        id: 9319,
-        original_title: 'The Last Boy Scout',
-        poster_path: '/hAejapki8nDEHsdsoffsxETQpjZ.jpg',
-        release_date: DateTime_25,
-        title: 'The Last Boy Scout'
-      },
-      {
-        character: 'John Smith',
-        credit_id: '52fe44e8c3a36847f80b138f',
-        id: 9333,
-        original_title: 'Last Man Standing',
-        poster_path: '/4yBM8DZmX5cGWAEIO6w9nCycJMe.jpg',
-        release_date: DateTime_26,
-        title: 'Last Man Standing'
-      },
-      {
-        character: 'Dwayne Hoover',
-        credit_id: '52fe44e99251416c75045375',
-        id: 12479,
-        original_title: 'Breakfast of Champions',
-        poster_path: '/nshApUssXnCvLIuK4Sehpty8BY9.jpg',
-        release_date: DateTime_27,
-        title: 'Breakfast of Champions'
-      },
-      {
-        character: 'Emmett Smith',
-        credit_id: '52fe44eb9251416c91021687',
-        id: 32855,
-        original_title: 'In Country',
-        poster_path: '/rLyxWz5O2QfOBbqLDlloUHQyuru.jpg',
-        release_date: DateTime_28,
-        title: 'In Country'
-      },
-      {
-        character: 'Lieutenant A.K. Waters',
-        credit_id: '52fe450bc3a36847f80b9015',
-        id: 9567,
-        original_title: 'Tears of the Sun',
-        poster_path: '/8rN7hvGDmje6CDAYuIuVB4UhT0c.jpg',
-        release_date: DateTime_29,
-        title: 'Tears of the Sun'
-      },
-      {
-        character: 'David Dunn',
-        credit_id: '52fe4525c3a36847f80befd5',
-        id: 9741,
-        original_title: 'Unbreakable',
-        poster_path: '/d1poWPWvhO0n05xKGTqAjNN37qC.jpg',
-        release_date: DateTime_30,
-        title: 'Unbreakable'
-      },
-      {
-        character: 'Tom Mix',
-        credit_id: '52fe46c69251416c9105f485',
-        id: 38560,
-        original_title: 'Sunset',
-        poster_path: '/hQZtPZwcVMBNoT8hrNpOFNIPQv0.jpg',
-        release_date: DateTime_31,
-        title: 'Sunset'
-      },
-      {
-        character: 'Frank Moses',
-        credit_id: '52fe47219251416c9106b043',
-        id: 39514,
-        original_title: 'RED',
-        poster_path: '/adHKzS0v29apMxJlKuvAf1ykNnS.jpg',
-        release_date: DateTime_32,
-        title: 'RED'
-      },
-      {
-        character: 'John McClane',
-        credit_id: '52fe4751c3a36847f812f049',
-        id: 47964,
-        original_title: 'A Good Day to Die Hard',
-        poster_path: '/9Zq88w35f1PpM22TIbf2amtjHD6.jpg',
-        release_date: DateTime_33,
-        title: 'A Good Day to Die Hard'
-      },
-      {
-        character: 'Tom Greer',
-        credit_id: '52fe47fc9251416c750ac1f5',
-        id: 19959,
-        original_title: 'Surrogates',
-        poster_path: '/v3Z0Hbl0oe57njrrIPh0fJPFoo.jpg',
-        release_date: DateTime_34,
-        title: 'Surrogates'
-      },
-      {
-        character: 'Joe Colton',
-        credit_id: '52fe4873c3a368484e0f8c2d',
-        id: 72559,
-        original_title: 'G.I. Joe: Retaliation',
-        poster_path: '/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg',
-        release_date: DateTime_35,
-        title: 'G.I. Joe: Retaliation'
-      },
-      {
-        character: 'Mel',
-        credit_id: '52fe490fc3a368484e11887b',
-        id: 75736,
-        original_title: 'Catch.44',
-        poster_path: '/mbDQA2a3H9CbEHr7bDkaqxAGDO1.jpg',
-        release_date: DateTime_36,
-        title: 'Catch.44'
-      },
-      {
-        character: 'RJ (voice)',
-        credit_id: '52fe49559251416c910a9fad',
-        id: 85693,
-        original_title: "Hammy's Boomerang Adventure",
-        poster_path: '/33kis8jiDjOQpWJrsdWyUKAnAP3.jpg',
-        release_date: DateTime_37,
-        title: "Hammy's Boomerang Adventure"
-      },
-      {
-        character: 'Frank Moses',
-        credit_id: '52fe4b779251416c75103c5f',
-        id: 146216,
-        original_title: 'RED 2',
-        poster_path: '/jW7bHZgkHKUtUJCsThFuqbZGVUL.jpg',
-        release_date: DateTime_38,
-        title: 'RED 2'
-      },
-      {
-        character: 'Bruno Radolini',
-        credit_id: '52fe4b97c3a368484e190695',
-        id: 132542,
-        original_title: 'The Return of Bruno',
-        poster_path: '/gnusKQ8dYC4RCyHweNKsb5fyAyQ.jpg',
-        release_date: DateTime_39,
-        title: 'The Return of Bruno'
-      },
-      {
-        character: 'Lee',
-        credit_id: '52fe4bebc3a368484e19ea61',
-        id: 135051,
-        original_title: 'True West',
-        poster_path: '/4K4Tnn4iBiBqF7xNKy4eChsoZlt.jpg',
-        release_date: DateTime_40,
-        title: 'True West'
-      },
-      {
-        character: 'Mike Cella',
-        credit_id: '52fe4c67c3a368484e1b68f1',
-        id: 139567,
-        original_title: 'Fire with Fire',
-        poster_path: '/kziBJGQFo9f0Vkj9s37qI0G9I0I.jpg',
-        release_date: DateTime_41,
-        title: 'Fire with Fire'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe4e2ec3a36847f82823c9',
-        id: 234158,
-        original_title: 'Bruce Willis - Warum die Legende niemals stirbt',
-        release_date: DateTime_42,
-        title: 'Bruce Willis: Why the Legend Never Dies'
-      },
-      {
-        character: 'Omar',
-        credit_id: '52fe4eb5c3a36847f82a2cbb',
-        id: 241254,
-        original_title: 'The Prince',
-        poster_path: '/modzOgRl5gsX2zykFTXsTlP3x2W.jpg',
-        release_date: DateTime_43,
-        title: 'The Prince'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe4c689251416c751197e3',
-        id: 181471,
-        original_title: "That's Adequate",
-        poster_path: '/auOGTrlh4DRLyBwhIzJM5adrXez.jpg',
-        release_date: DateTime_44,
-        title: "That's Adequate"
-      },
-      {
-        character: 'Howell',
-        credit_id: '57a912dbc3a36826c600be27',
-        id: 410554,
-        original_title: 'First Kill',
-        poster_path: '/zoia9YSg82UNYbtum9QYjKSqdLw.jpg',
-        release_date: DateTime_45,
-        title: 'First Kill'
-      },
-      {
-        character: 'Paul Kersey',
-        credit_id: '5729966c925141707b00159d',
-        id: 395990,
-        original_title: 'Death Wish',
-        poster_path: '/g0eEEZAqMf98ULQnoiORuazjOpn.jpg',
-        release_date: DateTime_46,
-        title: 'Death Wish'
-      },
-      {
-        character: 'Steve',
-        credit_id: '558904d8c3a3683d500014eb',
-        id: 345915,
-        original_title: 'Once Upon a Time in Venice',
-        poster_path: '/5rr7tQfzS0ARqEea3W9SNSFGRzb.jpg',
-        release_date: DateTime_47,
-        title: 'Once Upon a Time in Venice'
-      },
-      {
-        character: 'Detective James Avery',
-        credit_id: '59d11d54925141468f01941b',
-        id: 479040,
-        original_title: 'Acts of Violence',
-        poster_path: '/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg',
-        release_date: DateTime_48,
-        title: 'Acts of Violence'
-      },
-      {
-        character: 'James',
-        credit_id: '5b2ccf25c3a368220e0029a4',
-        id: 531593,
-        original_title: 'Reprisal',
-        poster_path: '/qBsQUK5QSeZjRPLFUVgSGHxj2PI.jpg',
-        release_date: DateTime_49,
-        title: 'Reprisal'
-      },
-      {
-        character: 'Mr. Goodkat',
-        credit_id: '52fe4224c3a36847f80072ab',
-        id: 186,
-        original_title: 'Lucky Number Slevin',
-        poster_path: '/x21s3p5wPww534nYj1cWakTcqz4.jpg',
-        release_date: DateTime_50,
-        title: 'Lucky Number Slevin'
-      },
-      {
-        character: 'Walter Davis',
-        credit_id: '52fe428dc3a36847f80276a3',
-        id: 918,
-        original_title: 'Blind Date',
-        poster_path: '/cLb3akSpZhU5qkmCO46IHfJtcs0.jpg',
-        release_date: DateTime_51,
-        title: 'Blind Date'
-      },
-      {
-        character: 'Jimmy "Tulipán" Tudeski',
-        credit_id: '52fe4331c3a36847f80418c1',
-        id: 2069,
-        original_title: 'The Whole Nine Yards',
-        poster_path: '/r4FvRHW1J9FAOnCYchZ7QanQ04e.jpg',
-        release_date: DateTime_52,
-        title: 'The Whole Nine Yards'
-      },
-      {
-        character: 'Muddy Grimes (voice)',
-        credit_id: '52fe438dc3a36847f805cf0f',
-        id: 3179,
-        original_title: 'Beavis and Butt-Head Do America',
-        poster_path: '/wEB1GPT7mQcTNuYT73s72ljjbMF.jpg',
-        release_date: DateTime_53,
-        title: 'Beavis and Butt-Head Do America'
-      },
-      {
-        character: 'James Urbanski',
-        credit_id: '52fe44409251416c9100a1f9',
-        id: 30815,
-        original_title: 'Mortal Thoughts',
-        poster_path: '/xjjO6q0XySzGN6j9o2FTXz3qp0Q.jpg',
-        release_date: DateTime_54,
-        title: 'Mortal Thoughts'
-      },
-      {
-        character: 'Carl Roebuck',
-        credit_id: '52fe44629251416c75032de9',
-        id: 11593,
-        original_title: "Nobody's Fool",
-        poster_path: '/yTpm5R28mDWYS3tSvYdU5wNenC8.jpg',
-        release_date: DateTime_55,
-        title: "Nobody's Fool"
-      },
-      {
-        character: 'Harrison Hill',
-        credit_id: '52fe4472c3a36847f80967fb',
-        id: 7183,
-        original_title: 'Perfect Stranger',
-        poster_path: '/fKkabVcVNKTTgsR4ElklI5bXDU1.jpg',
-        release_date: DateTime_56,
-        title: 'Perfect Stranger'
-      },
-      {
-        character: 'Sonny Truelove',
-        credit_id: '52fe447ec3a36847f809974b',
-        id: 7457,
-        original_title: 'Alpha Dog',
-        poster_path: '/t9pirEsDxe102mSQGoDZWBbdcCD.jpg',
-        release_date: DateTime_57,
-        title: 'Alpha Dog'
-      },
-      {
-        character: 'Dr. Ernest Menville',
-        credit_id: '52fe44efc3a36847f80b2b91',
-        id: 9374,
-        original_title: 'Death Becomes Her',
-        poster_path: '/vWcXU9J2RxyHN9qRXW3GDhG40t3.jpg',
-        release_date: DateTime_58,
-        title: 'Death Becomes Her'
-      },
-      {
-        character: 'Peter Fallow',
-        credit_id: '52fe450dc3a36847f80b9969',
-        id: 9586,
-        original_title: 'The Bonfire of the Vanities',
-        poster_path: '/8pUZknlAD3hZlw69EaAgqBD2Dxc.jpg',
-        release_date: DateTime_59,
-        title: 'The Bonfire of the Vanities'
-      },
-      {
-        character: 'Dink Heimowitz',
-        credit_id: '52fe48e89251416c9109c521',
-        id: 84305,
-        original_title: 'Lay the Favorite',
-        poster_path: '/n57AyhFm5Jhe2qu0yuShYlokPmQ.jpg',
-        release_date: DateTime_60,
-        title: 'Lay the Favorite'
-      },
-      {
-        character: 'Old Joe',
-        credit_id: '52fe49a5c3a36847f81a5243',
-        id: 59967,
-        original_title: 'Looper',
-        poster_path: '/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg',
-        release_date: DateTime_61,
-        title: 'Looper'
-      },
-      {
-        character: 'Jack',
-        credit_id: '55891f42c3a3686da0000597',
-        id: 345934,
-        original_title: 'Air Strike',
-        poster_path: '/ve7xmUK167YZloN8LnSyhKmmNgE.jpg',
-        release_date: DateTime_62,
-        title: 'Air Strike'
-      },
-      {
-        character: 'Leonard Turner',
-        credit_id: '54fcf91ec3a36847110032c2',
-        id: 326425,
-        original_title: 'Extraction',
-        poster_path: '/1Cn5pxPi5XedW0oH0Xr6GibmmVZ.jpg',
-        release_date: DateTime_63,
-        title: 'Extraction'
-      },
-      {
-        character: 'Eddie',
-        credit_id: '56d0a4fac3a3681e50005f5f',
-        id: 384737,
-        original_title: 'Precious Cargo',
-        poster_path: '/8Jt2NkZVZTAVNh55dbWKMOgRiTh.jpg',
-        release_date: DateTime_64,
-        title: 'Precious Cargo'
-      },
-      {
-        character: 'Hubert',
-        credit_id: '55f3a027c3a3686d27001973',
-        id: 359412,
-        original_title: 'Marauders',
-        poster_path: '/bAvmDn5C7arBoRrfaG3b3Kdue1q.jpg',
-        release_date: DateTime_65,
-        title: 'Marauders'
-      },
-      {
-        character: 'Himself',
-        credit_id: '58c48381925141634e0028ba',
-        id: 50298,
-        original_title: 'The Hip Hop Project',
-        release_date: DateTime_66,
-        title: 'The Hip Hop Project'
-      },
-      {
-        character: 'David Dunn / The Overseer',
-        credit_id: '58e2c83c92514179de004823',
-        id: 450465,
-        original_title: 'Glass',
-        poster_path: '/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg',
-        release_date: DateTime_67,
-        title: 'Glass'
-      },
-      {
-        character: 'Frank Minna',
-        credit_id: '5a80627f92514140fe01db3e',
-        id: 504562,
-        original_title: 'Motherless Brooklyn',
-        poster_path: '/jjMJy5OxJHpFIaboCklDIYdcfpD.jpg',
-        release_date: DateTime_68,
-        title: 'Motherless Brooklyn'
-      },
-      {
-        character: "Cus D'Amato",
-        credit_id: '5af0b8e50e0a265d8800013c',
-        id: 522875,
-        original_title: 'Cornerman',
-        title: 'Cornerman'
-      },
-      {
-        character: 'Himself',
-        credit_id: '5b4ca51ac3a36823ed04301e',
-        id: 536056,
-        original_title: 'Comedy Central Roast of Bruce Willis',
-        poster_path: '/cvNdyLvmyfEiKfKV5kFAaIlNNCU.jpg',
-        release_date: DateTime_69,
-        title: 'Comedy Central Roast of Bruce Willis'
-      },
-      {
-        character: 'John McClane (rumored)',
-        credit_id: '5b8d7956925141519b046ac6',
-        id: 546330,
-        original_title: 'McClane',
-        release_date: DateTime_70,
-        title: 'McClane'
-      },
-      {
-        character: 'Rex',
-        credit_id: '5bbc14950e0a26661800d546',
-        id: 552865,
-        original_title: '10 Minutes Gone',
-        poster_path: '/4SZ0gaObT4rzwZBUsF8EpEoSB2N.jpg',
-        release_date: DateTime_71,
-        title: '10 Minutes Gone'
-      },
-      {
-        character: 'Det. Wakes',
-        credit_id: '5db06ae165c26c0013fd7aeb',
-        id: 641790,
-        original_title: 'Trauma Center',
-        poster_path: '/8K73wvCTBA3XKgZTtOZWgENUnis.jpg',
-        release_date: DateTime_72,
-        title: 'Trauma Center'
-      },
-      {
-        character: 'Colonel Walker',
-        credit_id: '5dcc2668b76cbb00117271fc',
-        id: 647787,
-        original_title: 'Run of the Hitman',
-        title: 'Run of the Hitman'
-      },
-      {
-        character: '',
-        credit_id: '5e66402c459ad600185abc31',
-        id: 681887,
-        original_title: 'Cosmic Sin',
-        title: 'Cosmic Sin'
-      },
-      {
-        character: 'Frank',
-        credit_id: '5e7b3ce7fea0d70014c8ae0e',
-        id: 686245,
-        original_title: 'Survive the Night',
-        poster_path: '/niyXFhGIk4W2WTcX2Eod8vx2Mfe.jpg',
-        release_date: DateTime_73,
-        title: 'Survive the Night'
-      },
-      {
-        character: 'Karl Helter',
-        credit_id: '5e95759bc3c891001a7f9c16',
-        id: 693113,
-        original_title: 'Midnight in the Switchgrass',
-        title: 'Midnight in the Switchgrass'
-      },
-      {
-        character: '',
-        credit_id: '5ef4e760bccf1e0038391004',
-        id: 718949,
-        original_title: 'Reactor',
-        title: 'Reactor'
-      },
-      {
-        character: 'Clay Young',
-        credit_id: '5efef01bf03174003953dfe6',
-        id: 651571,
-        original_title: 'Anti-Life',
-        poster_path: '/g9VR6nHkm9pIhKJGFccqxTMB0Lx.jpg',
-        release_date: DateTime_74,
-        title: 'Anti-Life'
-      },
-      {
-        character: 'Chalmers',
-        credit_id: '5f10be992495ab003535eb26',
-        id: 724989,
-        original_title: 'Hard Kill',
-        poster_path: '/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg',
-        release_date: DateTime_75,
-        title: 'Hard Kill'
-      },
-      {
-        character: '',
-        credit_id: '5f5e2c2a7d41aa0035ea0e56',
-        id: 742341,
-        original_title: "Bruce Willis, l'indestructible",
-        poster_path: '/mN88Q8CNKupvOU2LLzFvPEeOgzw.jpg',
-        title: "Bruce Willis, l'indestructible"
-      },
-      {
-        character: 'Hartigan',
-        credit_id: '52fe4224c3a36847f8007491',
-        id: 189,
-        original_title: 'Sin City: A Dame to Kill For',
-        poster_path: '/50kALxDX4mmzIRljbNbPY0u4cie.jpg',
-        release_date: DateTime_76,
-        title: 'Sin City: A Dame to Kill For'
-      },
-      {
-        character: 'Mikey (voice)',
-        credit_id: '52fe44ecc3a36847f80b21e9',
-        id: 9356,
-        original_title: "Look Who's Talking Too",
-        poster_path: '/m409mVHmvDOZJltNzHJYigUthsW.jpg',
-        release_date: DateTime_77,
-        title: "Look Who's Talking Too"
-      },
-      {
-        character: 'Mikey (voice)',
-        credit_id: '52fe44ffc3a36847f80b6941',
-        id: 9494,
-        original_title: "Look Who's Talking",
-        poster_path: '/k60x5YEOox9P9vWITSHFSkLGecN.jpg',
-        release_date: DateTime_78,
-        title: "Look Who's Talking"
-      },
-      {
-        character: 'Major-General William Devereaux',
-        credit_id: '52fe4540c3a36847f80c3b07',
-        id: 9882,
-        original_title: 'The Siege',
-        poster_path: '/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg',
-        release_date: DateTime_79,
-        title: 'The Siege'
-      },
-      {
-        character: 'Principal Kirkpatrick',
-        credit_id: '52fe47659251416c75097deb',
-        id: 18176,
-        original_title: 'Assassination of a High School President',
-        poster_path: '/pFhPBogzWlpEbqUXTpUv6sJOeFu.jpg',
-        release_date: DateTime_80,
-        title: 'Assassination of a High School President'
-      },
-      {
-        character: 'Biggs',
-        credit_id: '52fe4802c3a368484e0e5007',
-        id: 70586,
-        original_title: 'Setup',
-        poster_path: '/h74bol6GYG6eyXIAZVGmQBraI8c.jpg',
-        release_date: DateTime_81,
-        title: 'Setup'
-      },
-      {
-        character: 'Bombay Brian',
-        credit_id: '5431b4f70e0a2656940027f3',
-        id: 253414,
-        original_title: 'Rock the Kasbah',
-        poster_path: '/jGNOsJjpsJ4yWe3InuiXgYk8VuW.jpg',
-        release_date: DateTime_82,
-        title: 'Rock the Kasbah'
-      },
-      {
-        character: 'Himself',
-        credit_id: '5829bfd6c3a368360b03c605',
-        id: 43939,
-        original_title: "I'm Still Here",
-        poster_path: '/bd71K844IyE2vKYUlzgfumYs2xZ.jpg',
-        release_date: DateTime_83,
-        title: "I'm Still Here"
-      },
-      {
-        character: 'Butch Coolidge',
-        credit_id: '52fe4269c3a36847f801ca95',
-        id: 680,
-        original_title: 'Pulp Fiction',
-        poster_path: '/plnlrtBUULT0rh3Xsjmpubiso3L.jpg',
-        release_date: DateTime_84,
-        title: 'Pulp Fiction'
-      },
-      {
-        character: 'Bo Weinberg',
-        credit_id: '52fe450e9251416c7504a30d',
-        id: 12647,
-        original_title: 'Billy Bathgate',
-        poster_path: '/zDC0bY6IvGIf1SrDipLZJxR0Z2d.jpg',
-        release_date: DateTime_85,
-        title: 'Billy Bathgate'
-      },
-      {
-        character: 'Martin',
-        credit_id: '52fe4984c3a368484e12fa45',
-        id: 77948,
-        original_title: 'The Cold Light of Day',
-        poster_path: '/jLmKMhibZjHUYtsHQLIa5UBwqcc.jpg',
-        release_date: DateTime_86,
-        title: 'The Cold Light of Day'
-      },
-      {
-        character: 'Captain Sharp',
-        credit_id: '53062e8d925141349a297ef3',
-        id: 83666,
-        original_title: 'Moonrise Kingdom',
-        poster_path: '/wOgmhrSUwOuZJsQXf2GsI923N0f.jpg',
-        release_date: DateTime_87,
-        title: 'Moonrise Kingdom'
-      },
-      {
-        character: 'Himself',
-        credit_id: '545a1de4c3a368398f003eee',
-        id: 278086,
-        original_title: 'Altman',
-        poster_path: '/h83e01Qrjrnonwwm70c8qdgb6ww.jpg',
-        release_date: DateTime_88,
-        title: 'Altman'
-      },
-      {
-        character: 'Julian',
-        credit_id: '547ee60ec3a368396c000fbd',
-        id: 307663,
-        original_title: 'Vice',
-        poster_path: '/cBwZIq1QFasmsC9Wi3HvyEljfYN.jpg',
-        release_date: DateTime_89,
-        title: 'Vice'
-      },
-      {
-        character: 'Audience',
-        credit_id: '5b8072170e0a26609d015e58',
-        id: 31683,
-        original_title: 'Barbra Streisand: One Voice',
-        poster_path: '/cKbkJTwTFtj52YkmMz0U5BfNb6c.jpg',
-        release_date: DateTime_90,
-        title: 'Barbra Streisand: One Voice'
-      },
-      {
-        character: 'Self',
-        credit_id: '5e794c8cc8a2d4001322fcab',
-        id: 685904,
-        original_title: 'The Sixth Sense: The Actors',
-        poster_path: '/7vBgyQLxFZuC5GBrtAQfszRijSa.jpg',
-        release_date: DateTime_91,
-        title: 'The Sixth Sense: The Actors'
-      },
-      {
-        character: 'Narrator',
-        credit_id: '52fe448a9251416c910145d5',
-        id: 31586,
-        original_title: 'North',
-        poster_path: '/rIL0B5p8GQv4lgVEghxt1VvBFjd.jpg',
-        release_date: DateTime_92,
-        title: 'North'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe4c14c3a368484e1a5c0b',
-        id: 136296,
-        original_title: 'B.B. King: The Life of Riley',
-        poster_path: '/mUylDxl5mx5glgBdbp7mY7aXNtU.jpg',
-        release_date: DateTime_93,
-        title: 'B.B. King: The Life of Riley'
-      },
-      {
-        character: 'Himself - Interviewee',
-        credit_id: '59543e08c3a36834e502870a',
-        id: 118483,
-        original_title: 'The Art of Action: Martial Arts in the Movies',
-        poster_path: '/4z8SUZPEBZaHqpXnINg2aGuJLLU.jpg',
-        release_date: DateTime_94,
-        title: 'The Art of Action: Martial Arts in the Movies'
-      },
-      {
-        character: 'Himself (archive footage)',
-        credit_id: '59806cadc3a368108300e858',
-        id: 46122,
-        original_title: '成龍的傳奇',
-        poster_path: '/wMIpKNY2zv0yRhNcYA6GbRPwTqf.jpg',
-        release_date: DateTime_95,
-        title: 'Jackie Chan: My Story'
-      },
-      {
-        character: '',
-        credit_id: '5b73fc2c0e0a267eed1d883e',
-        id: 542508,
-        original_title: 'The Black Mamba',
-        poster_path: '/s5PmuKHRaERIckndTu6grqI37Yq.jpg',
-        release_date: DateTime_96,
-        title: 'The Black Mamba'
-      },
-      {
-        character: 'Himself',
-        credit_id: '5e7abd3f8c44b900154d03ac',
-        id: 686163,
-        original_title: 'Moonrise Kingdom: Welcome to the Island of New Penzance',
-        poster_path: '/5FyIFgh72L55mUezwOI7QPq2BSX.jpg',
-        release_date: DateTime_97,
-        title: 'Moonrise Kingdom: Welcome to the Island of New Penzance'
-      },
-      {
-        character: 'Himself',
-        credit_id: '5ee2a42459008600214f432b',
-        id: 714666,
-        original_title: 'The Pointer Sisters: Up All Nite',
-        release_date: DateTime_98,
-        title: 'The Pointer Sisters: Up All Nite'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe44259251416c9100668f',
-        id: 30565,
-        original_title: 'The Hamster Factor and Other Tales of Twelve Monkeys',
-        poster_path: '/xoeX7DIHRU90KuSNNsDWoYqhrJL.jpg',
-        release_date: DateTime_99,
-        title: 'The Hamster Factor and Other Tales of Twelve Monkeys'
-      },
-      {
-        character: 'Mr. Blandford',
-        credit_id: '52fe48409251416c91085afb',
-        id: 82150,
-        original_title: 'Grand Champion',
-        poster_path: '/i24UVXhY87heW2xZYu06QvQnTg3.jpg',
-        release_date: DateTime_100,
-        title: 'Grand Champion'
-      },
-      {
-        character: 'Extra (uncredited)',
-        credit_id: '58c4692bc3a368168b0016b7',
-        id: 360295,
-        original_title: 'Ein Guru kommt',
-        release_date: DateTime_101,
-        title: 'Ein Guru kommt'
-      },
-      {
-        character: 'Lieutenant Muldoon',
-        credit_id: '52fe4329c3a36847f803f193',
-        id: 1992,
-        original_title: 'Planet Terror',
-        poster_path: '/30ANoUgvqQZ9tgCnM6OyJZUveaf.jpg',
-        release_date: DateTime_102,
-        title: 'Planet Terror'
-      },
-      {
-        character: 'Church',
-        credit_id: '52fe4929c3a368484e11d759',
-        id: 76163,
-        original_title: 'The Expendables 2',
-        poster_path: '/6BxsfzRVjyt3D3KAyz3xgYKBxf7.jpg',
-        release_date: DateTime_103,
-        title: 'The Expendables 2'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe46acc3a368484e09d961',
-        id: 63472,
-        original_title: 'His Way',
-        release_date: DateTime_104,
-        title: 'His Way'
-      },
-      {
-        character: 'Himself',
-        credit_id: '52fe4b459251416c910d5287',
-        id: 153538,
-        original_title: 'Tony Bennett: An American Classic',
-        poster_path: '/vTg7Omlx9vPeIUPwgv7HULPXPHW.jpg',
-        release_date: DateTime_105,
-        title: 'Tony Bennett: An American Classic'
-      },
-      {
-        character: 'Man Entering Diner as Delaney Leaves (uncredited)',
-        credit_id: '583fcb49c3a36862e4005ed9',
+        character: 'Edward X. Delaney',
+        credit_id: '52fe45a5c3a368484e066e17',
         id: 28614,
         original_title: 'The First Deadly Sin',
         poster_path: '/uAP2EaHPLTaSuLtyYuDJ8DE4sr6.jpg',
-        release_date: DateTime_106,
+        release_date: DateTime_11,
         title: 'The First Deadly Sin'
       },
       {
-        character: 'Bruce (uncredited)',
-        credit_id: '58c485ec925141634a0029df',
-        id: 14043,
-        original_title: 'Nancy Drew',
-        poster_path: '/wFl2Hvg2AE16NC4lVabK1fx8pzo.jpg',
-        release_date: DateTime_107,
-        title: 'Nancy Drew'
+        character: 'Tony Rome',
+        credit_id: '52fe460ec3a36847f80e9d73',
+        id: 42630,
+        original_title: 'Lady in Cement',
+        poster_path: '/r70X120GasMpDDsInD6Y1vE7Y5N.jpg',
+        release_date: DateTime_12,
+        title: 'Lady in Cement'
       },
       {
-        character: 'Harry Rydell',
-        credit_id: '52fe449ec3a36847f80a07c9',
-        id: 8324,
-        original_title: 'Fast Food Nation',
-        poster_path: '/AgJTLdYkn7DHGaJt5uIIJMPl2ge.jpg',
-        release_date: DateTime_108,
-        title: 'Fast Food Nation'
+        character: 'Det. Sgt. Joe Leland',
+        credit_id: '52fe460ec3a36847f80ea067',
+        id: 42636,
+        original_title: 'The Detective',
+        poster_path: '/pAdoFSX0xEGf8g8Ihyu354ijxk7.jpg',
+        release_date: DateTime_13,
+        title: 'The Detective'
+      },
+      {
+        character: 'Mark Brittain',
+        credit_id: '52fe4614c3a36847f80eb9b3',
+        id: 42716,
+        original_title: 'Assault on a Queen',
+        poster_path: '/xR9UqFV5dh30kFGB2oYn5i2yljv.jpg',
+        release_date: DateTime_14,
+        title: 'Assault on a Queen'
+      },
+      {
+        character: 'Johnny Concho / Johnny Collins',
+        credit_id: '52fe462ac3a368484e082573',
+        id: 60548,
+        original_title: 'Johnny Concho',
+        poster_path: '/vcQXkBCIZE0kpzYbyzzeRIGBhJ4.jpg',
+        release_date: DateTime_15,
+        title: 'Johnny Concho'
+      },
+      {
+        character: 'Charlie Y. Reader',
+        credit_id: '52fe463ec3a36847f80f425b',
+        id: 43326,
+        original_title: 'The Tender Trap',
+        poster_path: '/b5IzMmLOwRnqZxusHPlGnfhTFe3.jpg',
+        release_date: DateTime_16,
+        title: 'The Tender Trap'
+      },
+      {
+        character: 'Glenn Russell',
+        credit_id: '52fe464cc3a36847f80f751b',
+        id: 43503,
+        original_title: 'Step Lively',
+        poster_path: '/lqouADzbjXyDl5T31UKkhg0Zsf6.jpg',
+        release_date: DateTime_17,
+        title: 'Step Lively'
+      },
+      {
+        character: 'Dave Hirsh',
+        credit_id: '52fe46d69251416c910616db',
+        id: 38724,
+        original_title: 'Some Came Running',
+        poster_path: '/2Asmpf7WJ1hQYhJ1VeoszPlkxwi.jpg',
+        release_date: DateTime_18,
+        title: 'Some Came Running'
+      },
+      {
+        character: 'Zack Thomas',
+        credit_id: '52fe47409251416c75092ddb',
+        id: 17691,
+        original_title: '4 for Texas',
+        poster_path: '/A6QG1AB1KTo692IbnHz30dc0wNE.jpg',
+        release_date: DateTime_19,
+        title: '4 for Texas'
+      },
+      {
+        character: 'Robbo',
+        credit_id: '52fe47419251416c75092ea7',
+        id: 17696,
+        original_title: 'Robin and the 7 Hoods',
+        poster_path: '/hQMUPIYWRAD8r1Bmu5JQJgGlLsH.jpg',
+        release_date: DateTime_20,
+        title: 'Robin and the 7 Hoods'
+      },
+      {
+        character: 'Clarence Doolittle',
+        credit_id: '52fe474f9251416c75094cdd',
+        id: 17889,
+        original_title: 'Anchors Aweigh',
+        poster_path: '/Ia38xX5hamBovKd8lHZV9vS1rK.jpg',
+        release_date: DateTime_21,
+        title: 'Anchors Aweigh'
+      },
+      {
+        character: 'Dingus Billy Magee',
+        credit_id: '52fe4765c3a36847f8133473',
+        id: 48408,
+        original_title: 'Dirty Dingus Magee',
+        poster_path: '/ekGTRq3UYzUmdso2Nw1Uv9SLMLU.jpg',
+        release_date: DateTime_22,
+        title: 'Dirty Dingus Magee'
+      },
+      {
+        character: 'John Baron',
+        credit_id: '52fe47789251416c7509a82d',
+        id: 18398,
+        original_title: 'Suddenly',
+        poster_path: '/oR92O5SpkRPBmSvInne4BStxmZc.jpg',
+        release_date: DateTime_23,
+        title: 'Suddenly'
+      },
+      {
+        character: 'Mike Merry',
+        credit_id: '52fe47829251416c7509c0a5',
+        id: 18512,
+        original_title: 'Sergeants 3',
+        poster_path: '/nA0AdRXFIwXp6vopoqqncdErext.jpg',
+        release_date: DateTime_24,
+        title: 'Sergeants 3'
+      },
+      {
+        character: 'Danny Webson Miller',
+        credit_id: '52fe47dd9251416c750a8059',
+        id: 19525,
+        original_title: 'It Happened in Brooklyn',
+        poster_path: '/2DEoV6Vw9xKlAGoXacoUA2Zcjaf.jpg',
+        release_date: DateTime_25,
+        title: 'It Happened in Brooklyn'
       },
       {
         character: 'Himself',
-        credit_id: '5e783edad18b2400138150d6',
-        id: 685686,
-        original_title: "The Making of 'Unbreakable'",
-        poster_path: '/9d08WSkGtGz0CSRRIOa47J97ORr.jpg',
-        release_date: DateTime_109,
-        title: "The Making of 'Unbreakable'"
+        credit_id: '52fe48509251416c91087f03',
+        id: 82420,
+        original_title: 'Frank Sinatra: A Reflection',
+        release_date: DateTime_26,
+        title: 'Frank Sinatra: A Reflection'
+      },
+      {
+        character: 'Lieutenant Sam Loggins',
+        credit_id: '52fe4993c3a368484e132739',
+        id: 78229,
+        original_title: 'Kings Go Forth',
+        poster_path: '/heeZ8Hu8VU8xes1t9GnxUy7ReYu.jpg',
+        release_date: DateTime_27,
+        title: 'Kings Go Forth'
+      },
+      {
+        character: 'Self',
+        credit_id: '52fe49e79251416c910bc9ef',
+        id: 88044,
+        original_title: 'Sinatra at Carnegie Hall',
+        release_date: DateTime_28,
+        title: 'Sinatra at Carnegie Hall'
+      },
+      {
+        character: 'Dan Edwards',
+        credit_id: '52fe4a1e9251416c750de63d',
+        id: 98648,
+        original_title: 'Marriage on the Rocks',
+        poster_path: '/8r3mXnZ157RFRmput35vtZ7qsO9.jpg',
+        release_date: DateTime_29,
+        title: 'Marriage on the Rocks'
+      },
+      {
+        character: 'Ricardo',
+        credit_id: '52fe4b5bc3a368484e1852e9',
+        id: 130425,
+        original_title: 'The Kissing Bandit',
+        poster_path: '/27KgNXv1kzH5h5xa6tpUVpFwFpv.jpg',
+        release_date: DateTime_30,
+        title: 'The Kissing Bandit'
+      },
+      {
+        character: 'Sam Laker',
+        credit_id: '52fe4b6d9251416c751025d1',
+        id: 145965,
+        original_title: 'The Naked Runner',
+        poster_path: '/nyzQSVD06Co6WxCG9DJSVsSH7dA.jpg',
+        release_date: DateTime_31,
+        title: 'The Naked Runner'
+      },
+      {
+        character: 'Frank Hovannes',
+        credit_id: '52fe4b70c3a36847f8203c3f',
+        id: 115537,
+        original_title: 'Contract on Cherry Street',
+        release_date: DateTime_32,
+        title: 'Contract on Cherry Street'
       },
       {
         character: 'Himself',
-        credit_id: '52fe4cddc3a36847f824216d',
-        id: 169173,
-        original_title: 'Genius. A Night for Ray Charles',
-        poster_path: '/fwJEn5OaUEOmNbg7d1BhaaMoAKp.jpg',
-        release_date: DateTime_110,
-        title: 'Genius. A Night for Ray Charles'
+        credit_id: '52fe4bbe9251416c7510ca85',
+        id: 148075,
+        original_title: 'The House I Live In',
+        poster_path: '/jFFiSdNXdWIvMNU1YDDUN75DB7n.jpg',
+        release_date: DateTime_33,
+        title: 'The House I Live In'
       },
       {
-        character: 'Himself (archive footage)',
-        credit_id: '5dd6332a3faba00019f61fb8',
-        id: 619836,
-        original_title: 'Pulp Fiction: The Facts',
-        poster_path: '/eSDP6tC1FIMZsPMclhsr8mYiSZk.jpg',
-        release_date: DateTime_111,
-        title: 'Pulp Fiction: The Facts'
-      },
-      {
-        character: 'Spike',
-        credit_id: '58d7e5dbc3a3681234056852',
-        id: 20694,
-        original_title: 'Rugrats Go Wild',
-        poster_path: '/hpVpXRNY2IsU0xvfXtYOxu0QDwc.jpg',
-        release_date: DateTime_112,
-        title: 'Rugrats Go Wild'
+        character: 'Danny Wilson',
+        credit_id: '52fe4c65c3a36847f822c125',
+        id: 163332,
+        original_title: 'Meet Danny Wilson',
+        release_date: DateTime_34,
+        title: 'Meet Danny Wilson'
       },
       {
         character: 'Himself',
-        credit_id: '52fe4c3bc3a368484e1adf35',
-        id: 137896,
-        original_title: 'Warren Ellis: Captured Ghosts',
-        poster_path: '/27p8nNJ1Nw2dutyAnlGcS1sB5K6.jpg',
-        release_date: DateTime_113,
-        title: 'Warren Ellis: Captured Ghosts'
+        credit_id: '52fe4c6ac3a368484e1b742b',
+        id: 139714,
+        original_title: 'Frank Sinatra: Concert for the Americas',
+        poster_path: '/dtJ9jN4q79fB5Ck8S6RkWSFROmZ.jpg',
+        release_date: DateTime_35,
+        title: 'Frank Sinatra: Concert for the Americas'
       },
       {
         character: 'Himself',
-        credit_id: '5c3c2f7cc3a36853ce3c7ba9',
-        id: 566947,
-        original_title: 'Bumping Mics with Jeff Ross & Dave Attell',
-        poster_path: '/iJrPtcVnKAUiD0Y589NXxFrbmsG.jpg',
-        release_date: DateTime_114,
-        title: 'Bumping Mics with Jeff Ross & Dave Attell'
+        credit_id: '52fe4e649251416c75154e71',
+        id: 225633,
+        original_title: "The Ocean's 11 Story",
+        release_date: DateTime_36,
+        title: "The Ocean's 11 Story"
       },
       {
-        character: 'Courtroom Observer (uncredited)',
-        credit_id: '58c487adc3a36816bc002be4',
-        id: 24226,
-        original_title: 'The Verdict',
-        poster_path: '/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg',
-        release_date: DateTime_115,
-        title: 'The Verdict'
+        character: 'Himself',
+        credit_id: '536d052bc3a3683bf9002cec',
+        id: 268930,
+        original_title: 'Frank Sinatra: The Voice of a Century',
+        release_date: DateTime_37,
+        title: 'Frank Sinatra: The Voice of a Century'
       },
       {
-        character: 'Extra (uncredited)',
-        credit_id: '5a07710ac3a368341c00439f',
-        id: 32047,
-        original_title: 'Prince of the City',
-        poster_path: '/2LtOyvE6P4tbmunPjOMI92CcEDl.jpg',
-        release_date: DateTime_116,
-        title: 'Prince of the City'
+        character: 'Joe E. Lewis',
+        credit_id: '52fe4bbcc3a368484e19729b',
+        id: 133792,
+        original_title: 'The Joker Is Wild',
+        poster_path: '/brxoc8xjWRWGoRMGLy1NV59LeYF.jpg',
+        release_date: DateTime_38,
+        title: 'The Joker Is Wild'
+      },
+      {
+        character: 'Himself',
+        credit_id: '52fe4f48c3a36847f82ca863',
+        id: 249641,
+        original_title: "Live and Swingin': The Ultimate Rat Pack Collection",
+        poster_path: '/q3OsHBzZry26LtDlgGoWfgMd4Xu.jpg',
+        release_date: DateTime_39,
+        title: "Live and Swingin': The Ultimate Rat Pack Collection"
+      },
+      {
+        character: 'Miguel',
+        credit_id: '52fe445ec3a368484e01ef95',
+        id: 23102,
+        original_title: 'The Pride and the Passion',
+        poster_path: '/iOTzSb22qt1PPpJguwrcyuAXhBg.jpg',
+        release_date: DateTime_40,
+        title: 'The Pride and the Passion'
+      },
+      {
+        character: 'Chip',
+        credit_id: '52fe44839251416c9101363b',
+        id: 31516,
+        original_title: 'On the Town',
+        poster_path: '/cgro50iLHXVNdCTriEtKZSGoLoX.jpg',
+        release_date: DateTime_41,
+        title: 'On the Town'
+      },
+      {
+        character: 'Harry',
+        credit_id: '52fe44a89251416c910184ab',
+        id: 31916,
+        original_title: "The Devil at 4 O'Clock",
+        poster_path: '/logIGBhfPnevLP8qlfTP0mnKq3Z.jpg',
+        release_date: DateTime_42,
+        title: "The Devil at 4 O'Clock"
+      },
+      {
+        character: 'Joey Evans',
+        credit_id: '52fe45349251416c9102ad37',
+        id: 33734,
+        original_title: 'Pal Joey',
+        poster_path: '/n5ObvbzEbGX5nCouQj330ISwLtw.jpg',
+        release_date: DateTime_43,
+        title: 'Pal Joey'
+      },
+      {
+        character: 'Barney Sloan',
+        credit_id: '52fe4640c3a36847f80f4789',
+        id: 43340,
+        original_title: 'Young at Heart',
+        poster_path: '/1KO7n7yoVEBh07lY0YH6zIgur89.jpg',
+        release_date: DateTime_44,
+        title: 'Young at Heart'
+      },
+      {
+        character: 'Vocal',
+        credit_id: '534d7a4fc3a368679b0002d5',
+        id: 264824,
+        original_title: 'Frank Sinatra - Primetime',
+        poster_path: '/pdBsF5JtbiMAsU81gH9ooyI4aln.jpg',
+        release_date: DateTime_45,
+        title: 'Frank Sinatra - Primetime'
       },
       {
         character: '',
-        credit_id: '5ba581ec0e0a262f8a001056',
-        id: 7944,
-        original_title: 'Shine a Light',
-        poster_path: '/2zBH4NZ37RmVASoTD7yP7JQswky.jpg',
-        release_date: DateTime_117,
-        title: 'Shine a Light'
+        credit_id: '5478773392514104d8004d52',
+        id: 271280,
+        original_title: 'Frank Sinatra: The Main Event',
+        poster_path: '/sgCRYNpfEElsaWkTtBLiWgPgYdC.jpg',
+        release_date: DateTime_46,
+        title: 'Frank Sinatra: The Main Event'
       },
       {
-        character: 'Muldoon (segment "Planet Terror")',
-        credit_id: '53ffa112c3a3684372000527',
-        id: 285923,
-        original_title: 'Grindhouse',
-        poster_path: '/5Su17vkNkDBh9B5LPwONRqkbry2.jpg',
+        character: '',
+        credit_id: '568ae898c3a368227b020ebf',
+        id: 375953,
+        original_title: 'Sinatra Sings',
+        poster_path: '/TCYvhdEutbiXvdw2qeA7GVFvB7.jpg',
+        release_date: DateTime_47,
+        title: 'Sinatra Sings'
+      },
+      {
+        character: 'Himself',
+        credit_id: '56c802dcc3a3684087001a9f',
+        id: 383782,
+        original_title: 'Frank Sinatra: TV Performances',
+        release_date: DateTime_48,
+        title: 'Frank Sinatra: TV Performances'
+      },
+      {
+        character: '',
+        credit_id: '55682e639251417bc40014b7',
+        id: 103091,
+        original_title: 'All-Star Party for Frank Sinatra',
+        release_date: DateTime_49,
+        title: 'All-Star Party for Frank Sinatra'
+      },
+      {
+        character: 'Himself',
+        credit_id: '55d09634c3a3681bee007589',
+        id: 271580,
+        original_title: 'Frank Sinatra: A Man and His Music',
+        poster_path: '/ykQevjTGk05IHpbSaJkZyhGT8iK.jpg',
+        release_date: DateTime_50,
+        title: 'Frank Sinatra: A Man and His Music Part I'
+      },
+      {
+        character: 'Himself',
+        credit_id: '55d09df992514142b4004be9',
+        id: 354790,
+        original_title: 'Frank Sinatra: A Man and His Music Part II',
+        poster_path: '/pgcl3eUwa5mRff49KmX8jviF0jH.jpg',
+        release_date: DateTime_51,
+        title: 'Frank Sinatra: A Man and His Music Part II'
+      },
+      {
+        character: '',
+        credit_id: '55d09f02925141319f007d20',
+        id: 275349,
+        original_title: 'Frank Sinatra: A Man and His Music + Ella + Jobim',
+        poster_path: '/wTyCxpAT28kFlkTxLhM4G2eNier.jpg',
+        release_date: DateTime_52,
+        title: 'Frank Sinatra: A Man and His Music + Ella + Jobim'
+      },
+      {
+        character: '',
+        credit_id: '55d0a31f92514142b4004c75',
+        id: 275350,
+        original_title: 'Frank Sinatra: The Man and His Music',
+        poster_path: '/7j2Ahtz6LTQz9WPmvw7gxRfoEik.jpg',
+        release_date: DateTime_53,
+        title: 'Frank Sinatra: The Man and His Music'
+      },
+      {
+        character: '',
+        credit_id: '55d0bf3392514142b400500a',
+        id: 271279,
+        original_title: "Frank Sinatra: Ol' Blue Eyes Is Back",
+        poster_path: '/op1DLm9bbw3gQ4jwxEmZ8K69Rta.jpg',
+        release_date: DateTime_54,
+        title: "Frank Sinatra: Ol' Blue Eyes Is Back"
+      },
+      {
+        character: '',
+        credit_id: '55d106ff925141319800865f',
+        id: 271278,
+        original_title: 'Frank Sinatra: In Concert at Royal Festival Hall',
+        poster_path: '/rsP9W42wc9ZTgtBiQhzTCbVz5HV.jpg',
+        release_date: DateTime_55,
+        title: 'Frank Sinatra: In Concert at Royal Festival Hall'
+      },
+      {
+        character: '',
+        credit_id: '55d10ba2c3a3686e3500012e',
+        id: 103094,
+        original_title: 'Frank Sinatra in Japan: Live at the Budokan Hall, Tokyo',
+        poster_path: '/cGVlUfmIpqFrCvLaUGYYjNrUzSc.jpg',
+        release_date: DateTime_56,
+        title: 'Frank Sinatra in Japan: Live at the Budokan Hall, Tokyo'
+      },
+      {
+        character: '',
+        credit_id: '5684ab0a92514131df017327',
+        id: 375119,
+        original_title: 'Sinatra',
+        poster_path: '/aHiei9ODgJzvGr5snKZnzCPSgqh.jpg',
+        release_date: DateTime_57,
+        title: 'Sinatra'
+      },
+      {
+        character: '',
+        credit_id: '56c6c814c3a3680d570050d3',
+        id: 383601,
+        original_title: 'Francis Albert Sinatra Does His Thing',
+        poster_path: '/wsFWgVTAH2t4EbzgoiwXc9YHsib.jpg',
+        release_date: DateTime_58,
+        title: 'Francis Albert Sinatra Does His Thing'
+      },
+      {
+        character: '',
+        credit_id: '56c7f7c09251411738001680',
+        id: 383778,
+        original_title: 'Sinatra and Friends',
+        poster_path: '/ex3T73oPJyeJRloiLHtWWYromQw.jpg',
+        release_date: DateTime_59,
+        title: 'Sinatra and Friends'
+      },
+      {
+        character: 'Himself',
+        credit_id: '56c7fa57c3a3684097001c19',
+        id: 383780,
+        original_title: 'Vintage Sinatra',
+        release_date: DateTime_60,
+        title: 'Vintage Sinatra'
+      },
+      {
+        character: 'Himself',
+        credit_id: '58bb7fb8925141126a01116a',
+        id: 343835,
+        original_title: 'Sammy Davis, Jr. 60th Anniversary Celebration',
+        release_date: DateTime_61,
+        title: 'Sammy Davis, Jr. 60th Anniversary Celebration'
+      },
+      {
+        character: '(archive footage)',
+        credit_id: '593833a4c3a368541f0002e0',
+        id: 460890,
+        original_title: "Hollywood Musicals of the 40's",
+        poster_path: '/jDXMkDhpcyegjIxgi4e1XGaiqAm.jpg',
+        release_date: DateTime_62,
+        title: "Hollywood Musicals of the 40's"
+      },
+      {
+        character: 'Self',
+        credit_id: '5954fc58c3a36809c6050375',
+        id: 463887,
+        original_title: "Frank Sinatra: Live at Caesar's Palace",
+        poster_path: '/z8VPDx3F9gUyWVarKcDPDkvb7L6.jpg',
+        release_date: DateTime_63,
+        title: "Frank Sinatra: Live at Caesar's Palace"
+      },
+      {
+        character: 'Himself',
+        credit_id: '597a23b192514107c801990a',
+        id: 468263,
+        original_title: 'Frank Sinatra: The Retirement Concert',
+        poster_path: '/9d1eGHGboDHWCLB3Vj3uP1cWi2V.jpg',
+        release_date: DateTime_64,
+        title: 'Frank Sinatra: The Retirement Concert'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5b220a199251416f9e00e9bc',
+        id: 82621,
+        original_title: 'Sinatra: The Classic Duets',
+        release_date: DateTime_65,
+        title: 'Sinatra: The Classic Duets'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5b47be570e0a267ac600e16e',
+        id: 535449,
+        original_title: 'The Frank Sinatra Timex Show: An Afternoon with Frank Sinatra',
+        poster_path: '/62YPf6pRP3kXA534bQZRtXwHnOD.jpg',
+        release_date: DateTime_66,
+        title: 'The Frank Sinatra Timex Show: An Afternoon with Frank Sinatra'
+      },
+      {
+        character: 'himself',
+        credit_id: '5c6e74b4c3a3683bf0e36cc8',
+        id: 70138,
+        original_title: 'The Rat Pack - The Greatest Hits',
+        poster_path: '/iEBdCekZ2inGEMyfWnEOzL8K252.jpg',
+        title: 'The Rat Pack - The Greatest Hits'
+      },
+      {
+        character: '',
+        credit_id: '5d0de9529251413945bc481b',
+        id: 610579,
+        original_title: 'Frank Sinatra: One More for the Road',
+        poster_path: '/hd2tleM48WMICmfz2ykOEaRqnfu.jpg',
+        release_date: DateTime_67,
+        title: 'Frank Sinatra: One More for the Road'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5e5c0613357c00001329e439',
+        id: 440189,
+        original_title: 'Frank Sinatra: Around the World',
+        poster_path: '/sFa7acAyYqsBHx8c2wwPCeiBxO9.jpg',
+        release_date: DateTime_68,
+        title: 'Frank Sinatra: Around the World'
+      },
+      {
+        character: '(archive footage)',
+        credit_id: '5eb0830bedeb43001fc9331b',
+        id: 655092,
+        original_title: 'Frank Sinatra. Die Stimme Amerikas',
+        release_date: DateTime_69,
+        title: 'Frank Sinatra – The Voice of America'
+      },
+      {
+        character: 'Stage Manager',
+        credit_id: '5f09eea41f98d100371f29b7',
+        id: 723654,
+        original_title: 'Our Town',
+        poster_path: '/z2OlO9RFtzzLDMVXRybDVOzCDWQ.jpg',
+        release_date: DateTime_70,
+        title: 'Our Town'
+      },
+      {
+        character: '',
+        credit_id: '5f22f11b5b12400037298aa0',
+        id: 728890,
+        original_title: 'Frank Sinatra: Relive the magic',
+        poster_path: '/uf1H4z5ZtdeBbryEkA5xtEdRcHb.jpg',
+        release_date: DateTime_71,
+        title: 'Frank Sinatra: Relive the magic'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5f29c7361bf2660038499522',
+        id: 730095,
+        original_title: 'Frank Sinatra: Live from Caesars Palace',
+        poster_path: '/zYhVAm8lXS9WhkvpKIsKVTfNGfU.jpg',
+        release_date: DateTime_72,
+        title: 'Frank Sinatra: Live from Caesars Palace'
+      },
+      {
+        character: '',
+        credit_id: '5f29cbd5d8cc4a00361bcf60',
+        id: 730097,
+        original_title: 'Frank Sinatra: Live from Caesars Palace',
+        poster_path: '/zYhVAm8lXS9WhkvpKIsKVTfNGfU.jpg',
+        release_date: DateTime_73,
+        title: 'Frank Sinatra: Live from Caesars Palace'
+      },
+      {
+        character: '',
+        credit_id: '5f29cea9d8cc4a00371af6e1',
+        id: 730099,
+        original_title: 'Frank Sinatra: The First 40 Years',
+        poster_path: '/zYhVAm8lXS9WhkvpKIsKVTfNGfU.jpg',
+        release_date: DateTime_74,
+        title: 'Frank Sinatra: The First 40 Years'
+      },
+      {
+        character: '',
+        credit_id: '5f29f578869e75003561e665',
+        id: 730122,
+        original_title: 'The Frank Sinatra Timex Show',
+        poster_path: '/ynkUjZqVN3N3Z0J7vCHTCsfq6e1.jpg',
+        release_date: DateTime_75,
+        title: 'The Frank Sinatra Timex Show'
+      },
+      {
+        character: '',
+        credit_id: '5f314f3dfcadb40035e4d5c4',
+        id: 731691,
+        original_title: 'The Frank Sinatra Timex Show - To the Ladies',
+        poster_path: '/pUUqfiR1qMziWYI9Ijo9mmPuxu1.jpg',
+        title: 'The Frank Sinatra Timex Show - To the Ladies'
+      },
+      {
+        character: '',
+        credit_id: '5f348ced111da10034641c2d',
+        id: 732462,
+        original_title: 'Frank Sinatra - The Royal Festival Hall',
+        poster_path: '/43GhqxIyzgpY7d5ZCuu3yALVPl8.jpg',
+        title: 'Frank Sinatra - The Royal Festival Hall'
+      },
+      {
+        character: '',
+        credit_id: '5f46756c691cd50033bb0a31',
+        id: 736825,
+        original_title: 'Sinatra and friends',
+        poster_path: '/8QWMfb58ChyVCyxJez1EUQV5Oqc.jpg',
+        release_date: DateTime_76,
+        title: 'Sinatra and friends'
+      },
+      {
+        character: 'Nathan Detroit',
+        credit_id: '52fe43ddc3a36847f8074c4b',
+        id: 4825,
+        original_title: 'Guys and Dolls',
+        poster_path: '/bAv9AmrWAZyCaOhxEcoYlXB5ObY.jpg',
+        release_date: DateTime_77,
+        title: 'Guys and Dolls'
+      },
+      {
+        character: "Macaulay 'Mike' Connor",
+        credit_id: '52fe443d9251416c7502db03',
+        id: 11424,
+        original_title: 'High Society',
+        poster_path: '/vcQF84xv8eaeepHsLFugNm9iekc.jpg',
+        release_date: DateTime_78,
+        title: 'High Society'
+      },
+      {
+        character: 'Father Paul',
+        credit_id: '52fe4649c3a36847f80f6829',
+        id: 43456,
+        original_title: 'The Miracle of the Bells',
+        poster_path: '/hc5IX1vayih9TOl1hnft6J70rdD.jpg',
+        release_date: DateTime_79,
+        title: 'The Miracle of the Bells'
+      },
+      {
+        character: 'Frank',
+        credit_id: '52fe464dc3a36847f80f78ad',
+        id: 43511,
+        original_title: 'Higher and Higher',
+        poster_path: '/n5KThUMSpB9wEplep0PoL2By3ih.jpg',
+        release_date: DateTime_80,
+        title: 'Higher and Higher'
+      },
+      {
+        character: 'Himself',
+        credit_id: '541da6b0c3a36801cf008a85',
+        id: 293954,
+        original_title: 'The Best Of Louis Armstrong: Satchmo At His Best',
+        release_date: DateTime_81,
+        title: 'The Best Of Louis Armstrong: Satchmo At His Best'
+      },
+      {
+        character: 'Johnny Dalton',
+        credit_id: '52fe48f39251416c9109daf3',
+        id: 84397,
+        original_title: 'Double Dynamite',
+        poster_path: '/oTr1GdQcqvx0CvZ3CbtyZLNVuWR.jpg',
+        release_date: DateTime_82,
+        title: 'Double Dynamite'
+      },
+      {
+        character: 'Alfred Boone',
+        credit_id: '52fe4927c3a368484e11cf4d',
+        id: 76117,
+        original_title: 'Not as a Stranger',
+        poster_path: '/iSwjB1gHlnnaoo1HpwcGSctSLYY.jpg',
+        release_date: DateTime_83,
+        title: 'Not as a Stranger'
+      },
+      {
+        character: 'Himself',
+        credit_id: '52fe49f79251416c910bec2f',
+        id: 88502,
+        original_title: 'The Ultimate Event',
+        poster_path: '/n1GJu1V97rDisBTVQ5ucZmG2k8g.jpg',
+        release_date: DateTime_84,
+        title: 'The Ultimate Event'
+      },
+      {
+        character: 'Himself',
+        credit_id: '52fe4cd79251416c751273ef',
+        id: 185125,
+        original_title: 'Road to Victory',
+        poster_path: '/ifIfqE5YIOKr4Ko8oeVUWF42N9m.jpg',
+        release_date: DateTime_85,
+        title: 'Road to Victory'
+      },
+      {
+        character: 'Himself (archive footage)',
+        credit_id: '5a8c701c925141759309360c',
+        id: 459488,
+        original_title: 'To Be Frank: Sinatra at 100',
+        poster_path: '/fdWfdl8p4W7TZ20BHCcCb7BUiel.jpg',
+        release_date: DateTime_86,
+        title: 'To Be Frank: Sinatra at 100'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5b26cb400e0a261063003079',
+        id: 311555,
+        original_title: 'Frank Sinatra Show: Welcome Home Elvis',
+        poster_path: '/f1bB8zKIj3tZodwlQ68SvOOBrh5.jpg',
+        release_date: DateTime_87,
+        title: 'Frank Sinatra Show: Welcome Home Elvis'
+      },
+      {
+        character: 'Harry Dane',
+        credit_id: '5e371bfb6beaea0013913a48',
+        id: 416406,
+        original_title: 'Anything Goes',
+        release_date: DateTime_88,
+        title: 'Anything Goes'
+      },
+      {
+        character: 'Self',
+        credit_id: '5f29ee252d8ef30036ded723',
+        id: 730120,
+        original_title: 'Frank Sinatra Spectacular',
+        poster_path: '/svGE38aebQfPSgVu8rEL0QPiIi7.jpg',
+        release_date: DateTime_89,
+        title: 'Frank Sinatra Spectacular'
+      },
+      {
+        character: 'Himself',
+        credit_id: '546bc8a99251412f580008d3',
+        id: 304201,
+        original_title: 'I due Kennedy',
+        poster_path: '/4l1hok2C2yaDhkz0KgHHxodAR8V.jpg',
+        release_date: DateTime_90,
+        title: 'The Two Kennedys'
+      },
+      {
+        character: 'Himself',
+        credit_id: '58cdda3cc3a36850f30130a7',
+        id: 447719,
+        original_title: 'Frank Sinatra Memorial',
+        poster_path: '/f2pOnoQm4oAlihC0xOUCIoBEltT.jpg',
+        release_date: DateTime_91,
+        title: 'Frank Sinatra Memorial'
+      },
+      {
+        character: '',
+        credit_id: '5c671471c3a368349fd9f59b',
+        id: 582400,
+        original_title: 'The Ratpack',
+        poster_path: '/yQt0xLanjMYJ7vNpzmjkqMo9n7F.jpg',
+        release_date: DateTime_92,
+        title: 'The Ratpack'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5eee1fb7bd990c00370285dc',
+        id: 321960,
+        original_title: 'The Judy Garland Show',
+        poster_path: '/qtJKii4TmLEr0JFCSf6IHXtRQ60.jpg',
+        release_date: DateTime_93,
+        title: 'The Judy Garland Show'
+      },
+      {
+        character: 'Pvt. Angelo Maggio',
+        credit_id: '52fe443d9251416c7502dbdd',
+        id: 11426,
+        original_title: 'From Here to Eternity',
+        poster_path: '/dXuY3rDdu0Em3xsyPYrlhLKz9KE.jpg',
+        release_date: DateTime_94,
+        title: 'From Here to Eternity'
+      },
+      {
+        character: 'Band singer',
+        credit_id: '52fe4d5cc3a36847f825ca49',
+        id: 175288,
+        original_title: 'Las Vegas Nights',
+        release_date: DateTime_95,
+        title: 'Las Vegas Nights'
+      },
+      {
+        character: 'Himself',
+        credit_id: '59b6dad592514125290013c8',
+        id: 250737,
+        original_title: 'AFI Tribute to Orson Welles',
+        release_date: DateTime_96,
+        title: 'AFI Tribute to Orson Welles'
+      },
+      {
+        character: 'Himself (archive footage)',
+        credit_id: '53e6aef70e0a2628c700289c',
+        id: 286034,
+        original_title: 'The Definitive Elvis: The Television Years',
+        release_date: DateTime_97,
+        title: 'The Definitive Elvis: The Television Years'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5a1d7a390e0a264cc1065d65',
+        id: 489681,
+        original_title: "Movin' with Nancy",
+        poster_path: '/sks6P7OOhkO3ePG0e5ReXHylBxb.jpg',
+        release_date: DateTime_98,
+        title: "Movin' with Nancy"
+      },
+      {
+        character: 'er selbst',
+        credit_id: '5402620ec3a3684372003baf',
+        id: 289588,
+        original_title: 'Glück und Liebe in Monaco',
+        release_date: DateTime_99,
+        title: 'Happiness and Love in Monaco'
+      },
+      {
+        character: 'Vince Talmadge',
+        credit_id: '5414f0410e0a26199b00301a',
+        id: 8737,
+        original_title: 'Cast a Giant Shadow',
+        poster_path: '/fsjOjetKC0MtukxtahgrUjuAA27.jpg',
+        release_date: DateTime_100,
+        title: 'Cast a Giant Shadow'
+      },
+      {
+        character: 'Saloon Pianist',
+        credit_id: '52fe4373c3a36847f8055077',
+        id: 2897,
+        original_title: 'Around the World in Eighty Days',
+        poster_path: '/esBA7HPwsIBJxuxwA3T8SQkJQBS.jpg',
+        release_date: DateTime_101,
+        title: 'Around the World in Eighty Days'
+      },
+      {
+        character: 'Himself',
+        credit_id: '58b225ab9251415b1d015b2c',
+        id: 248153,
+        original_title: 'A Tale of Two Sisters - Lorna Luft and Liza Minnelli',
         release_date: DateTime_102,
-        title: 'Grindhouse'
+        title: 'A Tale of Two Sisters - Lorna Luft and Liza Minnelli'
       },
       {
-        character: 'Leo',
-        credit_id: '52fe420dc3a36847f80001bb',
-        id: 5,
-        original_title: 'Four Rooms',
-        poster_path: '/uZSmxBLIuZ8gpadjAWNdA5aQDAc.jpg',
+        character: 'Frank Sinatra',
+        credit_id: '52fe47929251416c7509e465',
+        id: 18700,
+        original_title: 'Till the Clouds Roll By',
+        poster_path: '/3DNszcgnoG1iw12hhi1PKQjBHSY.jpg',
+        release_date: DateTime_103,
+        title: 'Till the Clouds Roll By'
+      },
+      {
+        character: '',
+        credit_id: '532d9928c3a3685fc3001eda',
+        id: 260518,
+        original_title: 'Céline Dion: All the Way... A Decade of Song and Videos',
+        poster_path: '/A7Degw2Un9pLGj3eyOpOlU8mCcq.jpg',
+        release_date: DateTime_104,
+        title: 'All the Way... A Decade of Song and Videos'
+      },
+      {
+        character: 'Himself - Host / Narrator',
+        credit_id: '551a98179251415c3a0016cd',
+        id: 33740,
+        original_title: "That's Entertainment!",
+        poster_path: '/zDrBHhOF55FjbJLyYge3I4v1B8S.jpg',
+        release_date: DateTime_105,
+        title: "That's Entertainment!"
+      },
+      {
+        character: 'Self',
+        credit_id: '531031899251410fe6000942',
+        id: 257402,
+        original_title: 'The Shining Future',
+        poster_path: '/4NA3Gz1ALgHwHGlCTtUkneTzNbh.jpg',
+        release_date: DateTime_106,
+        title: 'The Shining Future'
+      },
+      {
+        character: 'Singer in Tommy Dorsey Orchestra',
+        credit_id: '53493e1a0e0a266b3f0015d6',
+        id: 43782,
+        original_title: 'Ship Ahoy',
+        poster_path: '/n0ARIQio8q6ytWtp3fqsG2NPjWN.jpg',
+        release_date: DateTime_107,
+        title: 'Ship Ahoy'
+      },
+      {
+        character: 'Himself (archive footage)',
+        credit_id: '5d4494920fb398001596887e',
+        id: 620219,
+        original_title: 'The Music of Kander and Ebb: Razzle Dazzle',
+        poster_path: '/aojfsTqyyocka1IKAvDzn6nrG5f.jpg',
+        release_date: DateTime_108,
+        title: 'The Music of Kander and Ebb: Razzle Dazzle'
+      },
+      {
+        character: 'Chief Pharmacist Mate',
+        credit_id: '52fe4645c3a36847f80f5c1f',
+        id: 43407,
+        original_title: 'None But the Brave',
+        poster_path: '/aT1TlIsgoKzzlGamfWW8M5bDXEV.jpg',
+        release_date: DateTime_109,
+        title: 'None But the Brave'
+      },
+      {
+        character: 'Singer',
+        credit_id: '52fe4283c3a36847f8024a33',
+        id: 856,
+        original_title: 'Who Framed Roger Rabbit',
+        poster_path: '/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg',
+        release_date: DateTime_110,
+        title: 'Who Framed Roger Rabbit'
+      },
+      {
+        character: 'Singer (uncredited)',
+        credit_id: '52fe4451c3a368484e01c669',
+        id: 22829,
+        original_title: 'Paris When It Sizzles',
+        poster_path: '/aojHngnnK0kTYjvCwtlfAj8xf4B.jpg',
+        release_date: DateTime_111,
+        title: 'Paris When It Sizzles'
+      },
+      {
+        character: '',
+        credit_id: '5b93784f92514143350042d9',
+        id: 283174,
+        original_title: 'The Costume Designer',
+        poster_path: '/eDzjPJrrnggpTwHKZvTlEOUCf94.jpg',
+        release_date: DateTime_112,
+        title: 'The Costume Designer'
+      },
+      {
+        character: 'Gypsy',
+        credit_id: '52fe44659251416c750334a1',
+        id: 11605,
+        original_title: 'The List of Adrian Messenger',
+        poster_path: '/vk7Oai4DcbTFZb201LGlXpfoAt6.jpg',
+        release_date: DateTime_113,
+        title: 'The List of Adrian Messenger'
+      },
+      {
+        character: 'Archive Footage',
+        credit_id: '582e0ad9925141095d00c42b',
+        id: 399794,
+        original_title: 'Jay Sebring....Cutting to the Truth',
+        poster_path: '/r8BRg8ZayMdTS9za4AFI6oKEoQM.jpg',
+        release_date: DateTime_114,
+        title: 'Jay Sebring....Cutting to the Truth'
+      },
+      {
+        character: '(archive footage)',
+        credit_id: '5b01190692514109bc006ac5',
+        id: 74719,
+        original_title: "That's Entertainment, Part II",
+        poster_path: '/5xPPwQqfuXj01viT9AzUGN2BqJ9.jpg',
+        release_date: DateTime_115,
+        title: "That's Entertainment, Part II"
+      },
+      {
+        character: "The 'Twig' on Plutomium (uncredited)",
+        credit_id: '52fe44a09251416c91017527',
+        id: 31804,
+        original_title: 'The Road to Hong Kong',
+        poster_path: '/uYjyMbVAdqK4qbdHDjiWLRQLsLm.jpg',
+        release_date: DateTime_116,
+        title: 'The Road to Hong Kong'
+      },
+      {
+        character: 'Frank Sinatra',
+        credit_id: '52fe49e2c3a36847f81aba95',
+        id: 100834,
+        original_title: 'Reveille with Beverly',
+        poster_path: '/c1VIwjpxyOOCgukllM0BvIVfGm7.jpg',
+        release_date: DateTime_117,
+        title: 'Reveille with Beverly'
+      },
+      {
+        character: '',
+        credit_id: '5af9e38b0e0a263b820020c5',
+        id: 524235,
+        original_title: 'The All-Star Bond Rally',
+        poster_path: '/oqgPUaCFlFUqfFzPPhXvz9COV3k.jpg',
         release_date: DateTime_118,
-        title: 'Four Rooms'
+        title: 'The All-Star Bond Rally'
       },
       {
-        character: 'Bruce Willis (uncredited)',
-        credit_id: '52fe4221c3a36847f8006329',
-        id: 163,
-        original_title: "Ocean's Twelve",
-        poster_path: '/4y8WH1lIpXp0qxUWkYmObhuMRIU.jpg',
+        character: '',
+        credit_id: '562ff217c3a3681b5200e0b9',
+        id: 253089,
+        original_title: 'Christmas from Hollywood',
         release_date: DateTime_119,
-        title: "Ocean's Twelve"
+        title: 'Christmas from Hollywood'
       },
       {
-        character: 'Himself',
-        credit_id: '5a0439ba9251412de200e189',
-        id: 486068,
-        original_title: 'Tony Bennett Celebrates 90',
-        poster_path: '/tKSAQbwlSR0las8mepVklZEPVDs.jpg',
+        character: 'Himself (archive footage)',
+        credit_id: '5d5b6f075690b5397aff7850',
+        id: 29047,
+        original_title: 'The Kid Stays in the Picture',
+        poster_path: '/ye5c1O9jygquFGuHOatQBTVEFyq.jpg',
         release_date: DateTime_120,
-        title: 'Tony Bennett Celebrates 90'
+        title: 'The Kid Stays in the Picture'
       },
       {
-        character: 'Himself (voice)',
-        credit_id: '5c46dc490e0a264965c958f2',
-        id: 280217,
-        original_title: 'The Lego Movie 2: The Second Part',
-        poster_path: '/QTESAsBVZwjtGJNDP7utiGV37z.jpg',
+        character: 'Himself (archive footage)',
+        credit_id: '5995c197c3a3683fa500104a',
+        id: 324051,
+        original_title: 'Nat King Cole: Afraid of the Dark',
+        poster_path: '/ff95CtHiJrlA6ToOw4zLeBH4XJ8.jpg',
         release_date: DateTime_121,
-        title: 'The Lego Movie 2: The Second Part'
+        title: 'Nat King Cole: Afraid of the Dark'
       },
       {
-        character: 'Himself',
-        credit_id: '5d84fbe1b76cbb001fddb329',
-        id: 584962,
-        original_title: 'Between Two Ferns: The Movie',
-        poster_path: '/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg',
+        character: '',
+        credit_id: '5d64925e813cb6026ef8e041',
+        id: 190168,
+        original_title: 'Preminger: Anatomy of a Filmmaker',
         release_date: DateTime_122,
-        title: 'Between Two Ferns: The Movie'
+        title: 'Preminger: Anatomy of a Filmmaker'
       },
       {
-        character: 'Man Whose Caravan Is Attacked',
-        credit_id: '58d7e6ad925141448e00f010',
-        id: 9644,
-        original_title: "National Lampoon's Loaded Weapon 1",
-        poster_path: '/tIdlDgiVQ4kbgVXXIlP8LswubkN.jpg',
+        character: 'Himself (archive footage)',
+        credit_id: '5e1f6db166751d0015c029ba',
+        id: 599950,
+        original_title: 'Sid & Judy',
+        poster_path: '/51ehY8wFaPkVLIPjNaLrCV9CnaN.jpg',
         release_date: DateTime_123,
-        title: "National Lampoon's Loaded Weapon 1"
+        title: 'Sid & Judy'
       },
       {
-        character: 'The Gumshoe',
-        credit_id: '5b96b6c20e0a261973039896',
-        id: 547562,
-        original_title: 'Vanity Fair: Killers Kill, Dead Men Die',
-        poster_path: '/wgyOGEkkOU71izGCwLiuIgfmjtD.jpg',
+        character: 'Frankie (archive footage)',
+        credit_id: '52fe46a79251416c7507f143',
+        id: 16130,
+        original_title: 'La Classe américaine',
+        poster_path: '/hSjNpYyz3eeS1PWD3iF7D3Et6yX.jpg',
         release_date: DateTime_124,
-        title: 'Vanity Fair: Killers Kill, Dead Men Die'
-      },
-      {
-        character: 'William Rose Bailey (uncredited)',
-        credit_id: '52fe44fbc3a36847f80b5c1d',
-        id: 9471,
-        original_title: "Charlie's Angels: Full Throttle",
-        poster_path: '/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg',
-        release_date: DateTime_125,
-        title: "Charlie's Angels: Full Throttle"
-      },
-      {
-        character: 'David Dunn (uncredited)',
-        credit_id: '5886b433925141197d000ae5',
-        id: 381288,
-        original_title: 'Split',
-        poster_path: '/kBvO58pt13dgYImjZNjq6QiOT8n.jpg',
-        release_date: DateTime_126,
-        title: 'Split'
+        title: 'La Classe américaine'
       },
       {
         character: 'Himself',
-        credit_id: '58ff141692514107db006868',
-        id: 454330,
-        original_title: 'Saturday Night Live: 15th Anniversary',
-        poster_path: '/m7HxQu1CC82mYCTiabOdOja91Iw.jpg',
+        credit_id: '5f710b00d55e4d00367a5199',
+        id: 56168,
+        original_title: 'The Oscar',
+        poster_path: '/rPdhkMFPJwj3hOmeNBDTEq277io.jpg',
+        release_date: DateTime_125,
+        title: 'The Oscar'
+      },
+      {
+        character: 'Himself',
+        credit_id: '52fe44a89251416c7503c65f',
+        id: 11950,
+        original_title: 'Cannonball Run II',
+        poster_path: '/sdXjbUcdESA5CKCyez6A29c2vq3.jpg',
+        release_date: DateTime_126,
+        title: 'Cannonball Run II'
+      },
+      {
+        character: '',
+        credit_id: '5b1635d10e0a262dd9014258',
+        id: 277129,
+        original_title: 'The Spencer Tracy Legacy: A Tribute by Katharine Hepburn',
+        poster_path: '/orGASz2wKw95gUjLDItpEAg1v8G.jpg',
         release_date: DateTime_127,
-        title: 'Saturday Night Live: 15th Anniversary'
+        title: 'The Spencer Tracy Legacy: A Tribute by Katharine Hepburn'
       },
       {
-        character: 'Mr. Church (uncredited)',
-        credit_id: '52fe4555c3a368484e0541dd',
-        id: 27578,
-        original_title: 'The Expendables',
-        poster_path: '/8tb3x0rYBGkgOTh1dCXPpmikp1V.jpg',
+        character: 'Frank Sinatra',
+        credit_id: '52fe48749251416c9108d16b',
+        id: 82792,
+        original_title: 'Pepe',
+        poster_path: '/th8c4sGS5ZAOW7zhyGWyhykuL0M.jpg',
         release_date: DateTime_128,
-        title: 'The Expendables'
+        title: 'Pepe'
       },
       {
-        character: 'Doug Masterson (uncredited)',
-        credit_id: '5f31efd97739410037ea3b6d',
-        id: 5172,
-        original_title: 'The Astronaut Farmer',
-        poster_path: '/19uGc8wW3Ert1QvMYxvnReQkFMc.jpg',
+        character: 'Himself (archive footage)',
+        credit_id: '5840d01ac3a36865b30013dd',
+        id: 185699,
+        original_title: 'Gene Kelly: Anatomy of a Dancer',
         release_date: DateTime_129,
-        title: 'The Astronaut Farmer'
+        title: 'Gene Kelly: Anatomy of a Dancer'
       },
       {
-        character: 'Bruce Willis',
-        credit_id: '52fe43689251416c7500f357',
-        id: 10403,
-        original_title: 'The Player',
-        poster_path: '/p4ys4a4yASjKuWzsNWY1B7xP5kZ.jpg',
+        character: '',
+        credit_id: '5d8e6c2c221ba60021b5cebf',
+        id: 353414,
+        original_title: 'Bing Crosby: Rediscovered',
+        poster_path: '/zVDvqJOxB0A6p0DNTEL5qI6pgFb.jpg',
         release_date: DateTime_130,
-        title: 'The Player'
+        title: 'Bing Crosby: Rediscovered'
+      },
+      {
+        character: '(archive footage)',
+        credit_id: '5d64983fad50f00440443405',
+        id: 602397,
+        original_title: 'Hollywood : la vie rêvée de Lana Turner',
+        poster_path: '/5L5zi9RbBg9n6KsRgIe5e5Izr8q.jpg',
+        release_date: DateTime_131,
+        title: 'Hollywood : la vie rêvée de Lana Turner'
+      },
+      {
+        character: 'Man at Slot Machine (uncredited)',
+        credit_id: '576293f1c3a3680d01000cc7',
+        id: 131504,
+        original_title: 'Meet Me in Las Vegas',
+        poster_path: '/rYdzDQ4ajhl4Onys20TIEMXXWDI.jpg',
+        release_date: DateTime_132,
+        title: 'Meet Me in Las Vegas'
+      },
+      {
+        character: 'Himself (archive footage)',
+        credit_id: '5a5a6fc2c3a36867e40124b3',
+        id: 238478,
+        original_title: 'Six by Sondheim',
+        poster_path: '/jldqVhwEudRNm5NX1qFhHC9c6MH.jpg',
+        release_date: DateTime_133,
+        title: 'Six by Sondheim'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5ab5df3c0e0a261fee0041a1',
+        id: 137132,
+        original_title: 'Judy Garland: By Myself',
+        poster_path: '/e2C5NXdXyJrRjiZWppZ11pIg5ah.jpg',
+        release_date: DateTime_134,
+        title: 'Judy Garland: By Myself'
+      },
+      {
+        character: 'Himself',
+        credit_id: '5ab5db82925141395e003db2',
+        id: 186702,
+        original_title: 'Show-Business at War',
+        poster_path: '/eiIj0Nja932SJgtetzPYBBegVQs.jpg',
+        release_date: DateTime_135,
+        title: 'Show-Business at War'
+      },
+      {
+        character: '(archive footage)',
+        credit_id: '587a9d72c3a36849ff006e46',
+        id: 77448,
+        original_title: "That's Entertainment! III",
+        poster_path: '/iLiscmc4LvW7iV48PCRWE6knM9m.jpg',
+        release_date: DateTime_136,
+        title: "That's Entertainment! III"
+      },
+      {
+        character: '',
+        credit_id: '5b1d9f950e0a264faa003b93',
+        id: 350370,
+        original_title: 'Hollywood My Home Town',
+        poster_path: '/k08s70NI6w1C5pUL1kZmH393Dlt.jpg',
+        release_date: DateTime_137,
+        title: 'Hollywood My Home Town'
+      },
+      {
+        character: 'Himself (archive footage)',
+        credit_id: '52fe4d4c9251416c751367ed',
+        id: 188991,
+        original_title: 'Hollywood Out-takes and Rare Footage',
+        release_date: DateTime_138,
+        title: 'Hollywood Out-takes and Rare Footage'
+      },
+      {
+        character: '',
+        credit_id: '5d65a68858361b00132145cb',
+        id: 253639,
+        original_title: 'And the Oscar Goes To...',
+        poster_path: '/yFqagAV2iICvJR3NUH9tVXIrBvu.jpg',
+        release_date: DateTime_139,
+        title: 'And the Oscar Goes To...'
       }
     ],
     crew: [
       {
-        credit_id: '52fe432ec3a36847f8040603',
-        department: 'Production',
-        id: 2026,
-        job: 'Producer',
-        original_title: 'Hostage',
-        poster_path: '/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg',
-        release_date: DateTime_10,
-        title: 'Hostage'
+        credit_id: '52fe4645c3a36847f80f5bef',
+        department: 'Directing',
+        id: 43407,
+        job: 'Director',
+        original_title: 'None But the Brave',
+        poster_path: '/aT1TlIsgoKzzlGamfWW8M5bDXEV.jpg',
+        release_date: DateTime_109,
+        title: 'None But the Brave'
       },
       {
-        credit_id: '52fe47019251416c7508ad57',
+        credit_id: '5f29c7563e09f30035219545',
+        department: 'Directing',
+        id: 730095,
+        job: 'Director',
+        original_title: 'Frank Sinatra: Live from Caesars Palace',
+        poster_path: '/zYhVAm8lXS9WhkvpKIsKVTfNGfU.jpg',
+        release_date: DateTime_72,
+        title: 'Frank Sinatra: Live from Caesars Palace'
+      },
+      {
+        credit_id: '5f29cd1c9f37b000352d471f',
+        department: 'Directing',
+        id: 730097,
+        job: 'Director',
+        original_title: 'Frank Sinatra: Live from Caesars Palace',
+        poster_path: '/zYhVAm8lXS9WhkvpKIsKVTfNGfU.jpg',
+        release_date: DateTime_73,
+        title: 'Frank Sinatra: Live from Caesars Palace'
+      },
+      {
+        credit_id: '52fe45339251416c9102ab07',
         department: 'Production',
-        id: 17043,
+        id: 33725,
         job: 'Executive Producer',
-        original_title: 'The Crocodile Hunter: Collision Course',
-        poster_path: '/gfgvfuce0SqF1IolIJYYBxteof0.jpg',
-        release_date: DateTime_131,
-        title: 'The Crocodile Hunter: Collision Course'
+        original_title: 'A Hole in the Head',
+        poster_path: '/rjtB4nXqKdTg9TPYGy2dBQpL0DL.jpg',
+        release_date: DateTime_7,
+        title: 'A Hole in the Head'
+      },
+      {
+        credit_id: '52fe47419251416c75092ec9',
+        department: 'Production',
+        id: 17696,
+        job: 'Producer',
+        original_title: 'Robin and the 7 Hoods',
+        poster_path: '/hQMUPIYWRAD8r1Bmu5JQJgGlLsH.jpg',
+        release_date: DateTime_20,
+        title: 'Robin and the 7 Hoods'
+      },
+      {
+        credit_id: '55c5d752c3a3682f17001686',
+        department: 'Production',
+        id: 60548,
+        job: 'Producer',
+        original_title: 'Johnny Concho',
+        poster_path: '/vcQXkBCIZE0kpzYbyzzeRIGBhJ4.jpg',
+        release_date: DateTime_15,
+        title: 'Johnny Concho'
+      },
+      {
+        credit_id: '5f7164fed38b580037e3df0e',
+        department: 'Production',
+        id: 18512,
+        job: 'Producer',
+        original_title: 'Sergeants 3',
+        poster_path: '/nA0AdRXFIwXp6vopoqqncdErext.jpg',
+        release_date: DateTime_24,
+        title: 'Sergeants 3'
       }
     ],
-    id: 62
+    id: 4347
   },
-  name: 'Bruce Willis',
-  place_of_birth: 'Idar-Oberstein, Germany',
-  popularity: 17.814,
-  profile_path: '/A1XBu3CffBpSK8HEIJM8q7Mn4lz.jpg',
+  name: 'Frank Sinatra',
+  place_of_birth: 'Hoboken, New Jersey, USA',
+  profile_path: '/w9Wl6FznONDn5O880ScJo79AOMU.jpg',
   tagged_images: {
-    page: 1,
-    results: [
-      {
-        aspect_ratio: 0.66666666666667,
-        file_path: '/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg',
-        height: 3000,
-        media: {
-          original_title: 'Glass',
-          release_date: DateTime_67,
-          title: 'Glass',
-          backdrop_path: '/ngBFDOsx13sFXiMweDoL54XYknR.jpg',
-          genre_ids: [
-            18,
-            878,
-            53
-          ],
-          original_language: 'en',
-          overview: 'In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.',
-          poster_path: '/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg',
-          vote_average: 6.6,
-          vote_count: 5574,
-          id: 450465,
-          media_type: 'movie',
-          popularity: 101.29
-        },
-        media_type: 'movie',
-        vote_average: 5.854,
-        vote_count: 29,
-        width: 2000
-      },
-      {
-        aspect_ratio: 0.66666666666667,
-        file_path: '/vSPkbcDvXT5LKdc2rzZjxqWAPLm.jpg',
-        height: 1200,
-        media: {
-          original_title: 'Death Becomes Her',
-          release_date: DateTime_58,
-          title: 'Death Becomes Her',
-          backdrop_path: '/8vdJJjtbaPnfAgqyvLtFwlCSNdi.jpg',
-          genre_ids: [
-            35,
-            14,
-            27
-          ],
-          original_language: 'en',
-          overview: "Madeline is married to Ernest, who was once arch-rival Helen's fiance. After recovering from a mental breakdown, Helen vows to kill Madeline and steal back Ernest. Unfortunately for everyone, the introduction of a magic potion causes things to be a great deal more complicated than a mere murder plot.",
-          poster_path: '/vWcXU9J2RxyHN9qRXW3GDhG40t3.jpg',
-          vote_average: 6.7,
-          vote_count: 1576,
-          id: 9374,
-          media_type: 'movie',
-          popularity: 17.453
-        },
-        media_type: 'movie',
-        vote_average: 5.326,
-        vote_count: 7,
-        width: 800
-      },
-      {
-        aspect_ratio: 0.70126227208976,
-        file_path: '/jNfL8De5IDVIuUYsrNnmPxCQkz8.jpg',
-        height: 1426,
-        media: {
-          original_title: 'The Kid',
-          release_date: DateTime_16,
-          title: 'The Kid',
-          backdrop_path: '/uuSOQdJksZgPkCgRo7tZ0d5o7KQ.jpg',
-          genre_ids: [
-            35,
-            14,
-            10751
-          ],
-          original_language: 'en',
-          overview: "Powerful businessman Russ Duritz is self-absorbed and immersed in his work. But by the magic of the moon, he meets Rusty, a chubby, charming 8-year-old version of himself who can't believe he could turn out so badly -- with no life and no dog. With Rusty's help, Russ is able to reconcile the person he used to dream of being with the man he's actually become.",
-          poster_path: '/jNfL8De5IDVIuUYsrNnmPxCQkz8.jpg',
-          vote_average: 6.3,
-          vote_count: 586,
-          id: 4244,
-          media_type: 'movie',
-          popularity: 16.02
-        },
-        media_type: 'movie',
-        vote_average: 5.312,
-        vote_count: 1,
-        width: 1000
-      },
-      {
-        aspect_ratio: 0.64695009242144,
-        file_path: '/kK6iLyKi9Kg86qR2xPxOU94UEel.jpg',
-        height: 1082,
-        media: {
-          original_title: 'Pulp Fiction',
-          release_date: DateTime_84,
-          title: 'Pulp Fiction',
-          backdrop_path: '/w7RDIgQM6bLT7JXtH4iUQd3Iwxm.jpg',
-          genre_ids: [
-            53,
-            80
-          ],
-          original_language: 'en',
-          overview: "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-          poster_path: '/plnlrtBUULT0rh3Xsjmpubiso3L.jpg',
-          vote_average: 8.5,
-          vote_count: 19634,
-          id: 680,
-          media_type: 'movie',
-          popularity: 40.192
-        },
-        media_type: 'movie',
-        vote_average: 5.18,
-        vote_count: 3,
-        width: 700
-      }
-    ],
-    total_pages: 1,
-    total_results: 4
+    page: 1
   },
   tv_credits: {
     cast: [
       {
-        character: 'Tony Amato',
-        credit_id: '525719bb760ee3776a1835d3',
-        episode_count: 1,
-        first_air_date: DateTime_132,
-        id: 1908,
-        name: 'Miami Vice',
-        original_name: 'Miami Vice',
-        poster_path: '/6psPEKu03UCiLqBxzeSy7wRQOVN.jpg'
+        character: '',
+        credit_id: '52577fd9760ee36aaa5d8b42',
+        episode_count: 2,
+        first_air_date: DateTime_140,
+        id: 5307,
+        name: 'The Ed Sullivan Show',
+        original_name: 'The Ed Sullivan Show',
+        poster_path: '/gUEfDXUxwhgXBX7LSk57vJKXCTp.jpg'
       },
       {
-        character: 'David Addison',
-        credit_id: '52571e7f19c2957114107d48',
-        episode_count: 66,
-        first_air_date: DateTime_133,
-        id: 1998,
-        name: 'Moonlighting',
-        original_name: 'Moonlighting',
-        poster_path: '/fSHmep9MCD85UPfFUjQwyKbbDvu.jpg'
+        character: 'Himself',
+        credit_id: '52582197760ee36aaa7baa2f',
+        episode_count: 40,
+        first_air_date: DateTime_141,
+        id: 12576,
+        name: 'The Frank Sinatra Show',
+        original_name: 'The Frank Sinatra Show'
       },
       {
         character: '',
-        credit_id: '52572a6f760ee3776a2cb7b9',
+        credit_id: '525882ba760ee346613dc3a5',
+        episode_count: 7,
+        first_air_date: DateTime_142,
+        id: 27023,
+        name: 'The Academy Awards',
+        original_name: 'The Academy Awards',
+        poster_path: '/wF43fJ8D85i79ZrLZsnUZ2JurbP.jpg'
+      },
+      {
+        character: 'Retired Police Sergeant Michael Doheny',
+        credit_id: '5253923919c29579402a02c8',
+        episode_count: 1,
+        first_air_date: DateTime_143,
+        id: 734,
+        name: 'Magnum P.I',
+        original_name: 'Magnum, P.I.',
+        poster_path: '/ApK40FQkl2YN09nBGgJGflEI3Ho.jpg'
+      },
+      {
+        character: '',
+        credit_id: '525413bc19c295794035f52a',
+        episode_count: 5,
+        first_air_date: DateTime_144,
+        id: 1048,
+        name: 'The Colgate Comedy Hour',
+        original_name: 'The Colgate Comedy Hour',
+        poster_path: '/oWvIOn94vgsrius8HYTreQgJtjp.jpg'
+      },
+      {
+        character: '',
+        credit_id: '52582a67760ee36aaa862f54',
         episode_count: 3,
-        first_air_date: DateTime_134,
-        id: 2224,
-        name: 'The Daily Show with Trevor Noah',
-        original_name: 'The Daily Show with Trevor Noah',
-        poster_path: '/qRjwk0yzkftRHgKJlonm8Gaj7n.jpg'
+        first_air_date: DateTime_145,
+        id: 13765,
+        name: 'The Dinah Shore Chevy Show',
+        original_name: 'The Dinah Shore Chevy Show',
+        poster_path: '/7diL0sAqbIlPVVa4UtVxiXKpHLy.jpg'
       },
       {
         character: '',
-        credit_id: '52574da2760ee36aaa16db7c',
-        episode_count: 2,
-        first_air_date: DateTime_135,
-        id: 3167,
-        name: 'The Early Show',
-        original_name: 'The Early Show',
-        poster_path: '/iJvwr7kL0Q7BtrYC38KQ5baPw7g.jpg'
-      },
-      {
-        character: '',
-        credit_id: '5257711a760ee36aaa49068e',
-        episode_count: 2,
-        first_air_date: DateTime_136,
-        id: 4573,
-        name: "Late Night with Conan O'Brien",
-        original_name: "Late Night with Conan O'Brien",
-        poster_path: '/rz0QVhcZ01BjFomNXOHMTF8OyyP.jpg'
-      },
-      {
-        character: '',
-        credit_id: '52588ea8760ee346614e907a',
+        credit_id: '52586df2760ee346611ebe4b',
         episode_count: 1,
-        first_air_date: DateTime_137,
+        first_air_date: DateTime_146,
+        id: 22225,
+        name: 'The Jimmy Durante Show',
+        original_name: 'The Jimmy Durante Show'
+      },
+      {
+        character: '',
+        credit_id: '52586fe3760ee3466121353d',
+        episode_count: 1,
+        first_air_date: DateTime_147,
+        id: 22690,
+        name: 'The Kennedy Center Honors',
+        original_name: 'The Kennedy Center Honors',
+        poster_path: '/fHJWsYE3NqOJtLjtSpeJ5vqkc8Z.jpg'
+      },
+      {
+        character: '',
+        credit_id: '52588ea4760ee346614e7b89',
+        episode_count: 1,
+        first_air_date: DateTime_148,
         id: 28464,
         name: 'The Emmy Awards',
         original_name: 'The Emmy Awards',
         poster_path: '/2dOD7rc0p8ctftlW54hUodF4XJi.jpg'
       },
       {
-        character: '',
-        credit_id: '5253335319c29579400261e1',
+        character: 'Himself/host',
+        credit_id: '59789e27c3a3686017010052',
         episode_count: 1,
-        first_air_date: DateTime_138,
-        id: 52,
-        name: "That '70s Show",
-        original_name: "That '70s Show",
-        poster_path: '/26LW8o7msvlbPWmrYQdH14hdjQ6.jpg'
+        id: 5233,
+        name: 'The Edsel Show',
+        original_name: 'The Edsel Show',
+        poster_path: '/72wTFUP4SzXG88WfzwLN9j6gGnk.jpg'
       },
       {
-        character: '',
-        credit_id: '5253462c19c29579400c90d3',
-        episode_count: 1,
-        first_air_date: DateTime_139,
-        id: 217,
-        name: 'Inside the Actors Studio',
-        original_name: 'Inside the Actors Studio',
-        poster_path: '/a6O7gKJQe5HWaMujYvdMYaj9PnO.jpg'
-      },
-      {
-        character: '',
-        credit_id: '52537bea19c295794019330b',
-        episode_count: 1,
-        first_air_date: DateTime_140,
-        id: 500,
-        name: 'Mad About You',
-        original_name: 'Mad About You',
-        poster_path: '/vvnslQjc1LnERuroGVh8bPdBi2r.jpg'
-      },
-      {
-        character: '',
-        credit_id: '525386ba19c2957940210979',
-        episode_count: 1,
-        first_air_date: DateTime_141,
-        id: 562,
-        name: 'The Ellen DeGeneres Show',
-        original_name: 'The Ellen DeGeneres Show',
-        poster_path: '/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg'
-      },
-      {
-        character: '',
-        credit_id: '5256e8f519c2956ff60ff65c',
-        episode_count: 1,
-        first_air_date: DateTime_142,
-        id: 1434,
-        name: 'Family Guy',
-        original_name: 'Family Guy',
-        poster_path: '/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg'
-      },
-      {
-        character: '',
-        credit_id: '525706c3760ee3776a027143',
-        episode_count: 1,
-        first_air_date: DateTime_143,
-        id: 1480,
-        name: 'Ally McBeal',
-        original_name: 'Ally McBeal',
-        poster_path: '/p2UcrKqJAKvjSyVdfrAmska3e8n.jpg'
-      },
-      {
-        character: '',
-        credit_id: '52571a7f760ee3776a193248',
-        episode_count: 1,
-        first_air_date: DateTime_144,
-        id: 1918,
-        name: 'The Twilight Zone',
-        original_name: 'The Twilight Zone',
-        poster_path: '/s6YY9noG1vPDs59ajkEWXBb1fpk.jpg'
-      },
-      {
-        character: '',
-        credit_id: '525728a9760ee3776a29c129',
-        episode_count: 4,
-        first_air_date: DateTime_145,
-        id: 2221,
-        name: 'The View',
-        original_name: 'The View',
-        poster_path: '/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg'
-      },
-      {
-        character: '',
-        credit_id: '5257562f19c29531db13d527',
-        episode_count: 1,
-        first_air_date: DateTime_146,
-        id: 3739,
-        name: 'E! True Hollywood Story',
-        original_name: 'E! True Hollywood Story',
-        poster_path: '/2LrZlG4d7GXYoGLvnZ8Bf6BWbIz.jpg'
-      },
-      {
-        character: 'Bruno the kid',
-        credit_id: '525826eb760ee36aaa81b1d7',
-        episode_count: 37,
-        first_air_date: DateTime_147,
-        id: 13297,
-        name: 'Bruno the Kid',
-        original_name: 'Bruno the Kid',
-        poster_path: '/3FGy6XLje8lmXnexDU5wMNkTq6r.jpg'
-      },
-      {
-        character: '',
-        credit_id: '52583c1e760ee36aaa9a6949',
-        episode_count: 1,
-        first_air_date: DateTime_148,
-        id: 16016,
-        name: 'Where Are They Now?',
-        original_name: 'Where Are They Now?'
-      },
-      {
-        character: '',
-        credit_id: '52595afd760ee34661916802',
-        episode_count: 1,
-        first_air_date: DateTime_149,
-        id: 39754,
-        name: 'Between Two Ferns with Zach Galifianakis',
-        original_name: 'Between Two Ferns with Zach Galifianakis',
-        poster_path: '/puvJM8LPlp5YttZByZ259A87XQT.jpg'
-      },
-      {
-        character: 'Paul Stevens',
-        credit_id: '5257104819c295731c029cdf',
-        episode_count: 3,
-        first_air_date: DateTime_150,
-        id: 1668,
-        name: 'Friends',
-        original_name: 'Friends',
-        poster_path: '/f496cm9enuEsZkSPzCwnTESEK5s.jpg'
-      },
-      {
-        character: '',
-        credit_id: '5273d273760ee3572c023363',
+        character: 'Himself (archive footage)',
+        credit_id: '5a95c2da9251415639008943',
         episode_count: 2,
-        first_air_date: DateTime_151,
-        id: 1667,
-        name: 'Saturday Night Live',
-        original_name: 'Saturday Night Live',
-        poster_path: '/bfiBW2qtdPEdcDOhYGNiP8XX8ok.jpg'
+        first_air_date: DateTime_149,
+        id: 76690,
+        name: 'Sinatra: All or Nothing at All',
+        original_name: 'Sinatra: All or Nothing at All',
+        poster_path: '/cTzGBX70bPf8pMfn409swAr6ghN.jpg'
       },
       {
         character: '',
-        credit_id: '5b379ebf9251413c9d02d615',
+        credit_id: '5b47ef8dc3a3686e67011681',
         episode_count: 1,
-        first_air_date: DateTime_152,
-        id: 80515,
-        name: 'The Reichen Show',
-        original_name: 'The Reichen Show'
-      },
-      {
-        character: 'himself',
-        credit_id: '5cd41b100e0a265e0060ef4b',
-        episode_count: 1,
-        first_air_date: DateTime_153,
-        id: 89139,
-        name: 'Goldene Kamera Verleihung',
-        original_name: 'Goldene Kamera Verleihung'
-      },
-      {
-        character: 'Himself',
-        credit_id: '5d2599dd37b3a9747d52e484',
-        episode_count: 1,
-        first_air_date: DateTime_154,
-        id: 79003,
-        name: "James Cameron's Story of Science Fiction",
-        original_name: "James Cameron's Story of Science Fiction",
-        poster_path: '/qhanotOZnOdgmCZonug5anT0mFo.jpg'
+        first_air_date: DateTime_150,
+        id: 27320,
+        name: 'V.I.P. Schaukel',
+        original_name: 'V.I.P. Schaukel'
       }
     ],
     crew: [
       {
-        credit_id: '525826eb760ee36aaa81b23b',
-        department: 'Production',
-        episode_count: 37,
-        first_air_date: DateTime_147,
-        id: 13297,
-        job: 'Producer',
-        name: 'Bruno the Kid',
-        original_name: 'Bruno the Kid',
-        poster_path: '/3FGy6XLje8lmXnexDU5wMNkTq6r.jpg'
-      },
-      {
-        credit_id: '556e2726925141421d0013b0',
-        department: 'Production',
-        episode_count: 13,
-        first_air_date: DateTime_155,
-        id: 62864,
-        job: 'Executive Producer',
-        name: 'Touching Evil',
-        original_name: 'Touching Evil',
-        poster_path: '/3dmBxixICLqLPeXqWTR0Js3kcM1.jpg'
+        credit_id: '56780f2cc3a368167a0099fe',
+        department: 'Directing',
+        episode_count: 1,
+        first_air_date: DateTime_141,
+        id: 12576,
+        job: 'Director',
+        name: 'The Frank Sinatra Show',
+        original_name: 'The Frank Sinatra Show'
       }
     ],
-    id: 62
+    id: 4347
   }
 }

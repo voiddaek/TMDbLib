@@ -13,8 +13,6 @@
   overview: 'In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.',
   poster_path: '/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg',
   vote_average: 7.5,
-  vote_count: 22121,
   id: 19995,
   media_type: 'movie',
-  popularity: 75.167
 }

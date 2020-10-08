@@ -18,6 +18,5 @@
   imdb_id: 'nm0000246',
   name: 'Bruce Willis',
   place_of_birth: 'Idar-Oberstein, Germany',
-  popularity: 17.814,
   profile_path: '/A1XBu3CffBpSK8HEIJM8q7Mn4lz.jpg'
 }

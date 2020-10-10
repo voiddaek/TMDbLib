@@ -53,9 +53,9 @@ namespace TMDbLibTests
             await TMDbClient.SetSessionInformationAsync(TestConfig.UserSessionId, SessionType.UserSession);
 
             // Account states will only show up if we've done something
-            await TMDbClient.TvShowSetRatingAsync(IdHelper.BreakingBad, 5);
+            await TMDbClient.TvShowSetRatingAsync(IdHelper.KeepingUpAppearances, 5);
 
-            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetTvShowAsync(IdHelper.BreakingBad, combined), show => Verify(show));
+            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetTvShowAsync(IdHelper.KeepingUpAppearances, combined), show => Verify(show));
         }
 
         [Fact]

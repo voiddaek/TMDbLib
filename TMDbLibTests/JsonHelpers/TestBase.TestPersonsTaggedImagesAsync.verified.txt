@@ -9,8 +9,8 @@
     backdrop_path: '/ngBFDOsx13sFXiMweDoL54XYknR.jpg',
     genre_ids: [
       18,
-      878,
-      53
+      53,
+      878
     ],
     original_language: 'en',
     overview: 'In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.',

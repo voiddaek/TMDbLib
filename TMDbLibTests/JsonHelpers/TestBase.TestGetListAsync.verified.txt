@@ -7,9 +7,9 @@
       title: 'Avatar',
       backdrop_path: '/bIL7ENqh1egWTxN41sM2W42JqPc.jpg',
       genre_ids: [
-        28,
         12,
         14,
+        28,
         878
       ],
       original_language: 'en',

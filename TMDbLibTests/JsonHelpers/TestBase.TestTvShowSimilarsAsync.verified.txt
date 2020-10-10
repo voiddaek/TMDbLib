@@ -7,8 +7,8 @@
   ],
   backdrop_path: '/yJPI9e3H5fGNTWNzW2p4iSG5qdc.jpg',
   genre_ids: [
-    80,
-    18
+    18,
+    80
   ],
   original_language: 'en',
   overview: "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",

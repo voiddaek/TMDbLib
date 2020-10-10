@@ -65,45 +65,6 @@
       gender: 'Male'
     },
     {
-      credit_id: '52542287760ee31328001b69',
-      department: 'Production',
-      id: 5162,
-      job: 'Executive Producer',
-      name: 'Mark Johnson',
-      gender: 'Male'
-    },
-    {
-      credit_id: '52542288760ee31328001b83',
-      department: 'Production',
-      id: 29779,
-      job: 'Executive Producer',
-      name: 'Michelle MacLaren',
-      gender: 'Female'
-    },
-    {
-      credit_id: '52b7034f19c2955402184de6',
-      department: 'Costume & Make-Up',
-      id: 35583,
-      job: 'Costume Design',
-      name: 'Kathleen Detoro'
-    },
-    {
-      credit_id: '52b7008819c29559eb03dd72',
-      department: 'Sound',
-      id: 1280070,
-      job: 'Original Music Composer',
-      name: 'Dave Porter',
-      gender: 'Male'
-    },
-    {
-      credit_id: '52b7020b19c295223b0a46e8',
-      department: 'Art',
-      id: 21640,
-      job: 'Production Design',
-      name: 'Robb Wilson King',
-      gender: 'Male'
-    },
-    {
       credit_id: '52542287760ee31328001b07',
       department: 'Production',
       id: 1218856,
@@ -118,6 +79,22 @@
       job: 'Producer',
       name: 'John Shiban',
       gender: 'Male'
+    },
+    {
+      credit_id: '52542287760ee31328001b69',
+      department: 'Production',
+      id: 5162,
+      job: 'Executive Producer',
+      name: 'Mark Johnson',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52542288760ee31328001b83',
+      department: 'Production',
+      id: 29779,
+      job: 'Executive Producer',
+      name: 'Michelle MacLaren',
+      gender: 'Female'
     },
     {
       credit_id: '52542289760ee31328001b9d',
@@ -199,6 +176,29 @@
       job: 'Producer',
       name: 'Diane Mercer',
       gender: 'Female'
+    },
+    {
+      credit_id: '52b7008819c29559eb03dd72',
+      department: 'Sound',
+      id: 1280070,
+      job: 'Original Music Composer',
+      name: 'Dave Porter',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52b7020b19c295223b0a46e8',
+      department: 'Art',
+      id: 21640,
+      job: 'Production Design',
+      name: 'Robb Wilson King',
+      gender: 'Male'
+    },
+    {
+      credit_id: '52b7034f19c2955402184de6',
+      department: 'Costume & Make-Up',
+      id: 35583,
+      job: 'Costume Design',
+      name: 'Kathleen Detoro'
     }
   ],
   id: 3572

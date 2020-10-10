@@ -28,6 +28,7 @@
         public const int BigBangTheory = 1418;
         public const int BigBangTheorySeason1Episode1Id = 64766;
         public const int BigBangTheorySeason1Episode2Id = 64777;
+        public const int KeepingUpAppearances = 34;
         public const int DoctorWho = 121;
         public const int House = 1408;
         public const int FullerHouse = 63623;

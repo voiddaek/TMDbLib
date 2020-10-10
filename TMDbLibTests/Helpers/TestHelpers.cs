@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
-using System.Net;
 using System.Threading.Tasks;
 using TMDbLib.Objects.General;
 using Xunit;
@@ -9,31 +7,6 @@ namespace TMDbLibTests.Helpers
 {
     public static class TestHelpers
     {
-        [Obsolete("Use HttpClient")]
-        public static async Task<bool> InternetUriExistsAsync(Uri uri)
-        {
-            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(uri);
-            req.Method = "HEAD";
-
-            try
-            {
-                using (await req.GetResponseAsync())
-                {
-                    // It exists
-                    return true;
-                }
-            }
-            catch (WebException ex)
-            {
-                HttpWebResponse response = (HttpWebResponse)ex.Response;
-                if (response == null)
-                    Debug.WriteLine(ex.Status + ": " + uri);
-                else
-                    Debug.WriteLine(response.StatusCode + ": " + uri);
-                return false;
-            }
-        }
-
         public static Task SearchPagesAsync<T>(Func<int, Task<SearchContainer<T>>> getter)
         {
             return SearchPagesAsync<SearchContainer<T>, T>(getter);

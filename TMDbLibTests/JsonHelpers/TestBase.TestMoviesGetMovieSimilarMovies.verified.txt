@@ -5,8 +5,8 @@
     title: 'The Living Daylights',
     backdrop_path: '/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg',
     genre_ids: [
-      28,
       12,
+      28,
       53
     ],
     original_language: 'en',
@@ -22,8 +22,8 @@
     title: 'James Bond 007 - Der Hauch des Todes',
     backdrop_path: '/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg',
     genre_ids: [
-      28,
       12,
+      28,
       53
     ],
     original_language: 'en',

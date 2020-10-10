@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using TMDbLib.Objects.General;
 using TMDbLib.Objects.People;
@@ -10,12 +9,6 @@ namespace TMDbLibTests.Helpers
     public static class TestImagesHelpers
     {
         private static readonly Regex ImagePathRegex = new Regex(@"^/[a-zA-Z0-9]{26,}\.(?:jpg|png)$", RegexOptions.Compiled);
-
-        [Obsolete("Use TestImagePaths")]
-        public static bool TestImagePath(string path)
-        {
-            return ImagePathRegex.IsMatch(path);
-        }
 
         public static void TestImagePaths(Images images)
         {

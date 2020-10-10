@@ -4,8 +4,8 @@
   title: 'Dr. No',
   backdrop_path: '/moZEYnivAe9LDC3yFPDzj3WX3es.jpg',
   genre_ids: [
-    28,
     12,
+    28,
     53
   ],
   original_language: 'en',

@@ -139,7 +139,9 @@ namespace TMDbLibTests
         [Fact]
         public async Task TestTvSeasonGetChangesAsync()
         {
-            IList<Change> changes = await TMDbClient.GetTvSeasonChangesAsync(IdHelper.GameOfThronesSeason8);
+            TvShow latestTvShow = await TMDbClient.GetLatestTvShowAsync();
+            int latestSeasonId = latestTvShow.Seasons.Max(s => s.Id);
+            IList<Change> changes = await TMDbClient.GetTvSeasonChangesAsync(latestSeasonId);
 
             Assert.NotEmpty(changes);
         }

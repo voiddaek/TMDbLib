@@ -2,9 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using TMDbLib.Client;
-using TMDbLib.Objects.Authentication;
-using TMDbLib.Objects.General;
 using Xunit;
 
 namespace TMDbLibTests.Helpers
@@ -51,29 +48,6 @@ namespace TMDbLibTests.Helpers
             // Execute any additional tests
             if (extraAction != null)
                 await extraAction(item);
-        }
-
-        /// <summary>
-        /// Tests that a client method will get all parts of the TMDb api, when requested
-        /// </summary>
-        [Obsolete("Remove this")]
-        public static async Task TestGetAllOld<TEnum, TResult>(Dictionary<TEnum, Func<TResult, object>> methodSelectors, Func<TEnum, Task<TResult>> getterMethod, Action<TResult> extraAction = null) where TEnum : Enum
-        {
-            int combinedEnumInt = 0;
-            foreach (TEnum key in methodSelectors.Keys)
-                combinedEnumInt |= Convert.ToInt32(key);
-
-            TEnum combinedEnum = (TEnum)Enum.ToObject(typeof(TEnum), combinedEnumInt);
-
-            TResult item = await getterMethod(combinedEnum);
-
-            // Ensure we have all the pieces
-            foreach (TEnum method in methodSelectors.Keys)
-                Assert.NotNull(methodSelectors[method](item));
-
-            // Execute any additional tests
-            if (extraAction != null)
-                extraAction(item);
         }
 
         public static async Task SetValidateRemoveTest(Func<Task> set, Func<Task> remove, Func<bool, Task> validate)

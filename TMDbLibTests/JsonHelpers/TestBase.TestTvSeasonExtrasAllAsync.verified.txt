@@ -4,7 +4,8 @@
     results: [
       {
         episode_number: 1,
-        id: 1151470
+        id: 1151470,
+        rating: 5.0
       },
       {
         episode_number: 2,
@@ -60,20 +61,20 @@
   credits: {
     cast: [
       {
-        character: 'Stephanie Tanner',
-        credit_id: '55cda9f0925141319000167f',
-        id: 1234708,
-        name: 'Jodie Sweetin',
-        profile_path: '/7jeFeCWWp75GT9ztIXBiavjxczI.jpg',
-        gender: 'Female'
-      },
-      {
         character: 'DJ Tanner-Fuller',
         credit_id: '55cda9e0c3a36815800012d4',
         id: 31363,
         name: 'Candace Cameron Bure',
         order: 1,
         profile_path: '/hriMbAfs8HCzj9QLcwKNEARCglp.jpg',
+        gender: 'Female'
+      },
+      {
+        character: 'Stephanie Tanner',
+        credit_id: '55cda9f0925141319000167f',
+        id: 1234708,
+        name: 'Jodie Sweetin',
+        profile_path: '/7jeFeCWWp75GT9ztIXBiavjxczI.jpg',
         gender: 'Female'
       },
       {
@@ -95,15 +96,6 @@
         gender: 'Male'
       },
       {
-        character: 'Ramona Gibbler',
-        credit_id: '56d2c77f9251413e6a00f38e',
-        id: 1583967,
-        name: 'Soni Bringas',
-        order: 4,
-        profile_path: '/fEDvgHAuXyUabYOtsosr1b2Ehm1.jpg',
-        gender: 'Female'
-      },
-      {
         character: 'Jackson Fuller',
         credit_id: '56d2c730c3a3681e3600e598',
         id: 1471109,
@@ -111,6 +103,15 @@
         order: 6,
         profile_path: '/b4XJh0NNkAEMwMkz9reyyC684gv.jpg',
         gender: 'Male'
+      },
+      {
+        character: 'Ramona Gibbler',
+        credit_id: '56d2c77f9251413e6a00f38e',
+        id: 1583967,
+        name: 'Soni Bringas',
+        order: 4,
+        profile_path: '/fEDvgHAuXyUabYOtsosr1b2Ehm1.jpg',
+        gender: 'Female'
       },
       {
         character: 'Phyllis Gladstone',
@@ -158,6 +159,51 @@
       episode_number: 1,
       guest_stars: [
         {
+          character: 'Jesse Katsopolis',
+          credit_id: '56d2c7cd92514102db0005ea',
+          id: 32600,
+          name: 'John Stamos',
+          order: 81,
+          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Danny Tanner',
+          credit_id: '56d2c7fbc3a3681e3c010177',
+          id: 72450,
+          name: 'Bob Saget',
+          order: 90,
+          profile_path: '/hLHwGxlfhm1qnPgjp1deDdhZN7t.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Joey Gladstone',
+          credit_id: '56d2c8149251413e5f00ee2c',
+          id: 1218736,
+          name: 'Dave Coulier',
+          order: 82,
+          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Becky Katsopolis',
+          credit_id: '56d2c834925141799e00c208',
+          id: 92509,
+          name: 'Lori Loughlin',
+          order: 91,
+          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
+          gender: 'Female'
+        },
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
           character: 'Nicky Katsopolis',
           credit_id: '56d2c864c3a3681e440102d6',
           id: 1234709,
@@ -172,6 +218,15 @@
           order: 7
         },
         {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
           character: 'Teri Tanner',
           credit_id: '56d2c8b69251413e5f00ee44',
           id: 121769,
@@ -182,71 +237,17 @@
         },
         {
           character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
           credit_id: '56d2c8fdc3a3681e5700ea19',
           id: 1583968,
           name: 'Dashiell Messitt',
           order: 69
         },
         {
-          character: 'Jesse Katsopolis',
-          credit_id: '56d2c7cd92514102db0005ea',
-          id: 32600,
-          name: 'John Stamos',
-          order: 81,
-          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Joey Gladstone',
-          credit_id: '56d2c8149251413e5f00ee2c',
-          id: 1218736,
-          name: 'Dave Coulier',
-          order: 82,
-          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Steve Hale',
-          credit_id: '56d2c84dc3a3681e3600e5c1',
-          id: 15827,
-          name: 'Scott Weinger',
-          order: 82,
-          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Fernando',
-          credit_id: '56d2c8a192514102db000608',
-          id: 58970,
-          name: 'Juan Pablo Di Pace',
-          order: 82,
-          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Danny Tanner',
-          credit_id: '56d2c7fbc3a3681e3c010177',
-          id: 72450,
-          name: 'Bob Saget',
-          order: 90,
-          profile_path: '/hLHwGxlfhm1qnPgjp1deDdhZN7t.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Becky Katsopolis',
-          credit_id: '56d2c834925141799e00c208',
-          id: 92509,
-          name: 'Lori Loughlin',
-          order: 91,
-          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
-          gender: 'Female'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
         }
       ],
       id: 1151470,
@@ -262,11 +263,13 @@
       episode_number: 2,
       guest_stars: [
         {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
+          character: 'Jesse Katsopolis',
+          credit_id: '56d2c7cd92514102db0005ea',
+          id: 32600,
+          name: 'John Stamos',
+          order: 81,
+          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
+          gender: 'Male'
         },
         {
           character: 'Tommy Fuller Jr.',
@@ -276,13 +279,11 @@
           order: 69
         },
         {
-          character: 'Jesse Katsopolis',
-          credit_id: '56d2c7cd92514102db0005ea',
-          id: 32600,
-          name: 'John Stamos',
-          order: 81,
-          profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
-          gender: 'Male'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
         }
       ],
       id: 1151471,
@@ -297,6 +298,38 @@
       air_date: DateTime_1,
       episode_number: 3,
       guest_stars: [
+        {
+          character: 'Joey Gladstone',
+          credit_id: '56d2c8149251413e5f00ee2c',
+          id: 1218736,
+          name: 'Dave Coulier',
+          order: 82,
+          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
         {
           character: 'Macy Gray',
           credit_id: '56d2ca21c3a3681e5700ea3d',
@@ -338,38 +371,6 @@
           id: 1525753,
           name: 'Lex Montgomery',
           order: 16
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
-        {
-          character: 'Joey Gladstone',
-          credit_id: '56d2c8149251413e5f00ee2c',
-          id: 1218736,
-          name: 'Dave Coulier',
-          order: 82,
-          profile_path: '/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Fernando',
-          credit_id: '56d2c8a192514102db000608',
-          id: 58970,
-          name: 'Juan Pablo Di Pace',
-          order: 82,
-          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
-          gender: 'Male'
         }
       ],
       id: 1151472,
@@ -384,6 +385,38 @@
       air_date: DateTime_1,
       episode_number: 4,
       guest_stars: [
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
+        },
         {
           character: 'Mr. Gerald',
           credit_id: '56d2cb3bc3a3681e5000d900',
@@ -412,6 +445,15 @@
           gender: 'Male'
         },
         {
+          character: 'Janet',
+          credit_id: '56d2cb7fc3a3681e3900e648',
+          id: 1292489,
+          name: 'Kimberley Drummond',
+          order: 70,
+          profile_path: '/4yP8MOtfT1Uu17ZsDVb6lGALrnC.jpg',
+          gender: 'Female'
+        },
+        {
           character: 'GoPro',
           credit_id: '56d2cb949251413e6a00f436',
           id: 1583972,
@@ -434,47 +476,6 @@
           name: 'Anthony Hill',
           order: 25,
           gender: 'Male'
-        },
-        {
-          character: 'Lola',
-          credit_id: '56d2cb2892514157b5001279',
-          id: 1583971,
-          name: 'Ashley Liao',
-          order: 64,
-          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
-        {
-          character: 'Janet',
-          credit_id: '56d2cb7fc3a3681e3900e648',
-          id: 1292489,
-          name: 'Kimberley Drummond',
-          order: 70,
-          profile_path: '/4yP8MOtfT1Uu17ZsDVb6lGALrnC.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Dr. Matt Harmon',
-          credit_id: '56d2cb159251412c9600630f',
-          id: 222906,
-          name: 'John Brotherton',
-          order: 89,
-          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
-          gender: 'Male'
         }
       ],
       id: 1151473,
@@ -489,6 +490,20 @@
       air_date: DateTime_1,
       episode_number: 5,
       guest_stars: [
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
         {
           character: 'Shannon',
           credit_id: '56d2cc69c3a3681e3600e651',
@@ -527,20 +542,6 @@
           id: 1569771,
           name: 'Jenna Osterlund',
           order: 30
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
         }
       ],
       id: 1151474,
@@ -555,6 +556,47 @@
       air_date: DateTime_1,
       episode_number: 6,
       guest_stars: [
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
+        },
+        {
+          character: 'Bobby Popko',
+          credit_id: '56d2cd87c3a3681e5700eace',
+          id: 1567591,
+          name: 'Isaak Presley',
+          order: 82,
+          profile_path: '/7H36jaYm7RM8sqXVDnAjTvKe0lY.jpg',
+          gender: 'Male'
+        },
         {
           character: 'King Jaguarito',
           credit_id: '56d2cdb6c3a3681e3e010657',
@@ -593,47 +635,6 @@
           order: 46,
           profile_path: '/6Vt2uOD50PBf58a0YZAfWTNqiRj.jpg',
           gender: 'Male'
-        },
-        {
-          character: 'Lola',
-          credit_id: '56d2cb2892514157b5001279',
-          id: 1583971,
-          name: 'Ashley Liao',
-          order: 64,
-          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
-        {
-          character: 'Bobby Popko',
-          credit_id: '56d2cd87c3a3681e5700eace',
-          id: 1567591,
-          name: 'Isaak Presley',
-          order: 82,
-          profile_path: '/7H36jaYm7RM8sqXVDnAjTvKe0lY.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Dr. Matt Harmon',
-          credit_id: '56d2cb159251412c9600630f',
-          id: 222906,
-          name: 'John Brotherton',
-          order: 89,
-          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
-          gender: 'Male'
         }
       ],
       id: 1151475,
@@ -648,29 +649,6 @@
       air_date: DateTime_1,
       episode_number: 7,
       guest_stars: [
-        {
-          character: 'Lola',
-          credit_id: '56d2cb2892514157b5001279',
-          id: 1583971,
-          name: 'Ashley Liao',
-          order: 64,
-          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
         {
           character: 'Steve Hale',
           credit_id: '56d2c84dc3a3681e3600e5c1',
@@ -690,6 +668,20 @@
           gender: 'Male'
         },
         {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
           character: 'Dr. Matt Harmon',
           credit_id: '56d2cb159251412c9600630f',
           id: 222906,
@@ -697,6 +689,15 @@
           order: 89,
           profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
           gender: 'Male'
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
         }
       ],
       id: 1151476,
@@ -711,6 +712,47 @@
       air_date: DateTime_1,
       episode_number: 8,
       guest_stars: [
+        {
+          character: 'Danny Tanner',
+          credit_id: '56d2c7fbc3a3681e3c010177',
+          id: 72450,
+          name: 'Bob Saget',
+          order: 90,
+          profile_path: '/hLHwGxlfhm1qnPgjp1deDdhZN7t.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Fernando',
+          credit_id: '56d2c8a192514102db000608',
+          id: 58970,
+          name: 'Juan Pablo Di Pace',
+          order: 82,
+          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
         {
           character: 'Chief Mulrooney',
           credit_id: '56d2cf57925141340200a97a',
@@ -735,47 +777,6 @@
           name: 'Lucas Jaye',
           order: 39,
           profile_path: '/zj4CFCNqDcGZopRhraGNHNykB59.jpg'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
-        {
-          character: 'Fernando',
-          credit_id: '56d2c8a192514102db000608',
-          id: 58970,
-          name: 'Juan Pablo Di Pace',
-          order: 82,
-          profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Dr. Matt Harmon',
-          credit_id: '56d2cb159251412c9600630f',
-          id: 222906,
-          name: 'John Brotherton',
-          order: 89,
-          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Danny Tanner',
-          credit_id: '56d2c7fbc3a3681e3c010177',
-          id: 72450,
-          name: 'Bob Saget',
-          order: 90,
-          profile_path: '/hLHwGxlfhm1qnPgjp1deDdhZN7t.jpg',
-          gender: 'Male'
         }
       ],
       id: 1151477,
@@ -791,31 +792,6 @@
       episode_number: 9,
       guest_stars: [
         {
-          character: 'Harry Takayama',
-          credit_id: '56d2d0529251413e6a00f520',
-          id: 179048,
-          name: 'Michael Sun Lee',
-          order: 40,
-          profile_path: '/c1rUC0vTFQemJfRjq5d8zpEbrfQ.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Lola',
-          credit_id: '56d2cb2892514157b5001279',
-          id: 1583971,
-          name: 'Ashley Liao',
-          order: 64,
-          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
           character: 'Jesse Katsopolis',
           credit_id: '56d2c7cd92514102db0005ea',
           id: 32600,
@@ -823,6 +799,15 @@
           order: 81,
           profile_path: '/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg',
           gender: 'Male'
+        },
+        {
+          character: 'Becky Katsopolis',
+          credit_id: '56d2c834925141799e00c208',
+          id: 92509,
+          name: 'Lori Loughlin',
+          order: 91,
+          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
+          gender: 'Female'
         },
         {
           character: 'Steve Hale',
@@ -843,6 +828,13 @@
           gender: 'Male'
         },
         {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
           character: 'Dr. Matt Harmon',
           credit_id: '56d2cb159251412c9600630f',
           id: 222906,
@@ -852,13 +844,22 @@
           gender: 'Male'
         },
         {
-          character: 'Becky Katsopolis',
-          credit_id: '56d2c834925141799e00c208',
-          id: 92509,
-          name: 'Lori Loughlin',
-          order: 91,
-          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
           gender: 'Female'
+        },
+        {
+          character: 'Harry Takayama',
+          credit_id: '56d2d0529251413e6a00f520',
+          id: 179048,
+          name: 'Michael Sun Lee',
+          order: 40,
+          profile_path: '/c1rUC0vTFQemJfRjq5d8zpEbrfQ.jpg',
+          gender: 'Male'
         }
       ],
       id: 1151478,
@@ -873,6 +874,47 @@
       air_date: DateTime_1,
       episode_number: 10,
       guest_stars: [
+        {
+          character: 'Steve Hale',
+          credit_id: '56d2c84dc3a3681e3600e5c1',
+          id: 15827,
+          name: 'Scott Weinger',
+          order: 82,
+          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
+          character: 'Dr. Matt Harmon',
+          credit_id: '56d2cb159251412c9600630f',
+          id: 222906,
+          name: 'John Brotherton',
+          order: 89,
+          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
+          gender: 'Female'
+        },
         {
           character: 'Hunter Pence',
           credit_id: '56d2d103c3a3681e5000d9eb',
@@ -916,47 +958,6 @@
           id: 928577,
           name: 'Steven Wiig',
           order: 46
-        },
-        {
-          character: 'Lola',
-          credit_id: '56d2cb2892514157b5001279',
-          id: 1583971,
-          name: 'Ashley Liao',
-          order: 64,
-          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
-        {
-          character: 'Steve Hale',
-          credit_id: '56d2c84dc3a3681e3600e5c1',
-          id: 15827,
-          name: 'Scott Weinger',
-          order: 82,
-          profile_path: '/oQavRbyJhtCyW4uTX5hLjvqXow1.jpg',
-          gender: 'Male'
-        },
-        {
-          character: 'Dr. Matt Harmon',
-          credit_id: '56d2cb159251412c9600630f',
-          id: 222906,
-          name: 'John Brotherton',
-          order: 89,
-          profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
-          gender: 'Male'
         }
       ],
       id: 1151479,
@@ -972,13 +973,11 @@
       episode_number: 11,
       guest_stars: [
         {
-          character: 'Dr. Fred Harmon',
-          credit_id: '56d2cb68c3a3681e5700ea7b',
-          id: 41465,
-          name: 'Robin Thomas',
-          order: 21,
-          profile_path: '/seivBO3KRFAKqNgL3wnvpwxHwKz.jpg',
-          gender: 'Male'
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
         },
         {
           character: 'Tommy Fuller Jr.',
@@ -988,19 +987,21 @@
           order: 65
         },
         {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
-        {
           character: 'Dr. Matt Harmon',
           credit_id: '56d2cb159251412c9600630f',
           id: 222906,
           name: 'John Brotherton',
           order: 89,
           profile_path: '/aQCNqbpquBBl4NNVrLPlsIEQ85M.jpg',
+          gender: 'Male'
+        },
+        {
+          character: 'Dr. Fred Harmon',
+          credit_id: '56d2cb68c3a3681e5700ea7b',
+          id: 41465,
+          name: 'Robin Thomas',
+          order: 21,
+          profile_path: '/seivBO3KRFAKqNgL3wnvpwxHwKz.jpg',
           gender: 'Male'
         }
       ],
@@ -1016,20 +1017,6 @@
       air_date: DateTime_1,
       episode_number: 12,
       guest_stars: [
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
         {
           character: 'Steve Hale',
           credit_id: '56d2c84dc3a3681e3600e5c1',
@@ -1047,6 +1034,20 @@
           order: 82,
           profile_path: '/eivzmoiT15tJ1JjZIuP3Q5SAiRs.jpg',
           gender: 'Male'
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
         }
       ],
       id: 1151481,
@@ -1061,29 +1062,6 @@
       air_date: DateTime_1,
       episode_number: 13,
       guest_stars: [
-        {
-          character: 'Lola',
-          credit_id: '56d2cb2892514157b5001279',
-          id: 1583971,
-          name: 'Ashley Liao',
-          order: 64,
-          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
-          gender: 'Female'
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c9179251412c960062bd',
-          id: 1583969,
-          name: 'Fox Messitt',
-          order: 65
-        },
-        {
-          character: 'Tommy Fuller Jr.',
-          credit_id: '56d2c8fdc3a3681e5700ea19',
-          id: 1583968,
-          name: 'Dashiell Messitt',
-          order: 69
-        },
         {
           character: 'Jesse Katsopolis',
           credit_id: '56d2c7cd92514102db0005ea',
@@ -1103,6 +1081,15 @@
           gender: 'Male'
         },
         {
+          character: 'Becky Katsopolis',
+          credit_id: '56d2c834925141799e00c208',
+          id: 92509,
+          name: 'Lori Loughlin',
+          order: 91,
+          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
+          gender: 'Female'
+        },
+        {
           character: 'Steve Hale',
           credit_id: '56d2c84dc3a3681e3600e5c1',
           id: 15827,
@@ -1121,6 +1108,20 @@
           gender: 'Male'
         },
         {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c8fdc3a3681e5700ea19',
+          id: 1583968,
+          name: 'Dashiell Messitt',
+          order: 69
+        },
+        {
+          character: 'Tommy Fuller Jr.',
+          credit_id: '56d2c9179251412c960062bd',
+          id: 1583969,
+          name: 'Fox Messitt',
+          order: 65
+        },
+        {
           character: 'Dr. Matt Harmon',
           credit_id: '56d2cb159251412c9600630f',
           id: 222906,
@@ -1130,12 +1131,12 @@
           gender: 'Male'
         },
         {
-          character: 'Becky Katsopolis',
-          credit_id: '56d2c834925141799e00c208',
-          id: 92509,
-          name: 'Lori Loughlin',
-          order: 91,
-          profile_path: '/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg',
+          character: 'Lola',
+          credit_id: '56d2cb2892514157b5001279',
+          id: 1583971,
+          name: 'Ashley Liao',
+          order: 64,
+          profile_path: '/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg',
           gender: 'Female'
         }
       ],

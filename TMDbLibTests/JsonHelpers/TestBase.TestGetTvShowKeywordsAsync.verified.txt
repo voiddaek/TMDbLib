@@ -2,12 +2,12 @@
   id: 1418,
   results: [
     {
-      id: 5801,
-      name: 'nerd'
-    },
-    {
       id: 5800,
       name: 'geek'
+    },
+    {
+      id: 5801,
+      name: 'nerd'
     },
     {
       id: 9713,

@@ -37,6 +37,15 @@
   ],
   guest_stars: [
     {
+      character: 'Carmen Molina',
+      credit_id: '52542273760ee31328000676',
+      id: 115688,
+      name: 'Carmen Serano',
+      order: 176,
+      profile_path: '/nzJEe2UqvvMIBJZP1aeFEj4EunN.jpg',
+      gender: 'Female'
+    },
+    {
       character: 'Emilio Koyama',
       credit_id: '52542273760ee3132800068e',
       id: 92495,
@@ -55,12 +64,12 @@
       gender: 'Male'
     },
     {
-      character: 'Dr. Belknap (as Greg Chase)',
-      credit_id: '52725cb1760ee3044d0b9984',
-      id: 161591,
-      name: 'Gregory Chase',
-      order: 33,
-      profile_path: '/gNdodev00CROpXuAh5EFmkWTVOo.jpg',
+      character: 'Steven Gomez',
+      credit_id: '5271b489760ee35b3e0881a7',
+      id: 61535,
+      name: 'Steven Michael Quezada',
+      order: 173,
+      profile_path: '/4BRo6oc26kePVYxgNzYwUrDagVO.jpg',
       gender: 'Male'
     },
     {
@@ -80,22 +89,13 @@
       profile_path: '/wSIrKmUXbohaRGORr0CTTTSGctK.jpg'
     },
     {
-      character: 'Steven Gomez',
-      credit_id: '5271b489760ee35b3e0881a7',
-      id: 61535,
-      name: 'Steven Michael Quezada',
-      order: 173,
-      profile_path: '/4BRo6oc26kePVYxgNzYwUrDagVO.jpg',
+      character: 'Dr. Belknap (as Greg Chase)',
+      credit_id: '52725cb1760ee3044d0b9984',
+      id: 161591,
+      name: 'Gregory Chase',
+      order: 33,
+      profile_path: '/gNdodev00CROpXuAh5EFmkWTVOo.jpg',
       gender: 'Male'
-    },
-    {
-      character: 'Carmen Molina',
-      credit_id: '52542273760ee31328000676',
-      id: 115688,
-      name: 'Carmen Serano',
-      order: 176,
-      profile_path: '/nzJEe2UqvvMIBJZP1aeFEj4EunN.jpg',
-      gender: 'Female'
     },
     {
       character: "Chad's Girlfriend",

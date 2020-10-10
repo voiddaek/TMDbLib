@@ -26,9 +26,10 @@
   poster_path: '/9Zq88w35f1PpM22TIbf2amtjHD6.jpg',
   production_companies: [
     {
-      id: 2735,
-      name: 'Mid Atlantic Films',
-      origin_country: 'HU'
+      id: 25,
+      name: '20th Century Fox',
+      logo_path: '/qZCc1lty5FzX30aOCVRBLzaVmcp.png',
+      origin_country: 'US'
     },
     {
       id: 290,
@@ -41,6 +42,11 @@
       name: 'Dune Entertainment',
       logo_path: '/42UPdZl6B2cFXgNUASR8hSt9mpS.png',
       origin_country: 'US'
+    },
+    {
+      id: 2735,
+      name: 'Mid Atlantic Films',
+      origin_country: 'HU'
     },
     {
       id: 10893,
@@ -68,12 +74,6 @@
       id: 34397,
       name: 'Origo Film Group',
       origin_country: ''
-    },
-    {
-      id: 25,
-      name: '20th Century Fox',
-      logo_path: '/qZCc1lty5FzX30aOCVRBLzaVmcp.png',
-      origin_country: 'US'
     }
   ],
   production_countries: [

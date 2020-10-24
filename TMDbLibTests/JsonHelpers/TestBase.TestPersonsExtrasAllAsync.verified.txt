@@ -22,21 +22,18 @@
         aspect_ratio: 0.66666666666667,
         file_path: '/dafKPsivu50RdChBSrgGmMRenYt.jpg',
         height: 1500,
-        vote_average: 5.252,
         width: 1000
       },
       {
         aspect_ratio: 0.66684578183772,
         file_path: '/hGGA9qT74P7p2czjwka7xANzBO9.jpg',
         height: 1861,
-        vote_average: 5.246,
         width: 1241
       },
       {
         aspect_ratio: 0.66666666666667,
         file_path: '/w9Wl6FznONDn5O880ScJo79AOMU.jpg',
         height: 1350,
-        vote_average: 5.312,
         width: 900
       }
     ]
@@ -76,7 +73,7 @@
         credit_id: '52fe4296c3a36847f802a3c3',
         id: 982,
         original_title: 'The Manchurian Candidate',
-        poster_path: '/fE0Yjnxnv9JPs11elXha4BEwKTR.jpg',
+        poster_path: '/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg',
         release_date: DateTime_4,
         title: 'The Manchurian Candidate'
       },
@@ -355,7 +352,7 @@
         credit_id: '52fe46a79251416c7507f143',
         id: 16130,
         original_title: 'La Classe américaine',
-        poster_path: '/hSjNpYyz3eeS1PWD3iF7D3Et6yX.jpg',
+        poster_path: '/iQKZwYLsaJIATKeS5t4yVoKzMxV.jpg',
         release_date: DateTime_35,
         title: 'La Classe américaine'
       },
@@ -382,7 +379,7 @@
         credit_id: '52fe47419251416c75092ea7',
         id: 17696,
         original_title: 'Robin and the 7 Hoods',
-        poster_path: '/hQMUPIYWRAD8r1Bmu5JQJgGlLsH.jpg',
+        poster_path: '/1jqQdHnuIDaHB3owOb3BcD5xZgX.jpg',
         release_date: DateTime_38,
         title: 'Robin and the 7 Hoods'
       },
@@ -594,6 +591,7 @@
         credit_id: '52fe4d4c9251416c751367ed',
         id: 188991,
         original_title: 'Hollywood Out-takes and Rare Footage',
+        poster_path: '/xn4ZKcrO6xlcLtbkQ6zcY2JwV8M.jpg',
         release_date: DateTime_62,
         title: 'Hollywood Out-takes and Rare Footage'
       },
@@ -635,10 +633,10 @@
         character: '',
         credit_id: '532d9928c3a3685fc3001eda',
         id: 260518,
-        original_title: 'Céline Dion: All the Way... A Decade of Song and Videos',
+        original_title: 'Céline Dion: All the Way... A Decade of Song and Video',
         poster_path: '/A7Degw2Un9pLGj3eyOpOlU8mCcq.jpg',
         release_date: DateTime_67,
-        title: 'All the Way... A Decade of Song and Videos'
+        title: 'All the Way... A Decade of Song and Video'
       },
       {
         character: 'Singer in Tommy Dorsey Orchestra',
@@ -945,7 +943,7 @@
         title: 'Frank Sinatra: The Retirement Concert'
       },
       {
-        character: 'Himself (archive footage)',
+        character: 'Self (archive footage)',
         credit_id: '5995c197c3a3683fa500104a',
         id: 324051,
         original_title: 'Nat King Cole: Afraid of the Dark',
@@ -1143,7 +1141,7 @@
         credit_id: '5d65a68858361b00132145cb',
         id: 253639,
         original_title: 'And the Oscar Goes To...',
-        poster_path: '/yFqagAV2iICvJR3NUH9tVXIrBvu.jpg',
+        poster_path: '/rRL4xf3Z6kgLUyb5vbGKErlzP4h.jpg',
         release_date: DateTime_124,
         title: 'And the Oscar Goes To...'
       },
@@ -1279,21 +1277,12 @@
         title: 'Frank Sinatra - The Royal Festival Hall'
       },
       {
-        character: '',
-        credit_id: '5f46756c691cd50033bb0a31',
-        id: 736825,
-        original_title: 'Sinatra and friends',
-        poster_path: '/8QWMfb58ChyVCyxJez1EUQV5Oqc.jpg',
-        release_date: DateTime_138,
-        title: 'Sinatra and friends'
-      },
-      {
         character: 'Himself',
         credit_id: '5f710b00d55e4d00367a5199',
         id: 56168,
         original_title: 'The Oscar',
         poster_path: '/rPdhkMFPJwj3hOmeNBDTEq277io.jpg',
-        release_date: DateTime_139,
+        release_date: DateTime_138,
         title: 'The Oscar'
       }
     ],
@@ -1324,7 +1313,7 @@
         id: 17696,
         job: 'Producer',
         original_title: 'Robin and the 7 Hoods',
-        poster_path: '/hQMUPIYWRAD8r1Bmu5JQJgGlLsH.jpg',
+        poster_path: '/1jqQdHnuIDaHB3owOb3BcD5xZgX.jpg',
         release_date: DateTime_38,
         title: 'Robin and the 7 Hoods'
       },
@@ -1383,7 +1372,7 @@
         character: 'Retired Police Sergeant Michael Doheny',
         credit_id: '5253923919c29579402a02c8',
         episode_count: 1,
-        first_air_date: DateTime_140,
+        first_air_date: DateTime_139,
         id: 734,
         name: 'Magnum P.I',
         original_name: 'Magnum, P.I.',
@@ -1393,7 +1382,7 @@
         character: '',
         credit_id: '525413bc19c295794035f52a',
         episode_count: 5,
-        first_air_date: DateTime_141,
+        first_air_date: DateTime_140,
         id: 1048,
         name: 'The Colgate Comedy Hour',
         original_name: 'The Colgate Comedy Hour',
@@ -1403,7 +1392,7 @@
         character: '',
         credit_id: '52577fd9760ee36aaa5d8b42',
         episode_count: 2,
-        first_air_date: DateTime_142,
+        first_air_date: DateTime_141,
         id: 5307,
         name: 'The Ed Sullivan Show',
         original_name: 'The Ed Sullivan Show',
@@ -1413,7 +1402,7 @@
         character: 'Himself',
         credit_id: '52582197760ee36aaa7baa2f',
         episode_count: 40,
-        first_air_date: DateTime_143,
+        first_air_date: DateTime_142,
         id: 12576,
         name: 'The Frank Sinatra Show',
         original_name: 'The Frank Sinatra Show'
@@ -1422,7 +1411,7 @@
         character: '',
         credit_id: '52582a67760ee36aaa862f54',
         episode_count: 3,
-        first_air_date: DateTime_144,
+        first_air_date: DateTime_143,
         id: 13765,
         name: 'The Dinah Shore Chevy Show',
         original_name: 'The Dinah Shore Chevy Show',
@@ -1432,7 +1421,7 @@
         character: '',
         credit_id: '52586df2760ee346611ebe4b',
         episode_count: 1,
-        first_air_date: DateTime_145,
+        first_air_date: DateTime_144,
         id: 22225,
         name: 'The Jimmy Durante Show',
         original_name: 'The Jimmy Durante Show'
@@ -1441,7 +1430,7 @@
         character: '',
         credit_id: '52586fe3760ee3466121353d',
         episode_count: 1,
-        first_air_date: DateTime_146,
+        first_air_date: DateTime_145,
         id: 22690,
         name: 'The Kennedy Center Honors',
         original_name: 'The Kennedy Center Honors',
@@ -1451,7 +1440,7 @@
         character: '',
         credit_id: '525882ba760ee346613dc3a5',
         episode_count: 7,
-        first_air_date: DateTime_147,
+        first_air_date: DateTime_146,
         id: 27023,
         name: 'The Academy Awards',
         original_name: 'The Academy Awards',
@@ -1461,7 +1450,7 @@
         character: '',
         credit_id: '52588ea4760ee346614e7b89',
         episode_count: 1,
-        first_air_date: DateTime_148,
+        first_air_date: DateTime_147,
         id: 28464,
         name: 'The Emmy Awards',
         original_name: 'The Emmy Awards',
@@ -1480,7 +1469,7 @@
         character: 'Himself (archive footage)',
         credit_id: '5a95c2da9251415639008943',
         episode_count: 2,
-        first_air_date: DateTime_149,
+        first_air_date: DateTime_148,
         id: 76690,
         name: 'Sinatra: All or Nothing at All',
         original_name: 'Sinatra: All or Nothing at All',
@@ -1490,7 +1479,7 @@
         character: '',
         credit_id: '5b47ef8dc3a3686e67011681',
         episode_count: 1,
-        first_air_date: DateTime_150,
+        first_air_date: DateTime_149,
         id: 27320,
         name: 'V.I.P. Schaukel',
         original_name: 'V.I.P. Schaukel'
@@ -1501,7 +1490,7 @@
         credit_id: '56780f2cc3a368167a0099fe',
         department: 'Directing',
         episode_count: 1,
-        first_air_date: DateTime_143,
+        first_air_date: DateTime_142,
         id: 12576,
         job: 'Director',
         name: 'The Frank Sinatra Show',

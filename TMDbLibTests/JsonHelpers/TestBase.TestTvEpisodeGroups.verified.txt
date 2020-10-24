@@ -25,7 +25,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/ccrDTWXpdsORuU3UErvBfp3zJ4k.jpg',
-          vote_average: 8.0,
           id: 995764,
           season_number: 1,
           episode_number: 2
@@ -38,7 +37,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/avnIjPS5GLtbuFLo5avVoRmrfFg.jpg',
-          vote_average: 8.0,
           id: 995766,
           season_number: 1,
           episode_number: 4
@@ -51,7 +49,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/hkeZyDtHPrpaoiqPMELZFdl1YQk.jpg',
-          vote_average: 8.0,
           id: 995767,
           season_number: 1,
           episode_number: 5
@@ -64,7 +61,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/kdmwBXVT6qhsHmJj1xKG54RSN5L.jpg',
-          vote_average: 8.0,
           id: 995772,
           season_number: 1,
           episode_number: 10
@@ -77,7 +73,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/ywBOcoLTLpcqu3fFNjV1nVw93NA.jpg',
-          vote_average: 6.0,
           id: 1014438,
           season_number: 2,
           episode_number: 5
@@ -90,7 +85,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/cINeYJutRVo4zGLV3YiU1kh6mRs.jpg',
-          vote_average: 7.0,
           id: 1014439,
           season_number: 2,
           episode_number: 6
@@ -103,7 +97,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/674U1Rb4HGk7l3ZowlSxqCYSxzO.jpg',
-          vote_average: 7.0,
           id: 1014616,
           season_number: 3,
           episode_number: 5
@@ -116,7 +109,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/f17VFCldzkuKt7RfPq4Az3M3JDP.jpg',
-          vote_average: 8.0,
           id: 1014688,
           season_number: 4,
           episode_number: 1
@@ -129,7 +121,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/so3SL0b5o6WvmqRPB9IMwzNL04z.jpg',
-          vote_average: 8.0,
           id: 1014691,
           season_number: 4,
           episode_number: 4
@@ -142,7 +133,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/aIpCDq0CV9uMRucavvHKG2Mn9AW.jpg',
-          vote_average: 6.0,
           id: 1031230,
           season_number: 5,
           episode_number: 6
@@ -155,7 +145,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/m9wwqDv6mPMcIpGrh7nkR4zQp3s.jpg',
-          vote_average: 7.5,
           id: 1033379,
           season_number: 5,
           episode_number: 7
@@ -168,7 +157,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/oUkJhsuSQSBMAeeZlRjhr63HpNS.jpg',
-          vote_average: 8.0,
           id: 1033380,
           season_number: 5,
           episode_number: 8
@@ -180,7 +168,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/aOyE420zuFq9zWtEWjIccAiTrzU.jpg',
-          vote_average: 8.0,
           id: 1078262,
           season_number: 6,
           episode_number: 3
@@ -285,7 +272,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/qeMV50BbbzchTJIzFspFzSjfwSd.jpg',
-          vote_average: 9.0,
           id: 995771,
           season_number: 1,
           episode_number: 9
@@ -298,7 +284,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/mIXxcBj8JXaf6V37ciPuUzIDVVd.jpg',
-          vote_average: 7.5,
           id: 1014435,
           season_number: 2,
           episode_number: 2
@@ -311,7 +296,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/1UNxbzQIcDR0lyKUhGTg9Erv4Wi.jpg',
-          vote_average: 6.667,
           id: 1014437,
           season_number: 2,
           episode_number: 4
@@ -324,7 +308,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/qsjPkdZ1YITPrlJKG6Z36B6hPKc.jpg',
-          vote_average: 6.5,
           id: 1014618,
           season_number: 3,
           episode_number: 7
@@ -337,7 +320,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/4VwK7ceYcVtYqqivXR0DhNEhYXJ.jpg',
-          vote_average: 8.0,
           id: 1021931,
           season_number: 5,
           episode_number: 1
@@ -350,7 +332,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/jlhGaAq0unR8NEaqFECkWYKxeJ.jpg',
-          vote_average: 8.0,
           id: 1071741,
           season_number: 6,
           episode_number: 1
@@ -406,7 +387,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/jifvL3NN7ezDMeX07qjYNzF13X7.jpg',
-          vote_average: 8.0,
           id: 995765,
           season_number: 1,
           episode_number: 3
@@ -419,7 +399,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/4WZlBs0K1bpeaCcWDL0VFYpG5XO.jpg',
-          vote_average: 6.0,
           id: 995769,
           season_number: 1,
           episode_number: 7
@@ -432,7 +411,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/u688RX8RcdhZRULgOnuhulHhfxU.jpg',
-          vote_average: 7.0,
           id: 1014613,
           season_number: 3,
           episode_number: 2
@@ -445,7 +423,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/hSAIBFTsl5ToKU0udZfiOBTyuJK.jpg',
-          vote_average: 8.0,
           id: 1014614,
           season_number: 3,
           episode_number: 3
@@ -458,7 +435,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/galugHn5bGlJypWacZPN1dc2rNa.jpg',
-          vote_average: 6.5,
           id: 1014615,
           season_number: 3,
           episode_number: 4
@@ -471,7 +447,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/1fPQlvBNCbCiKlb6NALwIMhDPVA.jpg',
-          vote_average: 6.0,
           id: 1014690,
           season_number: 4,
           episode_number: 3
@@ -484,7 +459,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/8Do0bgXJSB8wrv9T3QLbUthxCSF.jpg',
-          vote_average: 8.0,
           id: 1014692,
           season_number: 4,
           episode_number: 5
@@ -496,7 +470,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/y4u7S6qtWXeDLxCS7lhSDQ52QOn.jpg',
-          vote_average: 6.0,
           id: 1021932,
           season_number: 5,
           episode_number: 2
@@ -509,7 +482,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/iUh66P3xnLrNjVVGMP0nuTxuVS1.jpg',
-          vote_average: 7.0,
           id: 1021935,
           season_number: 5,
           episode_number: 5
@@ -522,7 +494,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/52QtVCQpRyyYgm6nKuHilcfcpUj.jpg',
-          vote_average: 7.0,
           id: 1074965,
           season_number: 6,
           episode_number: 2
@@ -535,7 +506,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/i5CwXxuFPhhHIs6zMRkCNyT6Av8.jpg',
-          vote_average: 9.0,
           id: 1154678,
           season_number: 7,
           episode_number: 2
@@ -616,7 +586,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/ls3U4kaQU2ZbNmNJ1HruQt6AF7W.jpg',
-          vote_average: 9.0,
           id: 995713,
           season_number: 1,
           episode_number: 1
@@ -629,7 +598,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/V76JsqAroSCGuM5mREDbUQNnnz.jpg',
-          vote_average: 7.0,
           id: 995768,
           season_number: 1,
           episode_number: 6
@@ -642,7 +610,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/ptaMGRbcUtLHrIZJVweoxvrgmFO.jpg',
-          vote_average: 6.0,
           id: 995770,
           season_number: 1,
           episode_number: 8
@@ -655,7 +622,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/7q5iKghlKzIZazqTTFIgrMtR5gu.jpg',
-          vote_average: 8.0,
           id: 1014410,
           season_number: 2,
           episode_number: 1
@@ -668,7 +634,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/lmByYuPfQxvmAUIlcg7kB9LlKhE.jpg',
-          vote_average: 7.0,
           id: 1014436,
           season_number: 2,
           episode_number: 3
@@ -681,7 +646,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/znnLmHT9wGhjVx8ej3BKiJLlbe9.jpg',
-          vote_average: 8.0,
           id: 1014612,
           season_number: 3,
           episode_number: 1
@@ -694,7 +658,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/gHrWLhFGHfkptk4X24vfwEeHcLj.jpg',
-          vote_average: 7.0,
           id: 1014689,
           season_number: 4,
           episode_number: 2
@@ -707,7 +670,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/cSw34m0bvCBdAkrviSjkP1aPO5D.jpg',
-          vote_average: 8.0,
           id: 1021933,
           season_number: 5,
           episode_number: 3
@@ -720,7 +682,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/tg5cj7mtWNFbzafLqZ6Tg3uRXwI.jpg',
-          vote_average: 4.0,
           id: 1021934,
           season_number: 5,
           episode_number: 4
@@ -732,7 +693,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/4GYV2v8n44sj07NnxxVaBf8gFwR.jpg',
-          vote_average: 8.0,
           id: 1078263,
           season_number: 6,
           episode_number: 4
@@ -745,7 +705,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/rQJTOuOhNNjOmmoRq9k46SWaVfM.jpg',
-          vote_average: 8.0,
           id: 1156766,
           season_number: 7,
           episode_number: 3
@@ -801,7 +760,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/8K4oOaL2AIOaa0tKf2i82Sr1raI.jpg',
-          vote_average: 8.0,
           id: 1516800,
           season_number: 10,
           episode_number: 1
@@ -814,7 +772,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/14JOh36am3D19NXG3DijFyvfTyN.jpg',
-          vote_average: 7.0,
           id: 1516801,
           season_number: 10,
           episode_number: 2
@@ -827,7 +784,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/ai064EttC0NGFHRMHHP0yu0oivX.jpg',
-          vote_average: 7.0,
           id: 1516802,
           season_number: 10,
           episode_number: 3
@@ -840,7 +796,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/6uXGvMRNUf0bqnDmDgX1EOntrzH.jpg',
-          vote_average: 8.0,
           id: 1516803,
           season_number: 10,
           episode_number: 4
@@ -853,7 +808,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/klfetm5NXMkWk1yP7oTpc8ERDqR.jpg',
-          vote_average: 8.0,
           id: 1516804,
           season_number: 10,
           episode_number: 5
@@ -866,7 +820,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/hGtgzjFqSBCjXF18IKcnTXZ98wx.jpg',
-          vote_average: 8.0,
           id: 1516805,
           season_number: 10,
           episode_number: 6
@@ -879,7 +832,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/fs4EQ2VxWkXTn5S2ol8lw1Ep5z0.jpg',
-          vote_average: 6.0,
           id: 1516806,
           season_number: 10,
           episode_number: 7
@@ -892,7 +844,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/iOyNypD1SPwBaNzhz95mshjUPvd.jpg',
-          vote_average: 7.0,
           id: 1516807,
           season_number: 10,
           episode_number: 8
@@ -905,7 +856,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/uzayIadhwgpdmOv72lurPye9mmn.jpg',
-          vote_average: 7.0,
           id: 1516808,
           season_number: 10,
           episode_number: 9
@@ -918,7 +868,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/SqruE5T3CRBdzxnHXpdYhLE9cu.jpg',
-          vote_average: 4.0,
           id: 1516809,
           season_number: 10,
           episode_number: 10
@@ -931,7 +880,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/9NoREIJdsyk26MZPmCHjCAMGZaT.jpg',
-          vote_average: 6.0,
           id: 1516810,
           season_number: 10,
           episode_number: 11
@@ -944,7 +892,6 @@
           production_code: '',
           show_id: 59717,
           still_path: '/eTjjYRfHURW9m6xYntQy0VTzW7L.jpg',
-          vote_average: 9.0,
           id: 1516811,
           season_number: 10,
           episode_number: 12

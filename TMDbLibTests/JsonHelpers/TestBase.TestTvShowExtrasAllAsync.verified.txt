@@ -395,7 +395,6 @@
         ],
         overview: 'Two lovers are reunited after decades apart following a mutual misunderstanding.',
         poster_path: '/hgpSfLu6uzGRB4SLz6Jtai5T3Xq.jpg',
-        vote_average: 7.9,
       },
       {
         first_air_date: DateTime_9,
@@ -418,7 +417,6 @@
         ],
         overview: 'Sitcom about the love-hate relationship between upper-class Audrey fforbes Hamilton and Richard DeVere, the nouveau rich businessman who buys her manor house when she can longer afford to keep it',
         poster_path: '/ehAKEZ6gnxvrqguB4DuValXqb83.jpg',
-        vote_average: 7.6,
       },
       {
         backdrop_path: '/808Hq7ji2hGT4keKLt5Ah92BjUC.jpg',
@@ -442,7 +440,6 @@
         ],
         overview: 'Classic comedy set in fading department store Grace Brothers.',
         poster_path: '/sSQPlDTIstv24MOdLYfonjV2YDa.jpg',
-        vote_average: 7.1,
       },
       {
         first_air_date: DateTime_11,
@@ -465,7 +462,6 @@
         ],
         overview: 'Whatever Happened to the Likely Lads? is a British sitcom which was broadcast between 9 January 1973 and 9 April 1974 on BBC1. It was the colour sequel to the mid-1960s hit The Likely Lads. It was created and written, as was its predecessor, by Dick Clement and Ian La Frenais. There were 26 television episodes over two series; and a subsequent 45-minute Christmas special was aired on 24 December 1974.\n\nThe cast were reunited in 1975 for a BBC radio adaptation of series 1, transmitted on Radio 4 from July to October that year. In 1976, a feature film spin-off was made. Around the time of its release, however, Rodney Bewes and James Bolam fell out over a misunderstanding involving the press and have not spoken since. This long-suspected situation was finally confirmed by Bewes while promoting his autobiography in 2005. Unlike Bewes, Bolam is consistently reluctant to talk about the show, and has vetoed any attempt to revive his character.',
         poster_path: '/8e3GSxzWcs3GfcqAPuaMBygQYFY.jpg',
-        vote_average: 7.7,
       },
       {
         first_air_date: DateTime_12,
@@ -488,7 +484,6 @@
         ],
         overview: "Till Death Us Do Part is a ground-breaking British sitcom that aired on BBC1 from 1965 to 1975. First airing as a Comedy Playhouse pilot, the show aired in seven series until 1975. Six years later, ITV continued the sitcom, calling it Till Death.... From 1985 to 1992, the BBC produced a sequel In Sickness and in Health.\n\nCreated by Johnny Speight, Till Death Us Do Part centred on the East End Garnett family, led by patriarch Alf Garnett, a reactionary white working-class man who holds racist and anti-socialist views. His gentle and long-suffering wife Else was played by Dandy Nichols, and his daughter Rita by Una Stubbs. Rita's bright but layabout husband Mike Rawlins is a socialist. The character Alf Garnett became a well known character in British culture, and Mitchell played him on stage and television up until 1998, when Speight died.\n\nIn addition to the spin-off In Sickness and in Health, Till Death Us Do Part was re-made in many countries including Brazil, Germany and the United States.\n\nMany episodes from the first three series are thought to no longer exist, having been wiped in the late 1960s and early '70s as was the policy at the time.",
         poster_path: '/1IsbecDzH4aoAv5Mqp6dM4JSnY0.jpg',
-        vote_average: 7.0,
       },
       {
         first_air_date: DateTime_13,
@@ -516,7 +511,6 @@
         ],
         overview: 'French and Saunders is a British sketch comedy television series written by and starring comic duo Dawn French and Jennifer Saunders. It is also the name by which the performers are known on the occasions when they appear elsewhere as a double act.',
         poster_path: '/ymJRBdksLWlPyOx6Pkytw3VisHj.jpg',
-        vote_average: 7.5,
       },
       {
         backdrop_path: '/wcUsUDsvZZ58zhSFK1fqBwUxLa3.jpg',
@@ -540,7 +534,6 @@
         ],
         overview: 'A crazy comedy about three rather strange parish priests exiled to Craggy Island, a remote island off the Irish west coast.',
         poster_path: '/zq3W23WnuKWAkk34Axx3hv3HduU.jpg',
-        vote_average: 8.0,
       },
       {
         first_air_date: DateTime_15,
@@ -563,7 +556,6 @@
         ],
         overview: 'Spitting Image is an award winning British satirical puppet show, created by Peter Fluck, Roger Law and Martin Lambie-Nairn. The series was produced by Spitting Image Productions for Central Independent Television over 18 series which aired on the ITV from 1984 to 1996. The series was nominated and won numerous awards during its run including 10 BAFTA Awards, including one for editing in 1989, and even won two Emmy Awards in 1985 and 1986 in the Popular Arts Category.\n\nThe series featured puppet caricatures of celebrities famous during the 1980s and 1990s, including British Prime Minister Margaret Thatcher and fellow Tory politicians, American president Ronald Reagan, and the British Royal Family. The Series was the first to caricature the Queen mother.\n\nThe series was axed in 1996, after viewing figures declined. ITV had plans for a new series in 2006, but these were scrapped after a dispute over Ant & Dec puppets used to host the reviews "Best Ever Spitting Image", which were created against Roger Law\'s wishes.',
         poster_path: '/iEosuvmuzsnbGIFKs63GU4drsPk.jpg',
-        vote_average: 7.7,
       },
       {
         backdrop_path: '/uu19h4VW8U6NhdE0w8gVkQkTbO7.jpg',
@@ -587,11 +579,31 @@
         ],
         overview: "Open All Hours is a BBC sitcom written by Roy Clarke and starring Ronnie Barker as a miserly shop keeper and David Jason as his put-upon nephew who works as his errand boy. It ran for 26 episodes in four series, which premiered in 1976, 1981, 1982 and 1985 respectively. The programme developed from a television pilot broadcast in Barker's comedy anthology series, Seven of One.\n\nOpen All Hours ranked eighth in the 2004 Britain's Best Sitcom poll.",
         poster_path: '/1GoDWPpttglLBz7SYqwtcaAgmfH.jpg',
-        vote_average: 8.0,
+      },
+      {
+        first_air_date: DateTime_17,
+        genre_ids: [
+          35
+        ],
+        id: 2248,
+        name: 'Butterflies',
+        networks: [
+          {
+            id: 332,
+            name: 'BBC Two',
+            origin_country: 'GB'
+          }
+        ],
+        original_language: 'en',
+        original_name: 'Butterflies',
+        origin_country: [
+          'GB'
+        ],
+        overview: 'Ria Parkinson is a bored housewife and mother. She spends her time daydreaming, and meets regularly with wealthy businessman Leonard to relieve the monotony. Husband Ben, a dentist and avid butterfly collector is oblivious to it all, and her unemployed grown up sons, who both live at home also have other things on their minds, especially girlfriends.',
       },
       {
         backdrop_path: '/27dmltaqglQf0MTlTBkpWyOS6Ei.jpg',
-        first_air_date: DateTime_17,
+        first_air_date: DateTime_18,
         genre_ids: [
           35
         ],
@@ -611,11 +623,10 @@
         ],
         overview: 'Porridge is a British situation comedy broadcast on BBC1 from 1974 to 1977, running for three series, two Christmas specials and a feature film also titled Porridge. Written by Dick Clement and Ian La Frenais, it stars Ronnie Barker and Richard Beckinsale as two inmates at the fictional HMP Slade in Cumberland. "Doing porridge" is British slang for serving a prison sentence, porridge once being the traditional breakfast in UK prisons.\n\nThe series was followed by a 1978 sequel, Going Straight, which established that Fletcher would not be going back to prison again. Porridge was voted number seven in a 2004 BBC poll of the 100 greatest British sitcoms.',
         poster_path: '/dSFKzBGFwhOuLFAH50mS2CExgHM.jpg',
-        vote_average: 8.4,
       },
       {
         backdrop_path: '/tGFLgm8FP8h5DZNU6eCyLOJtNGY.jpg',
-        first_air_date: DateTime_18,
+        first_air_date: DateTime_19,
         genre_ids: [
           35,
           80
@@ -636,11 +647,10 @@
         ],
         overview: 'The Thin Blue Line is a British sitcom starring Rowan Atkinson set in a police station that ran for two series on the BBC from 1995 to 1996. It was written by Ben Elton.',
         poster_path: '/enfwuk6owXIAfyybtMPbFBDmwrq.jpg',
-        vote_average: 7.1,
       },
       {
         backdrop_path: '/qk62EpQMSxZbvsBlH6lgwN6gHXy.jpg',
-        first_air_date: DateTime_19,
+        first_air_date: DateTime_20,
         genre_ids: [
           35
         ],
@@ -660,31 +670,6 @@
         ],
         overview: "George and Mildred is a British sitcom produced by Thames Television that aired from 1976 to 1979. It was a spin-off from Man About the House and starred Brian Murphy and Yootha Joyce as an ill-matched married couple, George and Mildred Roper. The premise of the series had George and Mildred leaving their flat as depicted in Man About the House and moving to a modern, upmarket housing estate. Their arrival horrifies their snobbish neighbour Jeffrey Fourmile, an estate agent who despairs that the Ropers' presence will devalue his home.\n\nIt was written by Brian Cooke and Johnnie Mortimer. Like many sitcoms of the day, George and Mildred was also turned into a film, which was dedicated to actress Yootha Joyce who died suddenly in 1980, just as the cast had been looking forward to recording a sixth series.",
         poster_path: '/bAMRvtOUOyydhMpBg53u0K3uqj.jpg',
-        vote_average: 7.1,
-      },
-      {
-        first_air_date: DateTime_20,
-        genre_ids: [
-          35,
-          10767
-        ],
-        id: 2470,
-        name: 'Room 101',
-        networks: [
-          {
-            id: 4,
-            name: 'BBC One',
-            origin_country: 'GB'
-          }
-        ],
-        original_language: 'en',
-        original_name: 'Room 101',
-        origin_country: [
-          'GB'
-        ],
-        overview: 'Fast-moving game show meets talk show, which sees Frank Skinner refereeing three celebrities each week as they compete to banish their top peeve or worst nightmare to the depths of Room 101.',
-        poster_path: '/i8TSBGHq0Qsrmn12oyeh1W4G2Hp.jpg',
-        vote_average: 6.7,
       },
       {
         backdrop_path: '/zFxfTg3xMIF2oApNXZfDCwrUDnx.jpg',
@@ -708,7 +693,6 @@
         ],
         overview: "The Good Life is a British sitcom produced by the BBC that ran from 1975 to 1978. It was written by Bob Larbey and John Esmonde. In 2004, it came 9th in Britain's Best Sitcom. In the United States, it aired on various PBS stations under the title Good Neighbors.",
         poster_path: '/ll4SdFLqWCK2Ss2mYSAN6zJCzxZ.jpg',
-        vote_average: 7.3,
       },
       {
         backdrop_path: '/pD8AARsSJgzMOqFeHcw4JDeRTHy.jpg',
@@ -732,7 +716,6 @@
         ],
         overview: 'Reverend Granger is assigned as the Vicar of the rural parish of Dibley, but she is not quite what the villagers expected.',
         poster_path: '/pjPgg5AkcoXXGr4qqXTlPc3tPJ8.jpg',
-        vote_average: 7.4,
       },
       {
         backdrop_path: '/jyYSE9OFFivw8Ye3EHRmfYCnqkm.jpg',
@@ -756,7 +739,6 @@
         ],
         overview: 'Steptoe and Son is a British sitcom written by Ray Galton and Alan Simpson about a father and son played by Wilfred Brambell and Harry H. Corbett who deal in selling used items. They live on Oil Drum Lane, a fictional street in Shepherd\'s Bush, London. Four series were broadcast by the BBC from 1962 to 1965, followed by a second run from 1970 to 1974. Its theme tune, "Old Ned", was composed by Ron Grainer. The series was voted 15th in a 2004 BBC poll to find Britain\'s Best Sitcom. It was remade in the US as Sanford and Son, in Sweden as Albert & Herbert and in the Netherlands as Stiefbeen en zoon. In 1972 a movie adaptation of the series, Steptoe and Son, was released in cinemas, with a second Steptoe and Son Ride Again in 1973.\n\nThe series focussed on the inter-generational conflict of father and son. Albert Steptoe, a "dirty old man", is an old rag and bone man, set in his grimy and grasping ways. By contrast his 37-year-old son Harold is filled with social aspirations, not to say pretensions. The show contained elements of drama and tragedy, as Harold was continually prevented from achieving his ambitions. To this end the show was unusual at the time for casting actors rather than comedians in its lead roles, although both actors were drawn into more comedic roles as a consequence.',
         poster_path: '/hhpwjPICU1wcUegTFvRCCF9UpKA.jpg',
-        vote_average: 7.9,
       },
       {
         backdrop_path: '/xuA0FKFztUOYuhGte7SCzobFAGc.jpg',
@@ -785,7 +767,6 @@
         ],
         overview: 'The Young Ones is a British sitcom, broadcast in Great Britain from 1982 to 1984 in two six-part series. Shown on BBC2, it featured anarchic, offbeat humour which helped bring alternative comedy to television in the 1980s and made household names of its writers and performers. In 1985, it was shown on MTV, one of the first non-music television shows on the fledgling channel.',
         poster_path: '/edDgwM9WhXI8cKSi7pirEL99cFv.jpg',
-        vote_average: 7.9,
       },
       {
         backdrop_path: '/g3sopWVoBSeNGcWjnB3ObCZxrfm.jpg',
@@ -809,11 +790,35 @@
         ],
         overview: "One Foot in the Grave is a BBC television sitcom series  The series features the exploits of Victor Meldrew and his long-suffering wife, Margaret. The programmes invariably deal with Meldrew's battle against the problems he creates for himself. Living in a typical household in an unnamed English suburb, Victor takes involuntary early retirement. His various efforts to keep himself busy, while encountering various misfortunes and misunderstandings are the themes of the sitcom. The series was largely filmed on location in Walkford, near New Milton in Hampshire, although several clues show that the series may have been set in Hampshire – possibly Winchester. Despite its traditional production, the series supplants its domestic sitcom setting with elements of black humour and surrealism.",
         poster_path: '/cEAiTPDVGVI0n07cJiab3jzN9HI.jpg',
-        vote_average: 7.8,
+      },
+      {
+        backdrop_path: '/2AcihenBPGVTY4FbQ77hSrE6L25.jpg',
+        first_air_date: DateTime_26,
+        genre_ids: [
+          18,
+          35,
+          10765
+        ],
+        id: 5632,
+        name: 'Goodnight Sweetheart',
+        networks: [
+          {
+            id: 4,
+            name: 'BBC One',
+            origin_country: 'GB'
+          }
+        ],
+        original_language: 'en',
+        original_name: 'Goodnight Sweetheart',
+        origin_country: [
+          'GB'
+        ],
+        overview: 'Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.',
+        poster_path: '/nlLmV3m2cuWyB187cqXEJzF1N2K.jpg',
       },
       {
         backdrop_path: '/nQ3PKS7CmdpfmxIJFIBYTLHvCTG.jpg',
-        first_air_date: DateTime_26,
+        first_air_date: DateTime_27,
         genre_ids: [
           35
         ],
@@ -833,35 +838,9 @@
         ],
         overview: 'Some Mothers Do \'Ave \'Em is a BBC situation comedy, written by Raymond Allen and starring Michael Crawford and Michele Dotrice. It was first broadcast in 1973 and ran for three series, ending in 1978.\n\nThe series follows the accident-prone Frank Spencer and his tolerant, if long-suffering, wife, Betty, through Frank\'s various attempts to hold down a job, which frequently end in disaster.\n\nNoted for its stuntwork, performed by Michael Crawford himself as well as featuring various well-remembered catchphrases, the series was voted #22 in the BBC\'s poll "Britain\'s Best Sitcom".',
         poster_path: '/yOeivbXNkJxveF3DKubz8lGOSYe.jpg',
-        vote_average: 7.9,
-      },
-      {
-        backdrop_path: '/fwBeQDxBDl81bA5P2bXZXdnZV6R.jpg',
-        first_air_date: DateTime_27,
-        genre_ids: [
-          10764
-        ],
-        id: 33883,
-        name: "Ramsay's Best Restaurant",
-        networks: [
-          {
-            id: 26,
-            name: 'Channel 4',
-            origin_country: 'GB'
-          }
-        ],
-        original_language: 'en',
-        original_name: "Ramsay's Best Restaurant",
-        origin_country: [
-          'GB'
-        ],
-        overview: 'Ramsay\'s Best Restaurant is a television programme featuring British celebrity chef Gordon Ramsay broadcast on Channel 4. During the series restaurants from all over Britain competed in order to win the "Ramsay\'s Best Restaurant" title. The initial 16 restaurants were selected by Ramsay from a pool of some 12,000 entries submitted by Channel 4 viewers.\n\nIn the first stage of the competition, eight pairs of restaurants representing the same type of cuisine were pitted against each other, with winners progressing to semi-finals, and then the final. Although originally announced as a 12-part series, the series had nine episodes aired between September and November 2010.\n\nIt was announced in the grand final broadcast on 9 November that the competition was won by Casamia, a Michelin-starred Italian restaurant based in Bristol, with Prashad, an Indian Gujarati vegetarian restaurant from Bradford, finishing as runner-up.',
-        poster_path: '/qocPlM9Pc9xveI5cwNN41II7Ynz.jpg',
-        vote_average: 5.0,
       }
     ]
   },
   status: 'Ended',
   type: 'Scripted',
-  vote_average: 7.7,
 }

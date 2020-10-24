@@ -11,7 +11,6 @@
   original_language: 'en',
   overview: 'In the film that launched the James Bond saga, Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.',
   poster_path: '/E0J8HxoDFA8f9TS5c6e6thsszz.jpg',
-  vote_average: 7.0,
   id: 646,
   media_type: 'movie',
 }

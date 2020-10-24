@@ -13,7 +13,6 @@
   original_language: 'en',
   overview: "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
   poster_path: '/rTmal9fDbwh5F0waol2hq35U4ah.jpg',
-  vote_average: 8.0,
   id: 63351,
   media_type: 'tv',
 }

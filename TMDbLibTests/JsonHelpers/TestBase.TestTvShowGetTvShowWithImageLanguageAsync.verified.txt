@@ -4,7 +4,6 @@
     file_path: '/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg',
     height: 2100,
     iso_639_1: 'pt',
-    vote_average: 5.312,
     width: 1400
   }
 }

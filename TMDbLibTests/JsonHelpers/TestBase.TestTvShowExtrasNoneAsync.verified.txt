@@ -33,7 +33,6 @@
     production_code: '',
     show_id: 1396,
     still_path: '/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg',
-    vote_average: 9.144,
     id: 62161,
     season_number: 5,
     episode_number: 16
@@ -131,5 +130,4 @@
   ],
   status: 'Ended',
   type: 'Scripted',
-  vote_average: 8.6,
 }

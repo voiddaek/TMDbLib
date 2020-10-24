@@ -3,7 +3,6 @@
     aspect_ratio: 1.777251184834123,
     file_path: '/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg',
     height: 1688,
-    vote_average: 5.454,
     width: 3000
   },
   poster: {
@@ -11,7 +10,6 @@
     file_path: '/ggFHVNu6YYI5L9pCfOacjizRGt.jpg',
     height: 1800,
     iso_639_1: 'en',
-    vote_average: 5.522,
     width: 1200
   }
 }

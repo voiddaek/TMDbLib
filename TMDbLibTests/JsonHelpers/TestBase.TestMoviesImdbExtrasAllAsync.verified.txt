@@ -136,7 +136,7 @@
         id: 8293,
         name: 'Marion Cotillard',
         order: 5,
-        profile_path: '/yC2H67CGi1KTthvJnDS8DCyuysm.jpg',
+        profile_path: '/1RAG22zsofkiAJkZm0qb5q4OQaT.jpg',
         gender: 'Female'
       },
       {
@@ -1186,7 +1186,8 @@
         credit_id: '562d1f0592514128530088c1',
         id: 1429650,
         name: 'Kyle David Pierce',
-        order: 133
+        order: 133,
+        profile_path: '/owe0M90zxjmxxnDnwQjzaTA91vJ.jpg'
       },
       {
         cast_id: 277,
@@ -1248,7 +1249,8 @@
         id: 1085730,
         name: 'Eric Salazar',
         order: 140,
-        profile_path: '/bPFWIV2ClLBZeF9oaSH78gMzqzS.jpg'
+        profile_path: '/bPFWIV2ClLBZeF9oaSH78gMzqzS.jpg',
+        gender: 'Male'
       },
       {
         cast_id: 285,
@@ -1671,6 +1673,7 @@
         id: 527,
         job: 'Screenplay',
         name: 'Jonathan Nolan',
+        profile_path: '/fnloj6VDnqr6gQJ1lhF63JtuYke.jpg',
         gender: 'Male'
       },
       {
@@ -3164,7 +3167,7 @@
         id: 1108733,
         job: 'Stunts',
         name: 'David Gere',
-        profile_path: '/xTIiG1IhZaCJmBk4MMZIr33OyQN.jpg',
+        profile_path: '/gbt55FTJpQTJmKEGDDFXMlf7vuA.jpg',
         gender: 'Male'
       },
       {
@@ -4066,169 +4069,169 @@
     page: 1,
     results: [
       {
-        description: 'Movies you want to download ',
-        id: '107358',
+        description: 'Non Animated Movies of DC Comics/Universe',
+        id: '110223',
         iso_639_1: 'en',
-        item_Count: 104,
+        item_Count: 52,
         list_type: 'movie',
-        name: 'Movies to Download'
-      },
-      {
-        description: 'Action packed movies!',
-        id: '109603',
-        iso_639_1: 'en',
-        item_Count: 247,
-        list_type: 'movie',
-        name: 'Action'
+        name: 'DC Universe'
       },
       {
         description: '',
-        id: '109747',
+        id: '115671',
         iso_639_1: 'en',
-        item_Count: 91,
+        item_Count: 45,
         list_type: 'movie',
-        name: 'Superhero movies'
-      },
-      {
-        description: 'Movies with the highest IMDB ratings...',
-        id: '109865',
-        iso_639_1: 'en',
-        item_Count: 27,
-        list_type: 'movie',
-        name: 'Movies in the IMDB top 250'
-      },
-      {
-        description: 'Over 200 DVDs with an age 12 rating or less...\n\n🚩= May be unsuitable for school viewing, see IMDB parents guide. ',
-        id: '111310',
-        iso_639_1: 'en',
-        item_Count: 240,
-        list_type: 'movie',
-        name: 'Film club'
-      },
-      {
-        description: 'Dramatic films.',
-        id: '111811',
-        iso_639_1: 'en',
-        item_Count: 69,
-        list_type: 'movie',
-        name: 'Drama'
+        name: 'DC Films'
       },
       {
         description: '',
-        id: '122265',
+        id: '124223',
         iso_639_1: 'en',
-        item_Count: 539,
+        item_Count: 1066,
         list_type: 'movie',
-        name: 'Film'
-      },
-      {
-        description: 'Movies suitable for viewers aged 12 and above...',
-        id: '124491',
-        iso_639_1: 'en',
-        item_Count: 175,
-        list_type: 'movie',
-        name: '12'
-      },
-      {
-        description: 'Movies released between 2010 and 2019...',
-        id: '124519',
-        iso_639_1: 'en',
-        item_Count: 191,
-        list_type: 'movie',
-        name: '2010s'
-      },
-      {
-        description: 'Thrilling movies...',
-        id: '124679',
-        iso_639_1: 'en',
-        item_Count: 137,
-        list_type: 'movie',
-        name: 'Thriller'
+        name: 'Watched'
       },
       {
         description: '',
-        id: '129146',
+        id: '128648',
         iso_639_1: 'en',
-        item_Count: 427,
+        item_Count: 196,
         list_type: 'movie',
-        name: 'My Movies'
+        name: 'IMDb Top Rated'
       },
       {
-        description: 'ا',
-        id: '131230',
-        iso_639_1: 'ar',
-        item_Count: 1736,
+        description: "Movies available from my Plex server - Bogart's Lounge.",
+        id: '129881',
+        iso_639_1: 'en',
+        item_Count: 4623,
         list_type: 'movie',
-        name: 'أنا'
+        name: 'MediaVault'
       },
       {
         description: '',
         id: '134725',
         iso_639_1: 'en',
-        item_Count: 462,
+        item_Count: 468,
         list_type: 'movie',
         name: 'Watched Movies'
       },
       {
-        description: 'Filmer som är sedda på bio någon gång.',
-        id: '14776',
-        iso_639_1: 'sv',
-        item_Count: 1870,
+        description: 'Meine BluRays, siehe Kommentare',
+        id: '14324',
+        iso_639_1: 'de',
+        item_Count: 305,
         list_type: 'movie',
-        name: 'Filmer sedda på bio.'
+        name: 'Meine Filme'
       },
       {
-        description: '',
-        id: '20455',
+        description: 'movies and shows that have emotions',
+        id: '145373',
         iso_639_1: 'en',
-        item_Count: 298,
+        item_Count: 247,
         list_type: 'movie',
-        name: 'Watched'
+        name: 'Drama'
       },
       {
-        description: 'Stuff I want. ',
-        id: '32998',
+        description: 'List created by QlickPlay for Kodi.',
+        id: '30044',
         iso_639_1: 'en',
-        item_Count: 294,
+        item_Count: 14,
         list_type: 'movie',
-        name: 'Get it!'
+        name: 'ADZ SUPER-HERO MOVIES'
+      },
+      {
+        description: 'movies',
+        id: '31464',
+        iso_639_1: 'en',
+        item_Count: 89,
+        list_type: 'movie',
+        name: 'des1'
       },
       {
         description: 'my collection',
         id: '35027',
         iso_639_1: 'en',
-        item_Count: 2556,
+        item_Count: 2575,
         list_type: 'movie',
         name: 'DVD'
       },
       {
-        description: '',
-        id: '46653',
-        iso_639_1: 'en',
-        item_Count: 567,
+        description: 'vi e gostei',
+        id: '38436',
+        iso_639_1: 'pt',
+        item_Count: 119,
         list_type: 'movie',
-        name: 'Watched'
+        name: 'Vistos (👍)'
       },
       {
-        description: 'The movies I watched. Shortfilms and feature films',
-        id: '6449',
+        description: '',
+        id: '43981',
+        iso_639_1: 'de',
+        item_Count: 324,
+        list_type: 'movie',
+        name: '4K Filme'
+      },
+      {
+        description: 'List created by ExtendedInfo Script for Kodi.',
+        id: '6635',
+        iso_639_1: 'en',
+        item_Count: 1635,
+        list_type: 'movie',
+        name: 'Kodi Film',
+        poster_path: '/fNDGGfjNh1eKHGw78OqQ1bXdn6P.jpg'
+      },
+      {
+        description: '',
+        id: '7060023',
         iso_639_1: 'es',
-        item_Count: 848,
+        item_Count: 721,
         list_type: 'movie',
-        name: 'vistas/viewed',
-        poster_path: '/aCof58P1vfvoyVZs4OgkJghwSKH.jpg'
+        name: 'Películas vistas'
       },
       {
         description: '',
-        id: '7060628',
-        iso_639_1: 'en',
-        item_Count: 414,
+        id: '84598',
+        iso_639_1: 'sv',
+        item_Count: 322,
         list_type: 'movie',
-        name: 'Blu-ray movies'
+        name: 'Filmer på Engelska '
+      },
+      {
+        description: '',
+        id: '85047',
+        iso_639_1: 'es',
+        item_Count: 636,
+        list_type: 'movie',
+        name: 'Pelis Vistas'
+      },
+      {
+        description: '',
+        id: '87337',
+        iso_639_1: 'en',
+        item_Count: 455,
+        list_type: 'movie',
+        name: 'Best Movies'
+      },
+      {
+        description: 'Peliculas que ya he visto',
+        id: '88225',
+        iso_639_1: 'es',
+        item_Count: 1118,
+        list_type: 'movie',
+        name: 'Peliculas Vistas'
+      },
+      {
+        description: '',
+        id: '99224',
+        iso_639_1: 'en',
+        item_Count: 708,
+        list_type: 'movie',
+        name: 'Watched Movies'
       }
     ],
-    total_pages: 70,
-    total_results: 1400
+    total_pages: 71,
+    total_results: 1403
   },
   original_language: 'en',
   original_title: 'The Dark Knight Rises',
@@ -5379,26 +5382,42 @@
         media_type: 'movie',
       },
       {
-        original_title: 'Supergirl',
+        original_title: 'Constantine',
         release_date: DateTime_20,
-        title: 'Supergirl',
-        backdrop_path: '/iITh61m2nhUQ27kfmWH5bGoxEuf.jpg',
+        title: 'Constantine',
+        backdrop_path: '/tIG8FwHRiHLOlWJdizp2oxdkSL2.jpg',
+        genre_ids: [
+          14,
+          18,
+          27
+        ],
+        original_language: 'en',
+        overview: 'John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.',
+        poster_path: '/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg',
+        vote_average: 6.9,
+        id: 561,
+        media_type: 'movie',
+      },
+      {
+        original_title: 'Superman Returns',
+        release_date: DateTime_21,
+        title: 'Superman Returns',
+        backdrop_path: '/8eRscFbRYl681zDfkjv1jjW1KAA.jpg',
         genre_ids: [
           12,
-          14,
           28,
           878
         ],
         original_language: 'en',
-        overview: "After losing a powerful orb, Kara, Superman's cousin, comes to Earth to retrieve it and instead finds herself up against a wicked witch.",
-        poster_path: '/6OfuKKCPFclHOj4SSRRpLzF1lfP.jpg',
-        vote_average: 5.1,
-        id: 9651,
+        overview: 'Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.',
+        poster_path: '/ijSsWy2RWxTJzw3UMwFbXkjr5ny.jpg',
+        vote_average: 5.6,
+        id: 1452,
         media_type: 'movie',
       },
       {
         original_title: 'Wonder Woman',
-        release_date: DateTime_21,
+        release_date: DateTime_22,
         title: 'Wonder Woman',
         backdrop_path: '/qMp8cqGbqje5wmb4w4cZelurKw0.jpg',
         genre_ids: [
@@ -5411,13 +5430,13 @@
         original_language: 'en',
         overview: 'On the mystical island of Themyscira, a proud and fierce warrior race of Amazons have raised a daughter of untold beauty, grace and strength: Princess Diana. When an Army fighter pilot, Steve Trevor, crash-lands on the island, the rebellious and headstrong Diana defies Amazonian law by accompanying Trevor back to civilization.',
         poster_path: '/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg',
-        vote_average: 7.4,
+        vote_average: 7.3,
         id: 15359,
         media_type: 'movie',
       },
       {
         original_title: 'Justice League: Crisis on Two Earths',
-        release_date: DateTime_22,
+        release_date: DateTime_23,
         title: 'Justice League: Crisis on Two Earths',
         backdrop_path: '/izhfC6rIMgqWdNgBJGoJ5lP5M5.jpg',
         genre_ids: [
@@ -5434,16 +5453,16 @@
       },
       {
         original_title: 'Batman: Under the Red Hood',
-        release_date: DateTime_23,
+        release_date: DateTime_24,
         title: 'Batman: Under the Red Hood',
-        backdrop_path: '/kvnzJ4s6RnjJZe1DhOjeML0Jwbu.jpg',
+        backdrop_path: '/eomLgXDXkTuCqeQK3EIxj1Gprhf.jpg',
         genre_ids: [
           16,
           28,
           9648
         ],
         original_language: 'en',
-        overview: 'Batman faces his ultimate challenge as the mysterious Red Hood takes Gotham City by firestorm. One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.',
+        overview: "There's a mystery afoot in Gotham City, and Batman must go toe-to-toe with a mysterious vigilante, who goes by the name of Red Hood. Subsequently, old wounds reopen and old, once buried memories come into the light.  Batman faces his ultimate challenge as the mysterious Red Hood takes Gotham City by firestorm. One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.",
         poster_path: '/dEujs48u3n4cmh15ITtHHDFxSaS.jpg',
         vote_average: 7.8,
         id: 40662,
@@ -5451,7 +5470,7 @@
       },
       {
         original_title: 'Green Lantern',
-        release_date: DateTime_24,
+        release_date: DateTime_25,
         title: 'Green Lantern',
         backdrop_path: '/8EZ3hY4zhSorcRt4WtoaydsG3Ts.jpg',
         genre_ids: [
@@ -5463,13 +5482,13 @@
         original_language: 'en',
         overview: 'For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.',
         poster_path: '/fj21HwUprqjjwTdkKC1XZurRSpV.jpg',
-        vote_average: 5.1,
+        vote_average: 5.2,
         id: 44912,
         media_type: 'movie',
       },
       {
         original_title: 'Mission: Impossible - Ghost Protocol',
-        release_date: DateTime_25,
+        release_date: DateTime_26,
         title: 'Mission: Impossible - Ghost Protocol',
         backdrop_path: '/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg',
         genre_ids: [
@@ -5486,7 +5505,7 @@
       },
       {
         original_title: 'Green Lantern: Emerald Knights',
-        release_date: DateTime_26,
+        release_date: DateTime_27,
         title: 'Green Lantern: Emerald Knights',
         backdrop_path: '/cgigaTI0slw8MRZZMODaDnmAsmL.jpg',
         genre_ids: [
@@ -5505,7 +5524,7 @@
       },
       {
         original_title: 'Batman: Year One',
-        release_date: DateTime_27,
+        release_date: DateTime_28,
         title: 'Batman: Year One',
         backdrop_path: '/bNMw3onveTYU7PpLQRK0HQK8JRb.jpg',
         genre_ids: [
@@ -5524,7 +5543,7 @@
       },
       {
         original_title: 'Teenage Mutant Ninja Turtles',
-        release_date: DateTime_28,
+        release_date: DateTime_29,
         title: 'Teenage Mutant Ninja Turtles',
         backdrop_path: '/3eGlcdyxqEN57TtU8ypx52V4JMs.jpg',
         genre_ids: [
@@ -5542,7 +5561,7 @@
       },
       {
         original_title: 'Batman v Superman: Dawn of Justice',
-        release_date: DateTime_29,
+        release_date: DateTime_30,
         title: 'Batman v Superman: Dawn of Justice',
         backdrop_path: '/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg',
         genre_ids: [
@@ -5559,7 +5578,7 @@
       },
       {
         original_title: 'Batman: Assault on Arkham',
-        release_date: DateTime_30,
+        release_date: DateTime_31,
         title: 'Batman: Assault on Arkham',
         backdrop_path: '/bAM1hVZEQRo1ZujryQ47bOtxEe8.jpg',
         genre_ids: [
@@ -5576,37 +5595,20 @@
         media_type: 'movie',
       },
       {
-        original_title: 'Captain America: Civil War',
-        release_date: DateTime_31,
-        title: 'Captain America: Civil War',
-        backdrop_path: '/7FWlcZq3r6525LWOcvO9kNWurN1.jpg',
-        genre_ids: [
-          12,
-          28,
-          878
-        ],
-        original_language: 'en',
-        overview: 'Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.',
-        poster_path: '/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg',
-        vote_average: 7.4,
-        id: 271110,
-        media_type: 'movie',
-      },
-      {
-        original_title: 'Batman: Bad Blood',
+        original_title: 'Shazam!',
         release_date: DateTime_32,
-        title: 'Batman: Bad Blood',
-        backdrop_path: '/cjgQ0RUdAhzykPZycigoQlmaKlx.jpg',
+        title: 'Shazam!',
+        backdrop_path: '/qwgGtdlLMKYvT2tV8hLY22syRHN.jpg',
         genre_ids: [
-          16,
+          14,
           28,
-          878
+          35
         ],
         original_language: 'en',
-        overview: "Bruce Wayne is missing. Alfred covers for him while Nightwing and Robin patrol Gotham City in his stead and a new player, Batwoman, investigates Batman's disappearance.",
-        poster_path: '/r4lVThUiXLRiVrROt6RZT49BdjN.jpg',
-        vote_average: 7.1,
-        id: 366924,
+        overview: 'A boy is given the ability to become an adult superhero in times of need with a single magic word.',
+        poster_path: '/xnopI5Xtky18MPhK40cZAGAOVeV.jpg',
+        vote_average: 7.0,
+        id: 287947,
         media_type: 'movie',
       },
       {
@@ -5694,7 +5696,7 @@
         original_language: 'en',
         overview: "A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman's crime-fighting career as well as Bruce Wayne's personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.",
         poster_path: '/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg',
-        vote_average: 7.4,
+        vote_average: 7.3,
         id: 537056,
         media_type: 'movie',
       }
@@ -5741,10 +5743,26 @@
         media_type: 'movie',
       },
       {
-        original_title: 'Spider-Man 2',
+        original_title: 'Batman Returns',
         release_date: DateTime_38,
+        title: 'Batman Returns',
+        backdrop_path: '/moYfd709S8xnb8Od2yeG5VBt9Bp.jpg',
+        genre_ids: [
+          14,
+          28
+        ],
+        original_language: 'en',
+        overview: 'Having defeated the Joker, Batman now faces the Penguin—a warped and deformed individual who is intent on being accepted into Gotham society, with the help of Max Schreck, a crooked businessman, whom he coerces into helping him run for the position of Mayor of Gotham, while they both attempt to frame Batman in a different light. Batman must attempt to clear his name, all while also deciding just what must be done with the mysterious Catwoman slinking about.',
+        poster_path: '/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg',
+        vote_average: 6.8,
+        id: 364,
+        media_type: 'movie',
+      },
+      {
+        original_title: 'Spider-Man 2',
+        release_date: DateTime_39,
         title: 'Spider-Man 2',
-        backdrop_path: '/6al048Lat3eLVQOuKtc9h6Tu94d.jpg',
+        backdrop_path: '/mVnqWRyC7Qkg7eyLkko8aYBDxb8.jpg',
         genre_ids: [
           12,
           14,
@@ -5759,7 +5777,7 @@
       },
       {
         original_title: 'Spider-Man 3',
-        release_date: DateTime_39,
+        release_date: DateTime_40,
         title: 'Spider-Man 3',
         backdrop_path: '/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg',
         genre_ids: [
@@ -5776,7 +5794,7 @@
       },
       {
         original_title: 'The Amazing Spider-Man',
-        release_date: DateTime_40,
+        release_date: DateTime_41,
         title: 'The Amazing Spider-Man',
         backdrop_path: '/eaJwlzDiMC5k4kp766NO8yXnt7U.jpg',
         genre_ids: [
@@ -5786,16 +5804,16 @@
         ],
         original_language: 'en',
         overview: "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
-        poster_path: '/jIfkQNARYyERqRAq1p1c8xgePp4.jpg',
+        poster_path: '/dQ8TOCYgP9pzQvSb1cmaalYqdb5.jpg',
         vote_average: 6.6,
         id: 1930,
         media_type: 'movie',
       },
       {
         original_title: 'X-Men Origins: Wolverine',
-        release_date: DateTime_41,
+        release_date: DateTime_42,
         title: 'X-Men Origins: Wolverine',
-        backdrop_path: '/fUoXenTsrdUcgG0sLYbOBouvtTs.jpg',
+        backdrop_path: '/wvqdJLVh0mSblly7UnYFPEk04Wd.jpg',
         genre_ids: [
           12,
           28,
@@ -5804,49 +5822,49 @@
         ],
         original_language: 'en',
         overview: 'After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.',
-        poster_path: '/mQglrQzgZT0Oj9cQYPsLI8dsEqB.jpg',
+        poster_path: '/8TItaEDL9lRCVcGMkYFluceD2Od.jpg',
         vote_average: 6.2,
         id: 2080,
         media_type: 'movie',
       },
       {
-        original_title: 'Iron Man 2',
-        release_date: DateTime_42,
-        title: 'Iron Man 2',
-        backdrop_path: '/hCVQPB77eXBGh9abVdrWtKpKgkN.jpg',
+        original_title: 'Quantum of Solace',
+        release_date: DateTime_43,
+        title: 'Quantum of Solace',
+        backdrop_path: '/rtpwL5lFYg1SF0glIrlf8oZDzpb.jpg',
         genre_ids: [
           12,
           28,
-          878
+          53,
+          80
         ],
         original_language: 'en',
-        overview: "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
-        poster_path: '/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg',
-        vote_average: 6.8,
-        id: 10138,
+        overview: 'Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.',
+        poster_path: '/5BzOOL7zknsZSUeJwSa9kGuzHCR.jpg',
+        vote_average: 6.3,
+        id: 10764,
         media_type: 'movie',
       },
       {
-        original_title: 'Sherlock Holmes',
-        release_date: DateTime_43,
-        title: 'Sherlock Holmes',
-        backdrop_path: '/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg',
+        original_title: 'Watchmen',
+        release_date: DateTime_44,
+        title: 'Watchmen',
+        backdrop_path: '/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg',
         genre_ids: [
-          12,
           28,
-          80,
+          878,
           9648
         ],
         original_language: 'en',
-        overview: 'Eccentric consulting detective, Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.',
-        poster_path: '/momkKuWburNTqKBF6ez7rvhYVhE.jpg',
-        vote_average: 7.2,
-        id: 10528,
+        overview: 'In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger.',
+        poster_path: '/aZvOkdo203bm1kpcY0A0Tn074ER.jpg',
+        vote_average: 7.3,
+        id: 13183,
         media_type: 'movie',
       },
       {
         original_title: 'Star Trek',
-        release_date: DateTime_44,
+        release_date: DateTime_45,
         title: 'Star Trek',
         backdrop_path: '/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg',
         genre_ids: [
@@ -5862,8 +5880,25 @@
         media_type: 'movie',
       },
       {
+        original_title: 'Casino Royale',
+        release_date: DateTime_46,
+        title: 'Casino Royale',
+        backdrop_path: '/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg',
+        genre_ids: [
+          12,
+          28,
+          53
+        ],
+        original_language: 'en',
+        overview: "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+        poster_path: '/wmRTS3WrXRi8GJdpDae1NifYNwx.jpg',
+        vote_average: 7.5,
+        id: 36557,
+        media_type: 'movie',
+      },
+      {
         original_title: 'X-Men',
-        release_date: DateTime_45,
+        release_date: DateTime_47,
         title: 'X-Men',
         backdrop_path: '/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg',
         genre_ids: [
@@ -5873,14 +5908,14 @@
         ],
         original_language: 'en',
         overview: 'Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.',
-        poster_path: '/bRDAc4GogyS9ci3ow7UnInOcriN.jpg',
+        poster_path: '/hkoAUNLa0lOQ11apLUJ6Oh1EWID.jpg',
         vote_average: 7.0,
         id: 36657,
         media_type: 'movie',
       },
       {
         original_title: 'X2',
-        release_date: DateTime_46,
+        release_date: DateTime_48,
         title: 'X2',
         backdrop_path: '/loixNIKBURXfPcND4noz7E8FqCS.jpg',
         genre_ids: [
@@ -5891,14 +5926,14 @@
         ],
         original_language: 'en',
         overview: "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
-        poster_path: '/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg',
+        poster_path: '/mM5qSVdWlGkvALHhNIb6kW6D42Y.jpg',
         vote_average: 7.0,
         id: 36658,
         media_type: 'movie',
       },
       {
         original_title: 'X-Men: The Last Stand',
-        release_date: DateTime_47,
+        release_date: DateTime_49,
         title: 'X-Men: The Last Stand',
         backdrop_path: '/n2W6mzxEC6JqzvyYeZzysJUiTR9.jpg',
         genre_ids: [
@@ -5909,14 +5944,14 @@
         ],
         original_language: 'en',
         overview: "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-        poster_path: '/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg',
+        poster_path: '/9jDzVM003nH0NfQ57qMLHxcMQYU.jpg',
         vote_average: 6.4,
         id: 36668,
         media_type: 'movie',
       },
       {
         original_title: 'Skyfall',
-        release_date: DateTime_48,
+        release_date: DateTime_50,
         title: 'Skyfall',
         backdrop_path: '/hoQhlAskVNgLQhArnH7reWP4pUp.jpg',
         genre_ids: [
@@ -5927,30 +5962,13 @@
         original_language: 'en',
         overview: "When Bond's latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory, the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows - aided only by field agent, Eve - following a trail to the mysterious Silva, whose lethal and hidden motives have yet to reveal themselves.",
         poster_path: '/2pwwawlnti0BoluxFiksnVg5TZ7.jpg',
-        vote_average: 7.1,
+        vote_average: 7.2,
         id: 37724,
         media_type: 'movie',
       },
       {
-        original_title: 'The Hobbit: An Unexpected Journey',
-        release_date: DateTime_49,
-        title: 'The Hobbit: An Unexpected Journey',
-        backdrop_path: '/gioXMobK8vbD6bcTsjKYKfgacNt.jpg',
-        genre_ids: [
-          12,
-          14,
-          28
-        ],
-        original_language: 'en',
-        overview: 'Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.',
-        poster_path: '/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg',
-        vote_average: 7.3,
-        id: 49051,
-        media_type: 'movie',
-      },
-      {
         original_title: 'Man of Steel',
-        release_date: DateTime_50,
+        release_date: DateTime_51,
         title: 'Man of Steel',
         backdrop_path: '/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg',
         genre_ids: [
@@ -5968,7 +5986,7 @@
       },
       {
         original_title: 'X-Men: First Class',
-        release_date: DateTime_51,
+        release_date: DateTime_52,
         title: 'X-Men: First Class',
         backdrop_path: '/4Ky8OcB0F7x3PRZQIiFFZyf3eIX.jpg',
         genre_ids: [
@@ -5978,14 +5996,14 @@
         ],
         original_language: 'en',
         overview: 'Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.',
-        poster_path: '/6fUZkO41K9KrlZByePqzKdJQd45.jpg',
+        poster_path: '/5QId52kcNtbq6w2OS7smwTPFi2.jpg',
         vote_average: 7.3,
         id: 49538,
         media_type: 'movie',
       },
       {
         original_title: 'Mission: Impossible - Ghost Protocol',
-        release_date: DateTime_25,
+        release_date: DateTime_26,
         title: 'Mission: Impossible - Ghost Protocol',
         backdrop_path: '/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg',
         genre_ids: [
@@ -6001,8 +6019,26 @@
         media_type: 'movie',
       },
       {
+        original_title: 'Sherlock Holmes: A Game of Shadows',
+        release_date: DateTime_53,
+        title: 'Sherlock Holmes: A Game of Shadows',
+        backdrop_path: '/xxaFdlPEkVuMMgcbfrXECGGDMdz.jpg',
+        genre_ids: [
+          12,
+          28,
+          80,
+          9648
+        ],
+        original_language: 'en',
+        overview: 'There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.',
+        poster_path: '/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg',
+        vote_average: 7.1,
+        id: 58574,
+        media_type: 'movie',
+      },
+      {
         original_title: 'Looper',
-        release_date: DateTime_52,
+        release_date: DateTime_54,
         title: 'Looper',
         backdrop_path: '/4bAwGmE9Sl4FeXoHWVWLXkURHbe.jpg',
         genre_ids: [
@@ -6015,40 +6051,6 @@
         poster_path: '/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg',
         vote_average: 6.8,
         id: 59967,
-        media_type: 'movie',
-      },
-      {
-        original_title: 'Iron Man 3',
-        release_date: DateTime_53,
-        title: 'Iron Man 3',
-        backdrop_path: '/4TSqtluelcWByj8YZdqwzQVjI0O.jpg',
-        genre_ids: [
-          12,
-          28,
-          878
-        ],
-        original_language: 'en',
-        overview: "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
-        poster_path: '/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg',
-        vote_average: 6.9,
-        id: 68721,
-        media_type: 'movie',
-      },
-      {
-        original_title: 'Prometheus',
-        release_date: DateTime_54,
-        title: 'Prometheus',
-        backdrop_path: '/bgc28hV0Rxkw4RqtxzjsfY4vfqO.jpg',
-        genre_ids: [
-          12,
-          878,
-          9648
-        ],
-        original_language: 'en',
-        overview: 'A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.',
-        poster_path: '/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg',
-        vote_average: 6.4,
-        id: 70981,
         media_type: 'movie',
       }
     ],

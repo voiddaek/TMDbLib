@@ -31,7 +31,7 @@ namespace TMDbLibTests.JsonHelpers
         {
             VerifySettings = new VerifySettings();
             //VerifySettings.AutoVerify();
-            VerifySettings.IgnoreProperty<SearchMovie>(x => x.VoteCount, x => x.Popularity);
+            VerifySettings.IgnoreProperty<SearchMovie>(x => x.VoteCount, x => x.Popularity, x => x.VoteAverage);
             VerifySettings.AddExtraSettings(serializerSettings =>
             {
                 serializerSettings.ContractResolver = new DataSortingContractResolver(serializerSettings.ContractResolver);

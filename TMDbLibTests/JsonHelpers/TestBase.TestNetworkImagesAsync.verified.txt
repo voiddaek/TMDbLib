@@ -5,7 +5,6 @@
       aspect_ratio: 3.73134328358209,
       file_path: '/wwemzKWzjKYJFfCeiB57q3r4Bcm.png',
       height: 268,
-      vote_average: 5.312,
       width: 1000
     }
   ]

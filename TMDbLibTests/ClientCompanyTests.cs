@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
 using TMDbLib.Objects.Companies;
@@ -37,13 +38,19 @@ namespace TMDbLibTests
         [Fact]
         public async Task TestCompaniesExtrasExclusive()
         {
-            await TestMethodsHelper.TestGetExclusive(Methods, extras => TMDbClient.GetCompanyAsync( IdHelper.TwentiethCenturyFox, extras));
+            await TestMethodsHelper.TestGetExclusive(Methods, extras => TMDbClient.GetCompanyAsync(IdHelper.TwentiethCenturyFox, extras));
         }
 
         [Fact]
         public async Task TestCompaniesExtrasAllAsync()
         {
-            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetCompanyAsync(IdHelper.TwentiethCenturyFox, combined), async company => await Verify(company));
+            await TestMethodsHelper.TestGetAll(Methods, combined => TMDbClient.GetCompanyAsync(IdHelper.TwentiethCenturyFox, combined), async company =>
+            {
+                // Reduce testdata
+                company.Movies.Results = company.Movies.Results.OrderBy(s => s.Id).Take(1).ToList();
+
+                await Verify(company, settings => settings.IgnoreProperty(nameof(company.Movies.TotalPages), nameof(company.Movies.TotalResults)));
+            });
         }
 
         [Fact]
@@ -61,7 +68,7 @@ namespace TMDbLibTests
             SearchContainerWithId<SearchMovie> resp = await TMDbClient.GetCompanyMoviesAsync(IdHelper.TwentiethCenturyFox);
             SearchContainerWithId<SearchMovie> respPage2 = await TMDbClient.GetCompanyMoviesAsync(IdHelper.TwentiethCenturyFox, 2);
             SearchContainerWithId<SearchMovie> respItalian = await TMDbClient.GetCompanyMoviesAsync(IdHelper.TwentiethCenturyFox, "it");
-            
+
             Assert.NotEmpty(resp.Results);
             Assert.NotEmpty(respPage2.Results);
             Assert.NotEmpty(respItalian.Results);

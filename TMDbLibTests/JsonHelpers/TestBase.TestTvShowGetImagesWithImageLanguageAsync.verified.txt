@@ -11,7 +11,6 @@
     file_path: '/ggFHVNu6YYI5L9pCfOacjizRGt.jpg',
     height: 1800,
     iso_639_1: 'en',
-    vote_average: 5.522,
     width: 1200
   }
 }

@@ -5,14 +5,12 @@
       aspect_ratio: 1.777777777777778,
       file_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
       height: 1080,
-      vote_average: 5.3125,
       width: 1920
     },
     {
       aspect_ratio: 1.777777777777778,
       file_path: '/88Z0fMP8a88EpQWMCs1593G0ngu.jpg',
       height: 1080,
-      vote_average: 5.282738095238095,
       width: 1920
     },
     {

@@ -140,7 +140,6 @@
   overview: 'Brilliant physicist roommates Leonard and Sheldon meet their new neighbor Penny, who begins showing them that as much as they know about science, they know little about actual living.',
   production_code: '276023',
   still_path: '/rxWlBXZhGWhumbLB8gAHyyW3ITD.jpg',
-  vote_average: 7.015,
   id: 64766,
   season_number: 1,
   episode_number: 1

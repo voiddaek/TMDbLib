@@ -327,7 +327,6 @@
   overview: 'The entire Tanner clan comes together for a final reunion before the family home is sold, but parting turns out to be tougher than expected',
   production_code: '',
   still_path: '/kaDQaO55HHkcHAdf3UMLN7UqGp5.jpg',
-  vote_average: 8.296,
   id: 1151470,
   season_number: 1,
   episode_number: 1

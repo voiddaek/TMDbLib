@@ -10,7 +10,6 @@
       season_number: 1,
       show_id: 1396,
       still_path: '/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg',
-      vote_average: 7.926,
     }
   ]
 }

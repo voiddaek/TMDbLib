@@ -58,6 +58,9 @@ namespace TMDbLibTests.JsonHelpers
             return Verifier.Verify(obj, settings);
         }
 
+        /// <summary>
+        /// In order to keep test data stable, we sort all sets of data we come across.
+        /// </summary>
         class DataSortingContractResolver : IContractResolver
         {
             private readonly IContractResolver _innerResolver;
@@ -130,10 +133,10 @@ namespace TMDbLibTests.JsonHelpers
 
             private static bool IsSorted(IList list, IComparer comparer)
             {
-                for (var i = 1; i < list.Count; i++)
+                for (int i = 1; i < list.Count; i++)
                 {
-                    var a = list[i - 1];
-                    var b = list[i];
+                    object a = list[i - 1];
+                    object b = list[i];
 
                     if (comparer.Compare(a, b) > 0)
                         return false;
@@ -153,8 +156,8 @@ namespace TMDbLibTests.JsonHelpers
 
                 public int Compare(object x, object y)
                 {
-                    object? valX = _property.GetValue(x);
-                    object? valY = _property.GetValue(y);
+                    object valX = _property.GetValue(x);
+                    object valY = _property.GetValue(y);
 
                     return Comparer.Default.Compare(valX, valY);
                 }

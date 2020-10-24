@@ -376,6 +376,9 @@ namespace TMDbLib.Client
 
             RestResponse<PostReply> response = await req.Post<PostReply>(cancellationToken).ConfigureAwait(false);
 
+            if (response.StatusCode == HttpStatusCode.BadRequest)
+                return false;
+
             // status code 1 = "Success"
             // status code 12 = "The item/record was updated successfully" - Used when an item was previously rated by the user
             PostReply item = await response.GetDataObject().ConfigureAwait(false);

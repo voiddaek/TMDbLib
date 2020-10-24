@@ -205,6 +205,8 @@ namespace TMDbLib.Rest
 
                     switch (resp.StatusCode)
                     {
+                        case HttpStatusCode.BadRequest:
+                            return resp;
                         case (HttpStatusCode)429:
                             // The previous result was a ratelimit, read the Retry-After header and wait the allotted time
                             retryHeader = resp.Headers.RetryAfter;

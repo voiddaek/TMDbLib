@@ -395,7 +395,7 @@ namespace TMDbLibTests
 
             Assert.False(await TMDbClient.MovieSetRatingAsync(IdHelper.Avatar, 0));
 
-            Assert.False(await TMDbClient.MovieRemoveRatingAsync(IdHelper.Avatar));
+            Assert.True(await TMDbClient.MovieRemoveRatingAsync(IdHelper.Avatar));
         }
 
         [Fact]
